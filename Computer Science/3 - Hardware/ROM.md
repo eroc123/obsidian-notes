@@ -1,0 +1,4 @@
+- Non volatile memory (permanent)
+- Used to store data which computer needs to use when booting up (such as BIOS data)
+	- BIOS data tests computer hardware and locates the computer's OS for boot up.
+- Can only be read, cannot be written to or altered.

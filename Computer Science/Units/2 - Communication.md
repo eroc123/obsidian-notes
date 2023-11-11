@@ -1,0 +1,39 @@
+---
+tags:
+  - comsci/chapter-2
+  - syllabus
+---
+
+- Show understanding of the purpose and benefits of networking devices
+- Show [[LAN and WAN|understanding of the characteristics]] of a LAN (local area network) and a WAN (wide area network)
+- Explain the [[client-server]] and [[Peer to peer network|peer-to-peer models]] of networked computers
+	- Roles of the different computers within the network and subnetwork models
+	- Benefits and drawbacks of each mode
+	- Justify the use of a model for a given situation
+- Show understanding of [[thin-client]] and [[thick-client]] and the differences between them
+- Show understanding of the [[Bus topology|bus]], [[Star networks|star]], [[Mesh networks|mesh]] and [[Hybrid Networks|hybrid topologies]]
+	- Understand how packets are transmitted between two hosts for a given topology
+	- Justify the use of a topology for a given situation
+- Show understanding of [[Cloud storage|cloud computing]]
+	- Including the use of public and private clouds
+	- Benefits and drawbacks of cloud computing
+- Show understanding of the differences between and implications of the use of [[wireless and wired networks]] 
+	- Describe the characteristics of copper cable, fibre-optic cable, radio waves (including WiFi), microwaves, satellites
+- Describe the [[networking.canvas|hardware]] that is used to support a LAN
+	- Including [[networking.canvas|switch]], server, [[Network interface card (NIC)]], [[Network interface card (NIC)#Wireless Network Interface Card (WNIC)|Wireless Network Interface Card (WNIC)]] , [[Wireless Access Points]] , cables, [[networking.canvas|bridge]], [[Repeater]]
+- Describe the role and function of a [[Router]] in a network
+- Show understanding of Ethernet and how collisions are detected and avoided
+	- Including [[Carrier Sense Multiple Access - Collision Detection (CSMA-CD)]]
+- Show understanding of [[Bit streaming]]
+	- Methods of [[On demand vs real time bit streaming|bit streaming]], i.e. real-time and on-demand
+	- Importance of bit rates broadband speed on [[Bit streaming]]
+- Show understanding of the differences between the [[WWW vs Internet|World Wide Web (WWW) and the internet]]
+- Describe the hardware that is used to support the internet
+	- Including modems, [[PSTN]] (Public Switched Telephone Network), dedicated lines, cell phone network
+- Explain the use of [[IP address|IP addresses]] in the transmission of data over the internet
+	- format of an IP address including [[IP address#IPv4|IPv4]] and [[IP address#IPv6|IPv6]]
+	- use of [[IP address#Subnetting|subnetting]] in a network 
+	- how an IP address is associated with a device on a network 
+	- difference between a [[IP address#Public vs Private IPv4 address|public IP address and a private IP address]] and the implications for security
+	- difference between a [[IP address#Two types of IP addresses|static IP address and a dynamic IP address]]
+- Explain how a Uniform Resource Locator ([[URL]]) is used to locate a resource on the [[WWW vs Internet|World Wide Web (WWW)]] and the role of the [[IP address#DNS|Domain Name Service (DNS)]]

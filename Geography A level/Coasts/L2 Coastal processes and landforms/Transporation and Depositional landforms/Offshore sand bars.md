@@ -1,0 +1,2 @@
+- Are submerged or partially exposed ridges of sand created by waves offshore from the coast
+- ![[sand bar formation.png]]
