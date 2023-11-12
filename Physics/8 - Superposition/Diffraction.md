@@ -12,6 +12,8 @@ tags:
 ![[Pasted image 20231030085215.png]]
 A single slit causes an [[Interference and coherence]] pattern as most of the light photons travel straight though the middle of the gap, and loses less energy. However, the photons towards the edge gets diffracted by the gap, causing them to spread out. This alone doesn't cause the fringes, but as the photons diffract, they get diffracted by the other photons next to them, therefore causing the fringes.
 
+![[Drawing 2023-10-18 14.17.57.excalidraw]]
+
 A bright fringe occurs at P if  $S_2 P - S_1 P = n \lambda$
 For waves to be in phase and constructively interfere, the differnce in the distances travelled by the waves must be a whole number of the wavelength
 
