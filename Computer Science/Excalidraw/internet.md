@@ -12,993 +12,119 @@ Internet ^31ljPt6j
 
 %%
 # Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
-	"elements": [
-		{
-			"id": "NT9RERCOJ9AYi6BoPxG1n",
-			"type": "freedraw",
-			"x": -65.75,
-			"y": 2.75,
-			"width": 363,
-			"height": 243,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1882251874,
-			"version": 219,
-			"versionNonce": 878000894,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695022995165,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1
-				],
-				[
-					-1,
-					2
-				],
-				[
-					-3,
-					2
-				],
-				[
-					-6,
-					4
-				],
-				[
-					-11,
-					4
-				],
-				[
-					-15,
-					6
-				],
-				[
-					-18,
-					7
-				],
-				[
-					-20,
-					7
-				],
-				[
-					-25,
-					7
-				],
-				[
-					-28,
-					4
-				],
-				[
-					-31,
-					0
-				],
-				[
-					-34,
-					-3
-				],
-				[
-					-37,
-					-7
-				],
-				[
-					-41,
-					-13
-				],
-				[
-					-43,
-					-17
-				],
-				[
-					-44,
-					-24
-				],
-				[
-					-44,
-					-29
-				],
-				[
-					-44,
-					-33
-				],
-				[
-					-44,
-					-36
-				],
-				[
-					-43,
-					-39
-				],
-				[
-					-40,
-					-42
-				],
-				[
-					-36,
-					-44
-				],
-				[
-					-32,
-					-46
-				],
-				[
-					-28,
-					-47
-				],
-				[
-					-23,
-					-48
-				],
-				[
-					-19,
-					-48
-				],
-				[
-					-16,
-					-48
-				],
-				[
-					-17,
-					-48
-				],
-				[
-					-18,
-					-48
-				],
-				[
-					-22,
-					-48
-				],
-				[
-					-27,
-					-48
-				],
-				[
-					-33,
-					-48
-				],
-				[
-					-40,
-					-53
-				],
-				[
-					-49,
-					-63
-				],
-				[
-					-60,
-					-76
-				],
-				[
-					-68,
-					-92
-				],
-				[
-					-74,
-					-113
-				],
-				[
-					-74,
-					-119
-				],
-				[
-					-74,
-					-124
-				],
-				[
-					-72,
-					-128
-				],
-				[
-					-68,
-					-131
-				],
-				[
-					-63,
-					-132
-				],
-				[
-					-59,
-					-133
-				],
-				[
-					-54,
-					-134
-				],
-				[
-					-49,
-					-135
-				],
-				[
-					-46,
-					-135
-				],
-				[
-					-43,
-					-135
-				],
-				[
-					-41,
-					-134
-				],
-				[
-					-39,
-					-131
-				],
-				[
-					-38,
-					-128
-				],
-				[
-					-38,
-					-129
-				],
-				[
-					-42,
-					-138
-				],
-				[
-					-44,
-					-149
-				],
-				[
-					-45,
-					-163
-				],
-				[
-					-45,
-					-175
-				],
-				[
-					-43,
-					-186
-				],
-				[
-					-39,
-					-199
-				],
-				[
-					-33,
-					-211
-				],
-				[
-					-29,
-					-214
-				],
-				[
-					-25,
-					-216
-				],
-				[
-					-22,
-					-217
-				],
-				[
-					-18,
-					-218
-				],
-				[
-					-15,
-					-218
-				],
-				[
-					-11,
-					-218
-				],
-				[
-					-6,
-					-215
-				],
-				[
-					1,
-					-207
-				],
-				[
-					6,
-					-200
-				],
-				[
-					9,
-					-194
-				],
-				[
-					10,
-					-191
-				],
-				[
-					10,
-					-190
-				],
-				[
-					10,
-					-189
-				],
-				[
-					10,
-					-194
-				],
-				[
-					15,
-					-201
-				],
-				[
-					23,
-					-209
-				],
-				[
-					32,
-					-214
-				],
-				[
-					39,
-					-218
-				],
-				[
-					45,
-					-218
-				],
-				[
-					49,
-					-221
-				],
-				[
-					53,
-					-221
-				],
-				[
-					59,
-					-221
-				],
-				[
-					61,
-					-219
-				],
-				[
-					64,
-					-215
-				],
-				[
-					65,
-					-212
-				],
-				[
-					66,
-					-208
-				],
-				[
-					66,
-					-205
-				],
-				[
-					66,
-					-203
-				],
-				[
-					66,
-					-202
-				],
-				[
-					66,
-					-201
-				],
-				[
-					65,
-					-202
-				],
-				[
-					65,
-					-206
-				],
-				[
-					66,
-					-211
-				],
-				[
-					79,
-					-219
-				],
-				[
-					90,
-					-224
-				],
-				[
-					104,
-					-225
-				],
-				[
-					122,
-					-224
-				],
-				[
-					142,
-					-219
-				],
-				[
-					157,
-					-212
-				],
-				[
-					164,
-					-207
-				],
-				[
-					167,
-					-204
-				],
-				[
-					169,
-					-201
-				],
-				[
-					171,
-					-196
-				],
-				[
-					171,
-					-194
-				],
-				[
-					171,
-					-190
-				],
-				[
-					169,
-					-188
-				],
-				[
-					168,
-					-188
-				],
-				[
-					167,
-					-188
-				],
-				[
-					166,
-					-188
-				],
-				[
-					166,
-					-189
-				],
-				[
-					169,
-					-192
-				],
-				[
-					175,
-					-194
-				],
-				[
-					185,
-					-194
-				],
-				[
-					201,
-					-191
-				],
-				[
-					217,
-					-183
-				],
-				[
-					234,
-					-172
-				],
-				[
-					238,
-					-167
-				],
-				[
-					238,
-					-163
-				],
-				[
-					238,
-					-160
-				],
-				[
-					238,
-					-158
-				],
-				[
-					238,
-					-156
-				],
-				[
-					236,
-					-154
-				],
-				[
-					232,
-					-151
-				],
-				[
-					228,
-					-150
-				],
-				[
-					224,
-					-149
-				],
-				[
-					223,
-					-148
-				],
-				[
-					222,
-					-148
-				],
-				[
-					226,
-					-148
-				],
-				[
-					240,
-					-146
-				],
-				[
-					259,
-					-140
-				],
-				[
-					274,
-					-133
-				],
-				[
-					284,
-					-127
-				],
-				[
-					288,
-					-123
-				],
-				[
-					289,
-					-118
-				],
-				[
-					289,
-					-109
-				],
-				[
-					289,
-					-98
-				],
-				[
-					289,
-					-90
-				],
-				[
-					289,
-					-85
-				],
-				[
-					289,
-					-84
-				],
-				[
-					286,
-					-82
-				],
-				[
-					281,
-					-83
-				],
-				[
-					274,
-					-88
-				],
-				[
-					269,
-					-92
-				],
-				[
-					266,
-					-93
-				],
-				[
-					266,
-					-94
-				],
-				[
-					266,
-					-95
-				],
-				[
-					270,
-					-95
-				],
-				[
-					277,
-					-86
-				],
-				[
-					284,
-					-73
-				],
-				[
-					287,
-					-61
-				],
-				[
-					282,
-					-43
-				],
-				[
-					276,
-					-35
-				],
-				[
-					267,
-					-29
-				],
-				[
-					256,
-					-24
-				],
-				[
-					242,
-					-21
-				],
-				[
-					230,
-					-21
-				],
-				[
-					220,
-					-21
-				],
-				[
-					213,
-					-21
-				],
-				[
-					208,
-					-21
-				],
-				[
-					204,
-					-21
-				],
-				[
-					204,
-					-22
-				],
-				[
-					207,
-					-22
-				],
-				[
-					208,
-					-23
-				],
-				[
-					209,
-					-23
-				],
-				[
-					210,
-					-23
-				],
-				[
-					211,
-					-20
-				],
-				[
-					211,
-					-14
-				],
-				[
-					209,
-					-8
-				],
-				[
-					206,
-					-2
-				],
-				[
-					203,
-					1
-				],
-				[
-					201,
-					2
-				],
-				[
-					198,
-					2
-				],
-				[
-					193,
-					2
-				],
-				[
-					182,
-					-2
-				],
-				[
-					164,
-					-14
-				],
-				[
-					160,
-					-19
-				],
-				[
-					159,
-					-20
-				],
-				[
-					158,
-					-18
-				],
-				[
-					157,
-					-14
-				],
-				[
-					154,
-					-8
-				],
-				[
-					150,
-					-1
-				],
-				[
-					145,
-					3
-				],
-				[
-					137,
-					8
-				],
-				[
-					124,
-					13
-				],
-				[
-					118,
-					14
-				],
-				[
-					113,
-					14
-				],
-				[
-					107,
-					8
-				],
-				[
-					101,
-					4
-				],
-				[
-					98,
-					1
-				],
-				[
-					97,
-					1
-				],
-				[
-					97,
-					0
-				],
-				[
-					97,
-					-1
-				],
-				[
-					96,
-					-1
-				],
-				[
-					95,
-					-1
-				],
-				[
-					93,
-					3
-				],
-				[
-					88,
-					10
-				],
-				[
-					82,
-					13
-				],
-				[
-					75,
-					14
-				],
-				[
-					66,
-					16
-				],
-				[
-					58,
-					16
-				],
-				[
-					50,
-					16
-				],
-				[
-					42,
-					15
-				],
-				[
-					36,
-					12
-				],
-				[
-					31,
-					8
-				],
-				[
-					29,
-					7
-				],
-				[
-					28,
-					7
-				],
-				[
-					27,
-					8
-				],
-				[
-					26,
-					11
-				],
-				[
-					23,
-					13
-				],
-				[
-					19,
-					16
-				],
-				[
-					15,
-					18
-				],
-				[
-					10,
-					18
-				],
-				[
-					4,
-					18
-				],
-				[
-					-6,
-					14
-				],
-				[
-					-14,
-					12
-				],
-				[
-					-21,
-					10
-				],
-				[
-					-22,
-					10
-				],
-				[
-					-23,
-					9
-				],
-				[
-					-23,
-					9
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-23,
-				9
-			]
-		},
-		{
-			"id": "31ljPt6j",
-			"type": "text",
-			"x": -12.75,
-			"y": -110.25,
-			"width": 82.65992736816406,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 557363106,
-			"version": 35,
-			"versionNonce": 1087024318,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695023001107,
-			"link": null,
-			"locked": false,
-			"text": "Internet",
-			"rawText": "Internet",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "Internet",
-			"lineHeight": 1.25
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 327.25,
-		"scrollY": 480.75,
-		"zoom": {
-			"value": 1
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+```compressed-json
+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
+
+
 ```
 %%
