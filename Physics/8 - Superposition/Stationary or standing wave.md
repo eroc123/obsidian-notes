@@ -9,3 +9,6 @@ tags:
 - Formed in a set up when waves produced get reflected off a hard surface and hence the reflected wave interferes with the new waves being produced![[standing wave.jpg]]
 
 ![[Drawing 2023-11-13 18.16.38.excalidraw.svg]]
+Waves on a string will always behave according to the first diagram, as both sides are fixed
+
+For 
