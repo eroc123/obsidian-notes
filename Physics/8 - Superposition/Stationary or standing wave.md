@@ -8,3 +8,4 @@ tags:
 	- Makes it look like the wave is "standing still"
 - Formed in a set up when waves produced get reflected off a hard surface and hence the reflected wave interferes with the new waves being produced![[standing wave.jpg]]
 
+![[Drawing 2023-11-13 18.16.38.excalidraw.svg]]
