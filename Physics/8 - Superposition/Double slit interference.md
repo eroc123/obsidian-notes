@@ -24,6 +24,9 @@ For destructive interference at P the waves must be 180 degrees out of phase
 
 
 ![[Pasted image 20231018143147.png]]
+For constructive interference at P the waves are in phase $S_1P - S_2Pm \lambda$
+For destructive interference at P the waves are 
+
 Point Q on like $S_1 P$ is such that $QP = S_2P$
 $\therefore$ the path difference is shown by $S_1Q$
 
