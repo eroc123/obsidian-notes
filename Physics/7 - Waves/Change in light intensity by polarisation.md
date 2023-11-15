@@ -11,4 +11,4 @@ Polarizer effects both the intensity and the polarization of a beam of light
 
 when the second polarizer is rotated at an angle of $\theta$ we can use the formula $I_f = I_i cos^2\theta$ 
 
-The a
+The angle theta is the angle of the slit compared to the orginal slit angle
