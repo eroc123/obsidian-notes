@@ -3,7 +3,7 @@ tags:
   - physics
   - physics/chapter-8
 ---
-
+ 
 #### In the case of light interference
 When two slits are illuminated they produce two coherent sets of waves. These produce a characteristic pattern when they shine onto a white screen.
 
