@@ -1,4 +1,7 @@
-
+---
+tags:
+  - comsci/chapter-5
+---
 
 - Errors during the execution of a program can occur due to bugs
     
