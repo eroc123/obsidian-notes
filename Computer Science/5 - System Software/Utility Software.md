@@ -9,4 +9,4 @@
 - Disk defragger
 	- Finds individual files (on a HDD) and moves them to the same contiguous block on the HDD
 	- For example, if there are scattered movie files on the disk, they will be moved to the same physical location 
-- System cleanup
+	- System cleanup
