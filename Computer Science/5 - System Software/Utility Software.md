@@ -1,4 +1,4 @@
-- Utility software is designed to help analyze, configure, optimize or maintain a computer.
+**Utility software is designed to help analyze, configure, optimize or maintain a computer.**
 - Disk Repair
 	- To check for problems and inconsistencies on a disk and fix them if they are found
 - Encryption
