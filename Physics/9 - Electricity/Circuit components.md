@@ -8,4 +8,4 @@ A voltmeter measure the potential difference between two points. It is always co
 
 # Cell
 
-A 
+A cell provides voltage to a circuit. This pushes the charge around the circuit
