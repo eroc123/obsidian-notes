@@ -2,15 +2,17 @@
 tags:
   - physics/chapter-9
 ---
-## Ammeter
+# Ammeter
+
+^ddc952
 
 Ammeter measures the current through part of the circuit. It is always connected in series.
-[[Circuit components%]]
-## Voltmeter
+[[Circuit components#Ammeter]]
+# Voltmeter
 
 A voltmeter measure the potential difference between two points. It is always connected in parallel.
 
-## Cell
+# Cell
 
 A cell provides voltage to a circuit. This pushes the charge around the circuit.
 
