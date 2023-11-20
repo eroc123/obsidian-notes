@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e899bdbe2a6dbe49","x":-320,"y":-240,"width":400,"height":400,"type":"group","label":"OS Tasks"},
+		{"id":"c15dc82e42c616f9","x":-342,"y":-796,"width":400,"height":400,"type":"group","label":"User-system Interface"}
+	],
+	"edges":[]
+}
