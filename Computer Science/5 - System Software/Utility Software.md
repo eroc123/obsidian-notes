@@ -2,6 +2,7 @@
 - Disk Repair
 	- To check for problems and inconsistencies on a disk and fix them if they are found
 - Encryption
+	- 
 - File Compression
 	- To reduce the file size of files
 	- Increases speed that files can be loaded at 
