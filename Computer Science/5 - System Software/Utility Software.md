@@ -1,1 +1,2 @@
-- Utility software 
+- Utility software is designed to help analyze, configure, optimize or maintain a computer.
+- 
