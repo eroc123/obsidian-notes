@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"e899bdbe2a6dbe49","x":-320,"y":-240,"width":400,"height":400,"type":"group","label":"OS Tasks"},
-		{"id":"c15dc82e42c616f9","x":-342,"y":-796,"width":400,"height":400,"type":"group","label":"User-system Interface"}
+		{"id":"e899bdbe2a6dbe49","type":"group","x":-320,"y":-240,"width":400,"height":400,"color":"4","label":"OS Tasks"},
+		{"id":"c15dc82e42c616f9","type":"group","x":-342,"y":-796,"width":252,"height":316,"label":"User-system Interface"},
+		{"id":"e32100dfd439cc9d","type":"text","text":"Command Line Interface","x":-340,"y":-800,"width":250,"height":60},
+		{"id":"9fb86d89cec117e3","type":"text","text":"Graphical User Interface","x":-340,"y":-740,"width":250,"height":60},
+		{"id":"58b81b951edb037b","type":"text","text":"Allows user to interact with the system","x":-340,"y":-680,"width":250,"height":60}
 	],
 	"edges":[]
 }
