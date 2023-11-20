@@ -1,3 +1,7 @@
+---
+tags:
+  - physics/chapter-9
+---
 - Potential difference across a component is defined as **energy transferred per unit charge flowing from one point to another**
 - Measured in V ($JC^{-1}$) Joules per coloumb
 	- Essentially measures the amount of energy transferred per unit charge

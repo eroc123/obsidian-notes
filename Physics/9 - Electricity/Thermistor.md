@@ -1,3 +1,7 @@
+---
+tags:
+  - physics/chapter-9
+---
 
 At constant T, it gives a straight line
 

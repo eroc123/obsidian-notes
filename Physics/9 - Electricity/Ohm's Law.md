@@ -1,3 +1,7 @@
+---
+tags:
+  - physics/chapter-9
+---
 - For a conductor at a constant temperature, the **current** through it is **proportional** to the **potential difference** across it
 
 
