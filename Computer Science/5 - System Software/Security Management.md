@@ -1,4 +1,7 @@
-
+---
+tags:
+  - comsci/chapter-5
+---
 
 - Set up user accounts
     
