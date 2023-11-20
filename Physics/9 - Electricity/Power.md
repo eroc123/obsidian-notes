@@ -6,7 +6,7 @@ tags:
 	- Potential difference is the work done per unit charge (V = W/Q)
 	- Current is the rate of flow of charge (I = Q/t)
 	- **Derive:**
-		- P = QV/t
+		- $P = QV/t$
 		- It=Q
 		- P=ItV/t
 		- P=IV
