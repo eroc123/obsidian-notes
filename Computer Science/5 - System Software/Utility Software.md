@@ -4,6 +4,8 @@
 - File Compression
 - Formatter
 - Backup Software
+	- Makes copies of files at regular intervals
+	- 
 - Antivirus
 - Disk defragger
 	- Finds fragmented files (on a HDD) and moves the same type of files onto the same physical location on the disk. 
