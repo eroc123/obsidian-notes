@@ -1,8 +1,12 @@
 - Utility software is designed to help analyze, configure, optimize or maintain a computer.
 - Disk Repair
+	- To check for problems and inconsistencies on a disk and fix them if they are found
 - Encryption
 - File Compression
-- Formatter
+	- To reduce the file size of files
+	- Increases speed that files can be loaded at 
+- Disk Formatter
+	- 
 - Backup Software
 	- Makes copies of files at regular intervals so that if it is lost or corrupted it can be recovered
 - Antivirus
