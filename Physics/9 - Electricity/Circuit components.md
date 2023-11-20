@@ -21,3 +21,7 @@ A diode only allows current to flow in one direction. (In the way the triangle p
 # Variable resistor
 
 A resistor that's value can easily be changed
+
+# Thermistor
+
+The resistance of a thermistor decrease as the temperature increase. (Can also be the other way round)
