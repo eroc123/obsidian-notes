@@ -13,3 +13,7 @@ A cell provides voltage to a circuit. This pushes the charge around the circuit.
 # Lamp
 
 The symbol for an indicator or any light source is the same (not including a light emitting diode)
+
+# Diode
+
+A diode only allows currect to flow in one direction. (In the way the trian)
