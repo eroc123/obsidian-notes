@@ -1,3 +1,7 @@
+---
+tags:
+  - comsci/chapter-5
+---
 
 - Provide file naming conventions
     

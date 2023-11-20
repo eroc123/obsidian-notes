@@ -1,3 +1,8 @@
+---
+tags:
+  - comsci/chapter-5
+---
+
 - Provide memory protection, preventing a process accessing memory not allocated to it
     
 - Implement memory organisation schemes such as segmentation and paging
