@@ -1,3 +1,7 @@
+---
+tags:
+  - physics/chapter-9
+---
 
 For a filament lamp, as the voltage increase, so does the current.
 
