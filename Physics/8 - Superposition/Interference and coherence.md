@@ -1,5 +1,6 @@
 ---
 tags:
+  - physics
   - physics/chapter-8
 ---
 

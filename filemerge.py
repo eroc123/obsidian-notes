@@ -1,10 +1,10 @@
 import os
 
 print(os.getcwd())
-target = open(".\\Export\\coastsL2.md", "w+")
+target = open(".\\Export\\urbanL2.md", "w+")
 
 f=[]
-filePath = ".\\Geography A level\\Coasts\\L2 - Coastal processes and landforms"
+filePath = ".\\Geography A level\\urban\\L2 - Transport Issues"
 
 Walk = os.walk(filePath,topdown=True)
 layer = 2

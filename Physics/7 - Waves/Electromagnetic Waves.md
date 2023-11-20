@@ -20,4 +20,3 @@ tags:
 | Ultraviolet | $4 \times 10^{-7}$  to  $1 \times 10^{-8}$   | $7.5 \times 10^{14}$ to $3 \times 10^{16}$   |
 | X-rays      | $1 \times 10^{-8}$  to  $4 \times 10^{-13}$  | $3 \times 10^{16}$  to $7.5 \times 10^{20}$  |
 | Gamma rays  | $1 \times 10^{-10}$  to  $1 \times 10^{-16}$ | $3 \times 10^{18}$  to $3 \times 10^{24}$    |
-

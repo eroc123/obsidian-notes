@@ -1,7 +1,3 @@
----
-tags:
-  - physics/chapter-9
----
 
 ![[Metallic Conductor vs Semiconductor Diode.png]]
 ![[Filament Lamp.png]]

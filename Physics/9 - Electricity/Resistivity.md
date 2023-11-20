@@ -1,7 +1,3 @@
----
-tags:
-  - physics/chapter-9
----
 - All materials have **some resistance** to the flow of charge.
 - As free electrons move through a metal wire, they collide with ions which get in their way - some or all kinetic energy of electrons get transferred on collision
 ![[resistivity.png]]

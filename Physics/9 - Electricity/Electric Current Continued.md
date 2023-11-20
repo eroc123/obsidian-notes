@@ -1,8 +1,3 @@
----
-tags:
-  - physics/chapter-9
----
-
 - $Q = It$ where Q is charge, I is current and t is time, all in standard base units
 
 #### Calculating Current in a Current Carrying Conductor 

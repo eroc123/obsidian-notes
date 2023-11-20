@@ -12,7 +12,7 @@ tags:
 
 #### Process 
 
-- If waves are of the same type, regardless of amplitude
+- If waves are of the same type, regardless of amplitude or frequency
 - If the waves are of the same [[polarisation]]
 
 - If two waves are in **phase**, the relative effect on amplitude increases (the amplitude of the two waves are added)

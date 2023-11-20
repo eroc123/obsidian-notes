@@ -14,8 +14,8 @@ tags:
 **Path difference formulas:**
 
 d (path difference) can be calculated by finding the difference between $s_1$ path distance and $s_2$ path distance
-- $d=n\lambda$ where d is the path difference **IF** the waves are doing constructive interference
-- $d=(n+1/2)\lambda$ where d is the path difference **IF** the waves are doing destructive interference
+- $d=n\lambda$ where d is the path difference **IF** the waves are doing constructive intereference
+- $d=(n+1/2)\lambda$ where d is the path difference **IF** the waves are doing destructive intereference
 ![[path difference.png]]
 n is the order of the maxima/minima, with n=0 taken at the center
 at n=1, the path difference is $1\lambda$, at n=2, the path difference is $2\lambda$ and respectively.
