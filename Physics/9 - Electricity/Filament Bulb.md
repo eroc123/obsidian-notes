@@ -1,6 +1,7 @@
 
-For a filament lamp, as the voltage increase, so does the current
+For a filament lamp, as the voltage increase, so does the current.
 
-But the increased current raises the temperature of the filament bulb which also increases the resistance
+But the increased current raises the temperature of the filament bulb which also increases the resistance.
 
-This is why the curve bends towar the 
+This is why the curve bends toward the end as it is increasingly difficult for move current to flow.
+![[Drawing 2023-11-20 09.08.45.excalidraw.svg]]
