@@ -1,4 +1,4 @@
 
 At constant T, it gives a straight line
 
-THe higher T is, the gre
+The higher T is, the greater the gradient of the line as the resistance falls with increasing T
