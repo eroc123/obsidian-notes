@@ -5,8 +5,8 @@
 		{"id":"e32100dfd439cc9d","type":"text","text":"Command Line Interface","x":-340,"y":-800,"width":250,"height":60,"color":"2"},
 		{"id":"9fb86d89cec117e3","type":"text","text":"Graphical User Interface","x":-340,"y":-740,"width":250,"height":60,"color":"1"},
 		{"id":"58b81b951edb037b","type":"text","text":"Allows user to interact with the system","x":-340,"y":-680,"width":250,"height":60,"color":"4"},
-		{"id":"2d5d2033ee11965e","type":"file","file":"CLI.png","x":20,"y":-842,"width":400,"height":222},
-		{"id":"13851c7628556dc6","x":-840,"y":-820,"width":400,"height":200,"type":"file","file":"GUI.png"}
+		{"id":"2d5d2033ee11965e","type":"file","file":"Computer Science/Images/CLI.png","x":20,"y":-842,"width":400,"height":222},
+		{"id":"13851c7628556dc6","type":"file","file":"Computer Science/Images/GUI.png","x":-840,"y":-820,"width":400,"height":200}
 	],
 	"edges":[
 		{"id":"ed0135ddb58327c3","fromNode":"e32100dfd439cc9d","fromSide":"right","toNode":"2d5d2033ee11965e","toSide":"left","color":"2"},
