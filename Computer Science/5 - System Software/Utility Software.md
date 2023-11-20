@@ -6,7 +6,7 @@
 	- To reduce the file size of files
 	- Increases speed that files can be loaded at 
 - Disk Formatter
-	- 
+	- Initialize a disk for use or reformat a previously used disk by partitioning the hard drive into logical drives and set up the file system.
 - Backup Software
 	- Makes copies of files at regular intervals so that if it is lost or corrupted it can be recovered
 - Antivirus
