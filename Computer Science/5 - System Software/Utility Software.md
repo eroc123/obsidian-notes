@@ -1,0 +1,10 @@
+- Utility software is designed to help analyze, configure, optimize or maintain a computer.
+- Disk Repair
+- Encryption
+- File Compression
+- Formatter
+- Backup Software
+- Antivirus
+- Disk defragger
+	- Finds fragmented files (on a HDD), categorizes them and then moves 
+- System cleanup
