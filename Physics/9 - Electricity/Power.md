@@ -2,12 +2,12 @@
 tags:
   - physics/chapter-9
 ---
-- Power is the rate of work being done (P=W/t)
-	- Potential difference is the work done per unit charge (V = W/Q)
-	- Current is the rate of flow of charge (I = Q/t)
+- Power is the rate of [[Work Done|work being done]] ($P=W/t$)
+	- Potential difference is the work done per unit [[charge|charge]] ($V = W/Q$)
+	- Current is the rate of flow of charge ($I = Q/t$)
 	- **Derive:**
 		- $P = QV/t$
-		- It=Q
-		- P=ItV/t
-		- P=IV
-- V = IR can also be used to express P=IV in terms of R
+		- $It=Q$
+		- $P=ItV/t$
+		- $P=IV$
+- $V = IR$ can also be used to express $P=IV$ in terms of $R$
