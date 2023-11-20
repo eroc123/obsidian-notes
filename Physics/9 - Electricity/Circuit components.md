@@ -25,3 +25,7 @@ A resistor that's value can easily be changed
 # Thermistor
 
 The resistance of a thermistor decrease as the temperature increase. (Can also be the other way round)
+
+# Light Dependent Resistor
+
+A
