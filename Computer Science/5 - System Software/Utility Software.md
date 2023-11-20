@@ -6,5 +6,6 @@
 - Backup Software
 - Antivirus
 - Disk defragger
-	- Finds fragmented files (on a HDD), categorizes them and then moves 
+	- Finds fragmented files (on a HDD) and moves the same type of files onto the same physical location on the disk. 
+	- For example, if there are scattered movie files on the disk, they will be moved to the same physical loaction 
 - System cleanup
