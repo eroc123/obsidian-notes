@@ -1,3 +1,6 @@
+---
+tags:
+---
 # Ammeter
 
 Ammeter measures the current through part of the circuit. It is always connected in series.
@@ -28,4 +31,4 @@ The resistance of a thermistor decrease as the temperature increase. (Can also b
 
 # Light Dependent Resistor
 
-A
+An LDR is a light dependent resistor. Its resistance decreases as the amount of light falling on it increases
