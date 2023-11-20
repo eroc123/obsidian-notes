@@ -17,3 +17,7 @@ The symbol for an indicator or any light source is the same (not including a lig
 # Diode
 
 A diode only allows current to flow in one direction. (In the way the triangle points) The diode has a very high resistance in the reverse direction . (For LED add the two little arrows)
+
+# Variable resistor
+
+A resistor that's value can easily be changed
