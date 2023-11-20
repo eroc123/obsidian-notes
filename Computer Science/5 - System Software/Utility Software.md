@@ -10,7 +10,7 @@
 - Backup Software
 	- Makes copies of files at regular intervals so that if it is lost or corrupted it can be recovered
 - Antivirus
-- Disk defragger
+- Disk defragged
 	- Finds individual files (on a HDD) and moves them to the same contiguous block on the HDD
 	- For example, if there are scattered movie files on the disk, they will be moved to the same physical location 
-	- System cleanup
+	- This allows files to be loaded faster (as the actuator arm does not have to move as much to get to the correct)
