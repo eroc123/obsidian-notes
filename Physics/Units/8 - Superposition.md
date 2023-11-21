@@ -7,8 +7,8 @@ tags:
 
 1. [[Stationary Wave Formation|Stationary Waves]]
 	1. explain and use the principle of [[superposition]]
-	2. show an understanding of experiments that demonstrate [[stationary waves]] using [[Electromagnetic Waves|microwaves]], stretched strings and air columns (it will be assumed that end corrections are negligible; knowledge of the concept of end corrections is not required)
-	3. explain the formation of a stationary wave using a graphical method, and identify nodes and antinodes
+	2. show an understanding of experiments that demonstrate [[Stationary or standing wave|stationary waves]] using [[Electromagnetic Waves|microwaves]], stretched strings and air columns (it will be assumed that end corrections are negligible; knowledge of the concept of end corrections is not required)
+	3. explain the [[Stationary Wave Formation|formation of a stationary]] wave using a graphical method, and identify nodes and antinodes
 	4. understand how wavelength may be determined from the positions of nodes or antinodes of a stationary wave
 2. [[Diffraction]]
 	1. explain the meaning of the term diffraction
