@@ -4,4 +4,7 @@ Normally materials have some resistance.
 - But superconductors can be cooled below a transition temperature below which the resistivity disappears.
 - This means no energy is lost as heat energy.
 - For metals the transition temp is about 10K (-263 C).
-- 
+
+### Uses
+- Power cables that can transmit electricity with no loss of energy
+- Really strong e
