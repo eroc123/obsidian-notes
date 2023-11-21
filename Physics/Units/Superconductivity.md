@@ -14,3 +14,6 @@ tags:
 - Really strong electromagnets that don't need a constant power source (e.g. Maglev trains).
 - Electronic circuits that work really fast.
 
+Low temperatyre have to be maintained, which is expensive
+
+All superconductors have a critical temperature above 
