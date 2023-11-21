@@ -20,4 +20,4 @@ tags:
 	4. recall and use λ = ax / D for double-slit interference using light
 4. The diffraction grating
 	1. recall and use d sin θ = nλ
-	2. describe the use of a [[diff|diffraction grating]] to determine the wavelength of light (the structure and use of the spectrometer are not included)
+	2. describe the use of a [[Diffraction gratings|diffraction grating]] to determine the wavelength of light (the structure and use of the spectrometer are not included)
