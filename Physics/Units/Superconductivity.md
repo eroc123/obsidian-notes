@@ -7,4 +7,5 @@ Normally materials have some resistance.
 
 ### Uses
 - Power cables that can transmit electricity with no loss of energy
-- Really strong e
+- Really strong electromagnets that don't need a constant power source (e.g. Maglev trains).
+- Electronic circuits that work really fast.
