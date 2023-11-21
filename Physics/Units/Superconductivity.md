@@ -18,3 +18,4 @@ Low temperature have to be maintained, which is expensive
 
 All superconductors have a critical temperature above which the phenomenon stops.
 
+![[Drawing 2023-11-21 12.09.50.excalidraw.svg]]
