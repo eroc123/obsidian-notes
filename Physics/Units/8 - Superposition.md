@@ -13,11 +13,11 @@ tags:
 2. Diffraction
 	1. explain the meaning of the term [[diffraction]]
 	2. show an understanding of experiments that demonstrate diffraction including the qualitative effect of the gap width relative to the wavelength of the wave; for example diffraction of water waves in a ripple tank
-3. [[Interference and coherence|Interference]]
-	1. understand the terms interference and coherence
-	2. show an understanding of experiments that demonstrate two-source interference using water waves in a ripple tank, sound, light and microwaves
+3. Interference
+	1. understand the terms [[interference and coherence]]
+	2. show an understanding of experiments that demonstrate [[Young's Double Slit Experiment|two-source interference]] using water waves in a ripple tank, sound, light and microwaves
 	3. understand the conditions required if [[Two Source Interference|two-source interference]] fringes are to be observed
 	4. recall and use λ = ax / D for double-slit interference using light
 4. The diffraction grating
 	1. recall and use d sin θ = nλ
-	2. describe the use of a diffraction grating to determine the wavelength of light (the structure and use of the spectrometer are not included)
+	2. describe the use of a [[diff|diffraction grating]] to determine the wavelength of light (the structure and use of the spectrometer are not included)
