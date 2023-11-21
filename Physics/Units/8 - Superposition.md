@@ -5,13 +5,13 @@ tags:
   - syllabus
 ---
 
-1. [[Stationary Wave Formation|Stationary Waves]]
+1. Stationary Waves
 	1. explain and use the principle of [[superposition]]
 	2. show an understanding of experiments that demonstrate [[Stationary or standing wave|stationary waves]] using [[Electromagnetic Waves|microwaves]], stretched strings and air columns (it will be assumed that end corrections are negligible; knowledge of the concept of end corrections is not required)
-	3. explain the [[Stationary Wave Formation|formation of a stationary]] wave using a graphical method, and identify [[node|nodes and antinodes]]
-	4. understand how wavelength may be determined from the positions of nodes or antinodes of a stationary wave
-2. [[Diffraction]]
-	1. explain the meaning of the term diffraction
+	3. explain the [[Stationary Wave Formation|formation of a stationary]] wave using a graphical method, and identify [[Stationary Wave Formation#^5d7323|nodes and antinodes]]
+	4. understand how [[wavelength]] may be determined from the positions of nodes or antinodes of a stationary wave
+2. Diffraction
+	1. explain the meaning of the term [[diffraction]]
 	2. show an understanding of experiments that demonstrate diffraction including the qualitative effect of the gap width relative to the wavelength of the wave; for example diffraction of water waves in a ripple tank
 3. [[Interference and coherence|Interference]]
 	1. understand the terms interference and coherence
