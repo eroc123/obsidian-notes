@@ -21,5 +21,5 @@ tags:
 Potential difference is the amount of work done per unit charge when moving across 2 points of a circuits
 $V = {W \over Q}$ 
 W: work done (J)
-V: p.d. (V -> )
 Q: charge (C)
+$1V =$ 1 Juel of work done for every 1 columb of charge
