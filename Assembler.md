@@ -7,4 +7,4 @@ Basically it takes human readable code and converts it into machine readable cod
 ## Types of assemblers
 
 - [[One-pass assembler]]
-- [[Two-pass assembler]]
+- [[Two-pass Assembler]]
