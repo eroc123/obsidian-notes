@@ -13,3 +13,5 @@ tags:
 #### Measuring voltage
 
 - [[Voltmeter]] always set up in [[Parallel Circuit|parallel]] to the component you are measuring voltage for
+
+Charges act as energy carriers that can collect energy from the battery
