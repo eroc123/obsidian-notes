@@ -14,7 +14,7 @@ $$\text{Therefore R} = {V \over I}$$
 For ohmic conductors, R is constant
 This rule breaks for no ohmic conductors
 
-Graident of VI graph 
+Gradient of VI graph is R
 
 
 Experiment set up:
