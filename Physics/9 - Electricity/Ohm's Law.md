@@ -7,6 +7,8 @@ tags:
 - For conductos that obey ohm's law, they are called ohmic ocnductors
 
 $$V \propto I$$
+$$V = kI$$
+$$\text{Let R} = K$$
 
 Experiment set up:
 ![[ohms law.png]]
