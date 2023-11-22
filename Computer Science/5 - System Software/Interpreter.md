@@ -1,3 +1,3 @@
 - Interpreters operate on run time (when the source code is running)
-- Each line of code gets 
-- Must translate the entire source code before running it. (think of taking a novel and translating it through google translate before reading it)
+- The interpreter translates each line of code one by one as it runs.
+- Can be run immediately 
