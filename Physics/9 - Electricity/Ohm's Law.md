@@ -3,7 +3,10 @@ tags:
   - physics/chapter-9
 ---
 
-- For a conductor at a constant temperature (for some conductors), potional difference is directly propotrional to current
+- For a conductor at a constant temperature (for some conductors), [[Potential Difference]] is directly propotrional to [[current]]
+- For conductos that obey ohm's law, they are called ohmic ocnductors
+
+$$V \propto I$$
 
 Experiment set up:
 ![[ohms law.png]]
