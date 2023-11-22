@@ -9,7 +9,9 @@ tags:
 
 - Conductors have rows of tightly packed atoms, all of which obstructs the flow of charges
 - Resistance is the ratio of [[potential difference]] and current of a conductor
-$R = V/I$
+
+$R = V/I$ (Formula arries from [[Ohm's law]])
 V: pd
 I: current
-R: reist
+R: resistance ($\ohm$)
+
