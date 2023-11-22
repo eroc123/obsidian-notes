@@ -11,6 +11,11 @@ $$V = kI$$
 $$\text{Let R} = k$$
 $$V = RI$$
 $$\text{Therefore R} = {V \over I}$$
+For ohmic conductors, R is constant
+This rule breaks for no ohmic conductors
+
+Graident of VI graph 
+
 
 Experiment set up:
 ![[ohms law.png]]
