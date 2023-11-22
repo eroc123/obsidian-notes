@@ -1,2 +1,5 @@
 
-Current (I) - THe amount of 
+Current (I) - THe amount of charge flowing per unit time
+
+I = Q/t
+
