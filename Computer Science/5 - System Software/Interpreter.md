@@ -1,3 +1,6 @@
 - Interpreters operate on run time (when the source code is running)
-- The interpreter translates each line of code one by one as it runs.
-- Can be run immediately 
+- The interpreter executes each line of code one by one as it runs. (translates each line into machine code one by one)
+- Can be run immediately
+- Is slower as code needs to be translated line by line
+- User has access to the source code
+- 
