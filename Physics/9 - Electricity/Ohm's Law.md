@@ -8,7 +8,9 @@ tags:
 
 $$V \propto I$$
 $$V = kI$$
-$$\text{Let R} = K$$
+$$\text{Let R} = k$$
+$$V = RI$$
+$$\text{Therefore R} = {V \over I}$$
 
 Experiment set up:
 ![[ohms law.png]]
