@@ -2,6 +2,7 @@
 share: "true"
 tags:
   - physics/chapter-1
+  - syllabus
 ---
 
 

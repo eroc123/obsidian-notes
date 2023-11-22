@@ -3,6 +3,7 @@ tags:
   - physics
   - physics/chapter-8
 ---
+ 
 #### In the case of light interference
 When two slits are illuminated they produce two coherent sets of waves. These produce a characteristic pattern when they shine onto a white screen.
 
@@ -23,6 +24,9 @@ For destructive interference at P the waves must be 180 degrees out of phase
 
 
 ![[Pasted image 20231018143147.png]]
+For constructive interference at P the waves are in phase $S_1P - S_2 P = m \lambda$
+For destructive interference at P the waves are 180 out of phase $S_1 - S_2P = (k + 1/2) \lambda$
+
 Point Q on like $S_1 P$ is such that $QP = S_2P$
 $\therefore$ the path difference is shown by $S_1Q$
 
