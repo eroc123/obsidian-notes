@@ -8,4 +8,8 @@ tags:
 - Measured in ohms ($\Omega$) - defined as one volt per ampere
 
 - Conductors have rows of tightly packed atoms, all of which obstructs the flow of charges
-- Resistance is the ratio
+- Resistance is the ratio of [[potential difference]] and current of a conductor
+$R = V/I$
+V: pd
+I: current
+R: reist
