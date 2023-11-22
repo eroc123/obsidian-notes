@@ -1,3 +1,8 @@
+---
+tags:
+  - physics/chapter-9
+---
+
 **Electric current is the flow of charge carriers and is measured in units of amperes (A) or amps**
 
 - Can either be negative or positive
