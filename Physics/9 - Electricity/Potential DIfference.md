@@ -16,4 +16,5 @@ tags:
 
 - Charges act as energy carriers that can collect energy from the battery.
 - As the charge move through the bulb, it has to put in effort in order to do so.
+	- THe charge has 
 - Bulb is lighting up because of the energy the charge throws into the bulb
