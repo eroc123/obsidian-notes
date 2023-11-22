@@ -2,8 +2,8 @@
 tags:
   - physics/chapter-9
 ---
-- For a conductor at a constant temperature, the **current** through it is **proportional** to the **potential difference** across it
 
+- For a conductor at a constant temperature (for some conductors), potional difference is directly propotrional to current
 
 Experiment set up:
 ![[ohms law.png]]
