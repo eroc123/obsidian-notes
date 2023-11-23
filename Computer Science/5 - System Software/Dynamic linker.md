@@ -1,4 +1,2 @@
-- Dynamic Linked Library - 
-- Compiles the source code and all required libraries into the final executable files.
-	- It does this by making a copy of required libraries and compiles them into the final executable
-- Programs 
+- Dynamic Linked Library files (precompiled) are only called at runtime by executable files instead of being stored in the executable 
+- Has the benefit of taking up less storage (smaller executables)
