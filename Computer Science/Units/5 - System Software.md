@@ -12,10 +12,10 @@
 
 5.2 Language Translators
 
-- assembler software for the translation of an assembly language program 
-- a compiler for the translation of a high-level language program 
-- an interpreter for translation and execution of a high-level language program
-- Explain the benefits and drawbacks of using either a [[compiler]] or interpreter and justify the use of each 
+- [[Four types of code translators|Assembly software]] for the translation of an assembly language program 
+- a [[compiler]] for the translation of a high-level language program 
+- an [[interpreter]] for translation and execution of a high-level language program
+- Explain the benefits and drawbacks of using either a [[compiler]] or [[interpreter]] and justify the use of each 
 - Show awareness that high-level language programs may be partially compiled and partially interpreted, such as [[Java Compiler|Java]] (console mode) 
 - Describe features found in a typical [[Integrated Development Environment (IDE)]]
 	- Including: 
