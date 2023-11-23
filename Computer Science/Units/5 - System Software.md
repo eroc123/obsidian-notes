@@ -5,7 +5,7 @@
 - Explain the key management tasks carried out by the [[Operating System]] 
 	- Including [[memory management]], [[file management]], [[security management]], [[Device Management]] (input/output/peripherals), [[Resource Management]] 
 - Show understanding of the need for typical [[utility software]] provided with an Operating System 
-	- Including [[Utility Software#disk formatter]]disk formatter, virus checker, defragmentation software, disk contents analysis/ disk repair software, file compression, back-up software 
+	- Including [[Utility Software#disk formatter|disk formatter]], [[Utility Software#malware ]], defragmentation software, disk contents analysis/ disk repair software, file compression, back-up software 
 - Show understanding of program libraries 
 	- Including: software under development is often constructed using existing code from program libraries 
 	- the benefits to the developer of software constructed using library files, including Dynamic Link Library (DLL) files
