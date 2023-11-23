@@ -3,7 +3,7 @@
 - Explain why a computer system requires an [[Operating System]] (OS) 
 
 - Explain the key management tasks carried out by the [[Operating System]] 
-	- Including [[memory management]], [[file management]], [[security management]], [[hardware management]] (input/output/peripherals), process management 
+	- Including [[memory management]], [[file management]], [[security management]], [[Device Management]] (input/output/peripherals), [[Resource Management]] 
 - Show understanding of the need for typical utility software provided with an Operating System 
 	- Including disk formatter, virus checker, defragmentation software, disk contents analysis/ disk repair software, file compression, back-up software 
 - Show understanding of program libraries 
