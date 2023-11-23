@@ -6,18 +6,18 @@
 	- Including [[memory management]], [[file management]], [[security management]], [[Device Management]] (input/output/peripherals), [[Resource Management]] 
 - Show understanding of the need for typical [[utility software]] provided with an Operating System 
 	- Including [[Utility Software#disk formatter|disk formatter]], [[Utility Software#Antivirus|Antivirus]], [[Utility Software#defragmentation software|defragmentation software]], [[Utility Software#Disk formatter|Disk Formatter]]/ [[Utility Software#disk repair|disk repair software]], [[Utility Software#File compression|File compression]], [[Utility Software#backup software|backup software]] 
-- Show understanding of program libraries 
+- Show understanding of [[Library program|program libraries]] 
 	- Including: software under development is often constructed using existing code from program libraries 
-	- the benefits to the developer of software constructed using library files, including Dynamic Link Library (DLL) files
+	- the benefits to the developer of software constructed using library files, including [[Dynamic Link Libraries|Dynamic Link Library]] (DLL) files
 
 5.2 Language Translators
 
 - assembler software for the translation of an assembly language program 
 - a compiler for the translation of a high-level language program 
 - an interpreter for translation and execution of a high-level language program
-- Explain the benefits and drawbacks of using either a compiler or interpreter and justify the use of each 
-- Show awareness that high-level language programs may be partially compiled and partially interpreted, such as Java (console mode) 
-- Describe features found in a typical Integrated Development Environment (IDE) 
+- Explain the benefits and drawbacks of using either a [[compiler]] or interpreter and justify the use of each 
+- Show awareness that high-level language programs may be partially compiled and partially interpreted, such as [[Java Compiler|Java]] (console mode) 
+- Describe features found in a typical [[Integrated Development Environment (IDE)]]
 	- Including: 
 	- for coding, including context-sensitive prompts  
 	- for initial error detection, including dynamic syntax checks 
