@@ -1,3 +1,4 @@
+
 - **Code already exists, saves time**
 - **Code well tested, relatively less errors** (as its made by expert programmers and peer reviewed)
 - **Can use mathematical and graphics functions you may not know how to code** 
