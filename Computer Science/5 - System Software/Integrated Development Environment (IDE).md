@@ -5,4 +5,4 @@
 - **Breakpoint:** Stops the code executing at a set line
 - **Single stepping**: Executes one line of the program and then stops
 - **Report window**: Outputs the contents of variables and data structures
-- **Context sensitive prompt**
+- **Context sensitive prompt**: Displays predictions of the code being entered
