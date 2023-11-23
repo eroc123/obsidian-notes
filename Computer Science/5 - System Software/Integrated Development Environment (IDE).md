@@ -3,4 +3,6 @@
 **Features include:**
 - **Dynamic syntax check:** Underlines and highlights statements that do not meet rules of the language
 - **Breakpoint:** Stops the code executing at a set line
-- **Single stepping**
+- **Single stepping**: Executes one line of the program and then stops
+- **Report window**: Outputs the contents of variables and data structures
+- **Context sensitive prompt**
