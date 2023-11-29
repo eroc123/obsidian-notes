@@ -4,4 +4,4 @@ $E = V_1 + V_2 + V_3$
 
 $I = nAqv$
 
-V = IR
+When current changes, since the circuit doesnt change, the drif
