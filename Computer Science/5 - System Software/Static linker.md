@@ -1,3 +1,6 @@
 Links all compiled files together into one executable
-- Compiles the library too and links it into the executable
-- Less efficient as if there are multiple executables using the same library, multiple copies of the library has to be stored in memory
+- Compiles the source code and all required libraries into the final executable files.
+	- It does this by making a copy of required libraries and compiles them into the final executable
+- Programs that are statically linked usually run faster, since the entire library content is already compiled
+- Ensures exclusivity of the program - independent copies stored in each executable.
+  - If the library code is updated or changed, it demands recompilation, which is a time-intensive process

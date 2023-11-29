@@ -3,7 +3,7 @@ tags:
   - comsci/chapter-5
 ---
 
-- Provide memory protection, preventing a process accessing memory not allocated to it
+- Provide memory protection, preventing a process accessing memory not allocated to it - ensures two programs do not use the same allocated memory at the same time
     
 - Implement memory organisation schemes such as segmentation and paging
     
@@ -14,3 +14,4 @@ tags:
 - Swaps data to / from the hard drive 
     
 - Handle virtual memory
+
