@@ -1,1 +1,0 @@
-![[Automobile ownership and growth.md]]![[Causes of traffic congestion.md]]![[Effects of increased automobile numbers.md]]![[Most congested cities (top 3).md]]![[Negative effects of congestion.md]]![[NYC times article summary.md]]![[Solutions to air pollution.md]]![[Where the world's most polluted cities are..md]]
