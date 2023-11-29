@@ -1,0 +1,1 @@
+Resistance, voltage, and current in a series circuit
