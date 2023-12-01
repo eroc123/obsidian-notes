@@ -1,2 +1,2 @@
 - Virus can damage data
-- Virus replicates itself
+- Malicious sof
