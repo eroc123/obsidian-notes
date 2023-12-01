@@ -1,2 +1,2 @@
 - Spyware only records data
-- Spy
+- Spyware sends recorded data to a 3rd party
