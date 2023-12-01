@@ -1,5 +1,5 @@
-- Explain the difference between the terms security,
-privacy and integrity of data
+- Explain the [[Difference between security, privacy, integrity of data|difference between the terms security,
+privacy and integrity of data]]]
 - Show appreciation of the need for both the security
 of data and the security of the computer system
 - Describe security measures designed to protect
