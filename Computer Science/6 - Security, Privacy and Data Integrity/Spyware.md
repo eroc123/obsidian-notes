@@ -1,0 +1,2 @@
+- Spyware only records data
+- Spy
