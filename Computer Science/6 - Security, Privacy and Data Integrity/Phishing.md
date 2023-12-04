@@ -1,1 +1,1 @@
-- An email sent out that is disguised to be legitimate 
+- Fraudulant emails that are sent out digs
