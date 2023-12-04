@@ -1,1 +1,2 @@
-- Authenticating a user can be done via password or biometrics. Two factor authentication (2fa) can be used to increase security.
+- Authenticating a user - determining whether somebody is who they claim to be - can be done via password or biometrics. Two factor authentication (2fa) can be used to increase security.
+- Helps to prevent unauthorized access to data
