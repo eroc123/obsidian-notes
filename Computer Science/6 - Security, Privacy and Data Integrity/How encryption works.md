@@ -10,7 +10,9 @@
 - Receiver uses private key to decrypt (produces plain text)
 
 ###### Advantages
-
+- High security
+- Allows message authentication
+- Detects tampering 
 ###### Symmetric
 - Single key
 - For encryption and decryption
