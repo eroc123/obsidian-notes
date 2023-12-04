@@ -1,0 +1,27 @@
+- **Frost-shattering (freeze thaw):**
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is mechanical]]
+	- Occurs when water seems into cracks and expands when it freezes, widening the cracks.
+	- Occurs in places where night temperatures drop below freezing
+- **Salt crystallization:**
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is mechanical]]
+	- Salt water attacks cliffs or rocks
+	- Water evaporates, leaving behind minerals like salt in cracks
+	- Crystals grow and force the cracks apart
+- **Oxidation:**
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is chemical]]
+	- Oxygen combines with iron-based minerals and changes it chemically
+	- Causes rock to crumble
+- **Seaweed acids:**
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is biological]]
+	- Seaweed such as kelp contain acid like sulphuric acid
+	- Acid dissolves some rock minerals 
+- **Boring molluscs:**
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is biological]]
+	- Live on coastal rocks, scrape at the rock surface for food and dig holes for homes.
+- **Plant roots**:
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is biological]]
+	- Plant roots can put stress or pressure on rocks
+- **Acids in rainwater**:
+	- [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Weathering and erosion|Is chemical]]
+	- Acids in rainwater (such as CO2 which is called carbonation) can dissolve certain minerals.
+	

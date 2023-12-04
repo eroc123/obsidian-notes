@@ -3,7 +3,7 @@ tags:
   - comsci/chapter-4
   - syllabus
 ---
-
+	
 ### 4.1 Central Processing Unit (CPU) Architecture
 
 **Candidates should be able to:** 
@@ -29,7 +29,8 @@ Understand how different ports provide connection to peripheral devices
 	Including connection to: 
 	• Universal Serial Bus (USB) 
 	• High Definition Multimedia Interface (HDMI) 
-	• Video Graphics Array (VGA) Describe the stages of the [[FE cycle|Fetch-Execute (F-E)]] cycle 
+	• Video Graphics Array (VGA)
+Describe the stages of the [[FE cycle|Fetch-Execute (F-E)]] cycle 
 Describe and use ‘register transfer’ notation to describe the F-E cycle
 Show understanding of the purpose of [[interrupt|interrupts]] 
 	Including: 
@@ -62,5 +63,5 @@ Show [[Bit shifts and bit masking|understanding of and perform binary shifts]]
 - Left shift, right shift
 Show understanding of how bit manipulation can be used to monitor/control a device
 - Carry out bit manipulation operations 
-- Test and set a bit (using bit masking
+- Test and set a bit (using bit masking)
 ![[Pasted image 20231027092609.png]]

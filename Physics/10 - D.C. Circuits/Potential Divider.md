@@ -1,0 +1,1 @@
+- A circuit with a fixed source of potential difference and two or more resistors connected in series.

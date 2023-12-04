@@ -14,6 +14,6 @@ tags:
 **Frequency:** The number of complete oscillations per unit of time in Hz (waves per second or $s^{-1}$)
 **Period:** The time it takes for one full cycle or oscillation of a wave($1/f$ and measured in seconds)
 **Velocity:** Distance travelled by wave per unit time. Measured in ($ms^{-1}$)
-**Progressive waves:** Waves that transfer energy 
-**Stationary waves:** Waves that do not transfer energy
+**Progressive waves:** Waves that transfer energy without transferring matter
+**Stationary waves:** Waves that do not transfer energy and are formed by the superposition of two travelling waves of the same frequency travelling in opposite directions
 

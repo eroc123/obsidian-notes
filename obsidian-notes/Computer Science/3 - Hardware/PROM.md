@@ -1,0 +1,3 @@
+- A ROM chip that can only be altered once
+- Made up of matrix of fuses that can be passed with an electric current to alter them. Can only be done once
+- Used in mobile phones and RFID tags.

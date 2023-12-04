@@ -1,0 +1,2 @@
+- Current throughout the circuit is the same
+- The voltages add up to the battery voltage.

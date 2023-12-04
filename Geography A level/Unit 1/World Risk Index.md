@@ -1,0 +1,4 @@
+- Looks at two factors
+	- How much exposure to natural disasters does a country have (such as tsunami's, cyclones)
+	- How much capacity to cope (deal with) with natural disasters the country has
+- e.g. Vanuatu has high risk index due to high exposure and low capacity, whilst Japan has lower risk even with high exposure due to high capacity to cope

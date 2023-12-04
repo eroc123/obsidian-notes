@@ -1,0 +1,3 @@
+- Due to rapid urbanization and industrialization, large portions of China have become environmentally damaged, with 50% of drinking water below international standards and 40% of arable land containing heavy metals
+- Eco-cities have been created to improve people's living standards and China's environmental state
+- Many of the eco-cities in China have been built hastily with little planning or shoddy materials, meaning that many of the cities fail to meet ecological guidelines in comparison to Western cities (only 1 in 5 meet low emission guidelines)

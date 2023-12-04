@@ -1,0 +1,7 @@
+- All power supplies have internal resistance between their terminals 
+- The charge that is circulating through the power supply dissipates some electrical energy every time it passes through - this is why cells heat up.
+- The voltage measured across the terminals when a current is flowing is lower than the actual true value of emf of the cell due to internal resistance 
+- r is used to represent internal resistance
+- Total resistance of a circuit is equal to R + r 
+- $I = \epsilon/(R+r)$
+- $\epsilon = I(R+r)$

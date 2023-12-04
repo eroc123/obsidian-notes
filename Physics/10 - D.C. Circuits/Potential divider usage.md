@@ -1,0 +1,5 @@
+- Volume, brightness or contrast control
+- Making and designing a circuit to use as a temperature sensor
+- Making and designing a circuit to use as a temperature sensor
+- Making and designing a circuit to use as a light sensor
+- Controlling logic devices

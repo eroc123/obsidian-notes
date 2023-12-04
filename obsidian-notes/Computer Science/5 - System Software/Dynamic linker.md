@@ -1,0 +1,2 @@
+- [[Dynamic Link Libraries|Dynamic Linked Library Files]] (precompiled) are only called at runtime by executable files instead of being stored in the executable 
+- Has the benefit of taking up less storage (smaller executables) and less memory (only one copy of the dynamic linked library file has to be stored in memory instead of all copies of all executables)
