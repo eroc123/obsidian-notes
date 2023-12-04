@@ -1,0 +1,1 @@
+- Firewalls allow traffic to and from a network device to be filtered. One way traffic can be filtered is by limiting an application’s network access.

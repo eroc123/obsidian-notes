@@ -1,0 +1,1 @@
+- Authenticating a user can be done via password or biometrics. Two factor authentication (2fa) can be used to increase security.
