@@ -3,4 +3,6 @@
 | User accounts & authentication | Data backup     |
 | Firewalls                      | Disk mirroring  |
 | Physical security              | Encryption      |
-| Application Security           |                 |
+| Application Security           | Access rights   |
+| Auditing                       |                 |
+| Anti-malware                               |                 |
