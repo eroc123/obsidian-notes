@@ -4,8 +4,8 @@
 ###### Asymmetric
 - Two matching keys
 - Public and private
-- Share public
-- Never share private
+- Share public key
+- Never share private key
 - Receiver's public key used to encrypt (produces cipher text)
 - Receiver uses private key to decrypt (produces plain text)
 ###### Symmetric
