@@ -1,0 +1,2 @@
+- scans computer for viruses and checks against a stored database of viruses that needs to be updated regularly and then deletes or quarantines them
+- compares downloaded files to a database of known viruses 
