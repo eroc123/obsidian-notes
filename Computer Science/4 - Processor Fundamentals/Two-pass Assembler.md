@@ -6,4 +6,3 @@ Pass 1:
 Pass 2:
 - Generation of object code (generation of machine code from assembly)
 - Save or execute program
-- 

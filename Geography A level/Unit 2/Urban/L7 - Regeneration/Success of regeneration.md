@@ -1,0 +1,4 @@
+- Via indicators such as:
+	- Economic indicators of poverty, income and employment
+	- Social indicators such as reduction of income inequality, reduction in deprivation such as health deprevation and improvements in life expectancy.
+	- Improvements in overall living environment such as via reduction of pollution to improve social and economic security.

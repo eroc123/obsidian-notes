@@ -1,0 +1,1 @@
+- When malicious code is installed on a users computer to redirect a user to a fake website that appears to be legitimate

@@ -1,0 +1,7 @@
+#### [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Coastal management|Hard engineering structures and coastal management techniques:]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Groynes]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Rock Armour (rip rap)]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Sea Wall]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Revetments]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Offshore Breakwater]]
+- [[Geography A level/Unit 2/Coasts/L4 - Coastal Management/Coastal management methods/Gabions]]

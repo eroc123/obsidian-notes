@@ -1,0 +1,1 @@
+- The process by which the character of a historically neglected urban area is changed by wealthier people moving in, and attracting new business and investment at the cost of displacing current residents. 

@@ -20,6 +20,6 @@ tags:
 	- Contains bits representing [[flags]] that are set or cleared after ALU (arithmetic logic unit) operations
 	- Flags can consist of whether an arithmetic operation produced a negative number, a [[carry]] or an [[overflow]].
 	- The status register shows these flags which the [[OS]] can then take into account when dealing with a [[program]].
--  IAS ^IAS
+-  IAS Immediate Access Store ^IAS
 	- Stores information current in use by the processor that needs to be accessed quickly
 %%Help what does this stand for???%%

@@ -1,0 +1,4 @@
+- The total voltage that is sent out by the cell
+- Lost volts - potential difference subtracted from the terminal voltage due to internal resistance 
+- Overall EMF is what is actually delivered by the circuit after compensating for internal resistance
+- $\epsilon = IR + Ir = V + v$

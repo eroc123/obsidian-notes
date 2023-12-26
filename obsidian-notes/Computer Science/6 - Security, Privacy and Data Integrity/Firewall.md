@@ -1,0 +1,3 @@
+- Firewalls allow traffic to and from a network device to be filtered. One way traffic can be filtered is by limiting an application’s network access.
+- Sit between the computer or LAN and the internet/WAN and can be either software or hardware
+- They make decisions about what traffic to allow and what to block as they can detect whether there are illegal attempts by software to connect to the internet and can block virueses or hacking

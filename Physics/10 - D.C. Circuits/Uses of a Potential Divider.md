@@ -1,0 +1,3 @@
+- To supply a fixed pd between any value between zero and the source pf
+- To supply a variable pd from a fixed one
+- To supply a pd that varies with physical changes, e.g. position, temperature, light level

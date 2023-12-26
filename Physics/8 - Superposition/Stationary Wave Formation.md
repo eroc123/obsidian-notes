@@ -12,10 +12,7 @@ tags:
 ![[antinode node]]
 
 **Standing wave formation:** 
-1. When a crest of a wave on a string arrives at the far end it reverses phase and is reflected, returning as a trough
-2. When it once again reaches the vibrator, it reflects, changes phase and once again becomes a crest
-3. Further reinforced by a new crest leaving the vibrator, then the amplitude is increased
-4. Standing wave formed
+A stationary wave is formed from the superposition of 2 progressive waves, travelling in opposite directions in the same place, with the same frequency, wavelength and amplitude.
 
 **Properties**
 - Node does not move

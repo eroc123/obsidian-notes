@@ -1,0 +1,3 @@
+- Energy level of a coast ([[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Waves/Destructive waves|destructive waves]] or [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Waves/Constructive waves|constructive waves]] for high/low energy respectively)
+- Dominated by erosion or [[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Key coast terms#**Deposition - the process by which sediment is released from flowing water when it loses energy**|deposition]] (depends on the type of wave too and how sheltered the coast is)
+- How much human activity there is or how managed the beach is (whether there are a lot of coastal defenses for example)

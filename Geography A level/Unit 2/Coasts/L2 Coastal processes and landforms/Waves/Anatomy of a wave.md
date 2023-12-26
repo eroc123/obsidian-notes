@@ -1,0 +1,1 @@
+![[Geography A level/Unit 2/Coasts/L2 Coastal processes and landforms/Images/wave anatomy.png]]

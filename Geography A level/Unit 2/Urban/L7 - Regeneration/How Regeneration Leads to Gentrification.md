@@ -1,0 +1,7 @@
+- Influx of newer residents into disinvested communities due to historical appeal and cheap cost of housing
+- Improved transport infrastructure in these areas draws in new residents 
+- As an area gets invested and developed, new housing, businesses, transit infrastructure and parks get built up.
+	- These new businesses are there to cater the more affluent new residents, competing with old businesses and forcing them out
+	- Landlords are looking for higher paying tenants, therefore they raise rent prices when the area is invested in.
+		- Forces out long-time residents who are no longer able to pay rent
+- Long time residents often have to move out to suburban or exurban areas or end up feeling out of place if they remain.

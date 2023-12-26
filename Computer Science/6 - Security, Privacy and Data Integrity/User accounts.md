@@ -1,0 +1,1 @@
+- Each user of a system can be granted different levels of access to the system, applications and certain data. 

@@ -14,6 +14,7 @@
 - Random access (data doesn't need to be read in a sequence to access the intended data)
 - More reliable (no moving parts)
 - Are lighter (good for laptops)
+- quieter
 - Lower power consumption
 - Access data faster
 **Disadvantage:**
