@@ -2,4 +2,6 @@
 
 Torque = One of the forces of a couple $\times$ perpendicular separation
 
-True even if object is not 
+True even if object is not a regular shape
+
+![[Pasted image 20231230114042.png]]

@@ -11,7 +11,3 @@ share: "true"
 - Distance is not 0
 - Creates rotation without a pivot
 
-###### Torque
-- Is the moment of a couple (Nm)
-- $τ=Nm$ (where N is one of the forces and m is perpendicular distance between the forces)
-
