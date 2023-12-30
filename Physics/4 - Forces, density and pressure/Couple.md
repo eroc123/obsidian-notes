@@ -9,8 +9,9 @@ share: "true"
 - Perpendicular to the distance between them
 - Resultant force of 0, object does not accelerate but it does turn (according to [[Newton's Second law|F=ma]])
 - Distance is not 0
-- C
+- Creates rotation without a pivot
 
 ###### Torque
 - Is the moment of a couple (Nm)
-- $τ=Nm$ (where N is one of the forces and m is perpendicular distance between the force
+- $τ=Nm$ (where N is one of the forces and m is perpendicular distance between the forces)
+
