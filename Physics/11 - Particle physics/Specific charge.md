@@ -1,0 +1,1 @@
+$$\text{specific charge} = {charge \over mass}$$
