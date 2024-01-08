@@ -3,7 +3,7 @@ tags:
   - physics/chapter-11
 ---
 Atoms with the same number of protons and different numbers of neutrons
-<font> $^A_ZX$
+<font size=10> $^A_ZX$ </font>
 
 A - Nucleon number, or the mass number. Total number of nucleons
 Z - Proton number or atomic number. 
