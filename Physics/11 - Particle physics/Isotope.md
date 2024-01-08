@@ -8,3 +8,6 @@ Atoms with the same number of protons and different numbers of neutrons
 A - Nucleon number, or the mass number. Total number of nucleons
 Z - Proton number or atomic number. 
 X - Chemical symbol
+
+## Notation
+- We can determine the number of neutrons simply by subtracting the proton number f
