@@ -9,3 +9,4 @@ The nucleus is very tiny compared with the rest of the atom, most of the atom is
 The radius of the nucleus was in the order of 3 x 10-14 m.
 
 The alpha particles that were deflected back had to be travelling in a line with the nucleus
+
