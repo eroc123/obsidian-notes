@@ -24,3 +24,17 @@
 	- query processor
 
 #### 8.3 Data Definition Language (DDL) and Data Manipulation Language (DML)
+- Show understanding that the DBMS carries out all creation/modification of the database structure using its Data Definition Language (DDL)
+- Show understanding that the DBMS carries out all queries and maintenance of data using its DML
+- Show understanding that the industry standard for both DDL and DML is Structured Query Language (SQL)
+	- Understand a given SQL statement
+- Understand given SQL (DDL) statements and be able to write simple SQL (DDL) statements using a sub-set of statements
+	- Create a database (CREATE DATABASE) 
+	- Create a table definition (CREATE TABLE), including the creation of attributes with appropriate data types:
+	- CHARACTER 
+	- VARCHAR(n) 
+	- BOOLEAN 
+	- INTEGER 
+	- REAL 
+	- DATE 
+	- TIME change a table definition (ALTER TABLE) add a primary key to a table (PRIMARY KEY (field)) add a foreign key to a table (FOREIGN KEY (field) REFERENCES Table (Field))
