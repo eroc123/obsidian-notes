@@ -14,3 +14,13 @@
 #### 8.2 Database Management Systems (DBMS)
 
 - Show understanding of the features provided by a Database Management System (DBMS) that address the issues of a file based approach
+	- data management, including maintaining a data dictionary 
+	- data modelling 
+	- logical schema 
+	- data integrity 
+	- data security, including backup procedures and the use of access rights to individuals / groups of users
+- Show understanding of how software tools found within a DBMS are used in practice
+	- developer interface 
+	- query processor
+
+#### 8.3 Data Definition Language (DDL) and Data Manipulation Language (DML)
