@@ -10,3 +10,7 @@
 	- Third Normal Form (3NF) 
 - Explain why a given set of database tables are, or are not, in 3NF 
 - Produce a normalised database design for a description of a database, a given set of data, or a given set of tables
+
+#### 8.2 Database Management Systems (DBMS)
+
+- Show understanding of the features provided by a Database Management System (DBMS) that address the issues of a file based approach
