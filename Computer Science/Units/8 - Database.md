@@ -38,3 +38,5 @@
 	- REAL 
 	- DATE 
 	- TIME change a table definition (ALTER TABLE) add a primary key to a table (PRIMARY KEY (field)) add a foreign key to a table (FOREIGN KEY (field) REFERENCES Table (Field))
+- Write an SQL script to query or modify data (DML) which are stored in (at most two) database tables
+	- Queries including SELECT... FROM, WHERE, ORDER BY, GROUP BY, INNER JOIN, SUM, COUNT, AVG Data maintenance including. INSERT INTO, DELETE FROM, UPDATE
