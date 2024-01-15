@@ -9,4 +9,4 @@
 **Relationship** - A relationship is established between two database tables when one table uses a foreign key that references the primary key of another table
 - One to one relationship - each individual record in one table can only be linked to one record in another table. e.g. each student only has one student ID and vice versa. 
 - One to many relationship - each individual record in one table can be linked to multiple records in another table. e.g. one customer can have many orders however each order can only have one customer.
-- Many to many relationship - each individual record in one table can be linked to multiple records in another table and 
+- Many to many relationship - each individual record in one table can be linked to multiple records in another table and vice versa. e.g. a customer can purchase many products and any individual product can have many customers.
