@@ -10,4 +10,4 @@
 - One to one relationship - each individual record in one table can only be linked to one record in another table. e.g. each student only has one student ID and vice versa. 
 - One to many relationship - each individual record in one table can be linked to multiple records in another table. e.g. one customer can have many orders however each order can only have one customer.
 - Many to many relationship - each individual record in one table can be linked to multiple records in another table and vice versa. e.g. a customer can purchase many products and any individual product can have many customers.
-**Index** - a data structure that improves the speed of data retrival operations on a database table. 
+**Index** - a data structure that improves the speed of data retrieval operations on a database table. Works similar to a book index but in digital form.
