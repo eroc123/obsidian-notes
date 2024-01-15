@@ -13,3 +13,6 @@ vs
 	- Any non-primary key attribute must be fully dependent on the primary key for identification
 	- e.g. for location data and zip code, both those attributes are dependent on each other, hence they should get a new location table instead of being dependent on another unrelated primary key. 
 **Second Normal Form (2NF) -> Third Normal Form (3NF)**
+- A database must be in the first and second normal form
+- Relations must not contain any transitive depenedencies
+- 
