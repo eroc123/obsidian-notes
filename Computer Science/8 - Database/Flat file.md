@@ -2,4 +2,4 @@
 
 **Limitations:**
 - Data redundancy - data is repeated and causes more storage space to be used.
-- Data integrity issues - data t
+- Data integrity issues - data that is updated in o
