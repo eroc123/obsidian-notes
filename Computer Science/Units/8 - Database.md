@@ -6,8 +6,8 @@
 - Use an [[entity-relationship (E-R)]] diagram to document a database design
 - Show understanding of the normalisation process 
 	- [[First Normal Form (1NF)]], 
-	- Second Normal Form (2NF) and 
-	- Third Normal Form (3NF) 
+	- [[Second Normal Form (2NF)]] and 
+	- [[Third Normal Form (3NF)]]
 - Explain why a given set of database tables are, or are not, in 3NF 
 - Produce a normalised database design for a description of a database, a given set of data, or a given set of tables
 
