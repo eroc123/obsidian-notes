@@ -7,5 +7,6 @@
 **Foreign key** - A field in one table that is linked to a primary key in another table
 **Candidate key** - Is a field that has the potential to uniquely identify records (one of the candidate keys are chosen as the primary key)
 **Relationship** - A relationship is established between two database tables when one table uses a foreign key that references the primary key of another table
-- One to one relationship - each individual row in one table can only be linked to one row in another table. e.g. each student only has one student ID and vice versa. 
-- One to many relationship - each individual row in one table can be linked to multiple rows in another table. e.g. one customer can have 
+- One to one relationship - each individual record in one table can only be linked to one record in another table. e.g. each student only has one student ID and vice versa. 
+- One to many relationship - each individual record in one table can be linked to multiple records in another table. e.g. one customer can have many orders however each order can only have one customer.
+- Many to many relationship - each individual record in one table can be linked to multiple records in another table and 
