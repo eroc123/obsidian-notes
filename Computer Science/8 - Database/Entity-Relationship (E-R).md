@@ -1,1 +1,1 @@
-Used to draw relationship between various records in database t
+Used to draw relationship between various records in different database tables.
