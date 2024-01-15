@@ -16,3 +16,4 @@ vs
 - A database must be in the first and second normal form
 - Relations must not contain any transitive dependencies
 - A->B and B->C are two FDs then A->C is a transitive dependency
+- Solve by breaking up the table 
