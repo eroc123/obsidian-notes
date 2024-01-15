@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"7bbe98a3deef29ed","x":-125,"y":-30,"width":385,"height":290,"type":"text","text":"\n| Customer ID | Customer Name | DOB |\n| ----------- | ------------- | --- |\n| 01          | Alex              | 03/05/24    |\n| 02          | Mary              | 19/12/87    |\n| 03          | Eric              | 15/01/25    |\n| 04            | Andy              | 29/02/20    |\n"}
+	],
+	"edges":[]
+}

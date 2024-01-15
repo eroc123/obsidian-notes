@@ -1,7 +1,7 @@
 #### 8.1 Database Concepts
 - Show understanding of the limitations of using a [[flat file|file-based]] approach for the storage and retrieval of data 
 - Describe the features of a [[relational database]] that address the limitations of a file-based approach
-- Show understanding of and use the [[terminology]] associated with a relational database model
+- Show understanding of and use the [[database example]] associated with a relational database model
 	- Including entity, table, record, field, tuple, attribute, primary key, candidate key, secondary key, foreign key, relationship (one-to-many, one-to-one, many-to-many), referential integrity, indexing 
 - Use an [[entity-relationship (E-R)]] diagram to document a database design
 - Show understanding of the normalisation process 
