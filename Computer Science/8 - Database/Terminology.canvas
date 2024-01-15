@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"7bbe98a3deef29ed","type":"text","text":"\n| Customer ID | Customer Name | DOB |\n| ----------- | ------------- | --- |\n| 01          | Alex              | 03/05/24    |\n| 02          | Mary              | 19/12/87    |\n| 03          | Eric              | 15/01/25    |\n| 04            | Andy              | 29/02/20    |\n","x":-125,"y":-30,"width":385,"height":290},
-		{"id":"183009a8dcf97eb7","x":-460,"y":-160,"width":250,"height":111,"type":"text","text":"Primary key - Unique Identifier for each row in a table.  "},
-		{"id":"e30bddbe42f615cd","type":"text","text":"**Table**\n\n**Field**- Are the \"columns \"in a database which can have set data types and validation rules applied to them \n\n**Records/Entity/Tuple** - A set of data stored in the database. Is an object which can contain one or more pieces of data and is identified with one primary key.\n\t\t","x":-200,"y":-440,"width":480,"height":256}
+		{"id":"183009a8dcf97eb7","type":"text","text":"Primary key - Unique Identifier for each row in a table.  ","x":-460,"y":-160,"width":250,"height":111},
+		{"id":"e30bddbe42f615cd","type":"text","text":"**Table**\n\n**Field/Attribute**- Are the \"columns \"in a database which can have set data types and validation rules applied to them \n\n**Records/Entity/Tuple** - A set of data stored in the database. Is an object which can contain one or more pieces of data and is identified with one primary key.\n\t\t","x":-200,"y":-440,"width":480,"height":256}
 	],
 	"edges":[
 		{"id":"a97f931bb6760075","fromNode":"183009a8dcf97eb7","fromSide":"bottom","toNode":"7bbe98a3deef29ed","toSide":"left"},
