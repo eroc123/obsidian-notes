@@ -4,3 +4,5 @@
 vs
 | Bob  |
 | Alice | (right)
+
+- There are no repeating groups of attributes/columns
