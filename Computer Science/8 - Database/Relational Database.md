@@ -1,1 +1,1 @@
-**Relational databases is a type of database where records**
+**Relational databases is a type of database where records of **
