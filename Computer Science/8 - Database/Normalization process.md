@@ -11,4 +11,4 @@ vs
 - A database must be in the first normal form
 - Relation must not contain any partial dependency
 	- Any non-primary key attribute must be fully dependent on the primary key for identification
-	- e.g. for location data and zip code, both those attributes are dependent on each other 
+	- e.g. for location data and zip code, both those attributes are dependent on each other, hence they should get a new location table instead of being dependent on another unrelated primary key. 
