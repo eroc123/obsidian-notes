@@ -6,3 +6,4 @@
 **Secondary key**: An additional/alternative key used as well as the primary key to locate specific data/ a candidate key that has not been chosen as a primary key
 **Foreign key** - A field in one table that is linked to a primary key in another table
 **Candidate key** - Is a field that has the potential to uniquely identify records (one of the candidate keys are chosen as the primary key)
+**Relationship** - 
