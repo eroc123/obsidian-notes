@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 e.r. diagram one-to-one relationship ^aj49WqyF
 
-e.r. diagram one-to-one relationship ^2Nndv5k7
+e.r. diagram one-to-many relationship ^2Nndv5k7
 
 %%
 # Drawing
@@ -279,8 +279,8 @@ e.r. diagram one-to-one relationship ^2Nndv5k7
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 595098369,
+			"version": 89,
+			"versionNonce": 1136454895,
 			"isDeleted": false,
 			"id": "2Nndv5k7",
 			"fillStyle": "hachure",
@@ -289,74 +289,30 @@ e.r. diagram one-to-one relationship ^2Nndv5k7
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -120.23983764648438,
-			"y": -159.75,
+			"x": -182.23983764648438,
+			"y": -127.75,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 344.97967529296875,
+			"width": 358.33966064453125,
 			"height": 25,
 			"seed": 1964783471,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705306078327,
+			"updated": 1705306083531,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "e.r. diagram one-to-one relationship",
-			"rawText": "e.r. diagram one-to-one relationship",
+			"text": "e.r. diagram one-to-many relationship",
+			"rawText": "e.r. diagram one-to-many relationship",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "e.r. diagram one-to-one relationship",
+			"originalText": "e.r. diagram one-to-many relationship",
 			"lineHeight": 1.25,
 			"baseline": 18
-		},
-		{
-			"type": "line",
-			"version": 61,
-			"versionNonce": 1970745857,
-			"isDeleted": true,
-			"id": "aTlcTg9y2zNGF0DtSXuae",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -15.73456741751233,
-			"y": -64.38868695768528,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 67,
-			"seed": 1399859297,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1705306070404,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					67
-				]
-			]
 		}
 	],
 	"appState": {
