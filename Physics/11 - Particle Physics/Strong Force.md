@@ -1,0 +1,5 @@
+- Acts between 0 and 2.5-3 femtometers ($1*10^{-15}m$)
+- Below 0.5 femtometer,s protons repel
+- Above 0.5 femtometers, protons attract
+- Acts within the nucleus of the atom
+- **It's a weird force** (definition)

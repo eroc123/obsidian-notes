@@ -1,0 +1,2 @@
+- Mass must be balanced on both sides
+- Energy photon is released (excess energy that can't be converted into mass)

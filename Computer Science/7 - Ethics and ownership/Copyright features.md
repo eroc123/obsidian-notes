@@ -1,0 +1,11 @@
+**- Registration**
+	- Some countries require formalities to establish copyright
+	- Others recognize copyright in completed work without formalities. 
+- **Jurisdiction**
+	- Copyrights granted by the law in one state and only apply in the territory of that state, unless agreements with other countries have been made
+	- kind of like region locking - 
+- **Duration**
+	- Usually expires 50-100 years after creator dies
+- **Ownership**
+	- Employer may hold copyright if the employee made it (as its owned by the employer)
+	- e.g. company owns copyright even if employee made it

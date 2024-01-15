@@ -1,0 +1,4 @@
+- Called $\beta +$ decay
+- Happens when there are too many protons
+- Artificial
+- **Decays into daughter element, positron and a neutrino**

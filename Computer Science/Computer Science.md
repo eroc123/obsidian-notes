@@ -2,8 +2,6 @@
 tags:
   - comsci/home
 ---
-
-
 ## As Level content
 
 1 **[[1 - Information representation|Information representation]]**
@@ -46,8 +44,7 @@ tags:
 **[[12 - Software Development]]** 
 	12.1 Program Development Life cycle 
 	12.2 Program Design 
-	12.3 Program Testing and Maintenance Cambridge International AS & A Level 
-
+	12.3 Program Testing and Maintenance Cambridge International
 ## A Level content 
 
 **13 - Data Representation** 

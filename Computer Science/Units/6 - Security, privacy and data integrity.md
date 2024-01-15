@@ -3,7 +3,7 @@
 of data and the security of the computer system
 - Describe [[Data Protection|security measures]] designed to protect
 computer systems, ranging from the stand-alone PC to a network of computers
-	- Including [[user accounts]], [[passwords]], authentication techniques such as [[digital signatures]] and [[biometrics]], [[firewall]], [[anti-virus software]], [[antispyware, encryption]]
+	- Including [[user accounts]], [[passwords]], authentication techniques such as [[digital signatures]] and [[biometrics]], [[firewall]], [[anti-virus software]], [[antispyware]], [[encryption]]
 - Show understanding of the threats to computer and
 data security posed by networks and the internet
 	-Including [[malware]] ([[virus]], [[spyware]]), [[hackers]],

@@ -1,0 +1,2 @@
+- 10,000 lives lost per year
+- May be much higher in the case of a severe Earthquake - e.g. 2010 Haiti Earthquake (300,000 dead)

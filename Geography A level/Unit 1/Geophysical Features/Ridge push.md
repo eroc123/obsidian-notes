@@ -1,0 +1,5 @@
+- Tension forces by slab pull causes thinning of plate
+- Hotter mantle rock upwells to fill cavity
+- Heats place at the thin spot and causes positive bouyancy and uplifts the ridge
+- When the crust forms, it cools, becomes more dense and slides down the slope to the side 
+- Plates get pushed apart as the plate slides down the slope.

@@ -1,0 +1,2 @@
+ Biometrics are **biological measurements — or physical characteristics — that can be used to identify individuals**. For example, fingerprint mapping, facial recognition, and retina scans are all forms of biometric technology, but these are just the most recognized options.
+ 

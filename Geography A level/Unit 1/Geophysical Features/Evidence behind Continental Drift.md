@@ -1,0 +1,3 @@
+- Several continents (e.g. South America and Africa) appeared that they could fit together like a jigsaw
+- There were biological and geological similarities between continents even if they were far away - suggesting they used to be together in the past
+- Fossil evidence of a certain species of animal found on both South America and Africa, even though they are a freshwater animal that can't cross ocean - suggests the landmasses used to be connected

@@ -1,0 +1,8 @@
+- Commercial License
+	- Can be legally used only after a fee is paid
+- Shareware/freeware license
+	- The software is free for a trial period and then a fee is requested, or expected if the user wants to continue to use the software
+- Free software License
+	- The source code comes with the software if the software is modified, the edited source code must be released under the same conditions as the original software
+- Open source license
+	- Software code comes with the software, is free to download, edit or distribute without restriction. 

@@ -1,0 +1,1 @@
+- Measures the direction and intensity of current flowing through a wire.

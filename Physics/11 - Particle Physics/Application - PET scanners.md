@@ -1,0 +1,4 @@
+- Positron Emission Tomography
+- Positron emitting isotope given to patient - some reaches the brain
+- Positrons only travel a few mm before annihilating with electron and photons produced are detected
+- Produce gamma rays which can be picked up by scanners and create an image of the brain

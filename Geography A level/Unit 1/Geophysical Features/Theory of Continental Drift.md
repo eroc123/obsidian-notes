@@ -1,0 +1,3 @@
+- Crust broken into large slabs called plates
+- Move around the surface of the Earth due to connection currents in the mantle
+- Term is named "continental drift" - The gradual movement of the continents across the earth's surface through geological time.

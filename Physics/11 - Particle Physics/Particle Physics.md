@@ -1,0 +1,3 @@
+- Particle physics concerned with fundamental physics, which means that the particles can't be broken down any further. 
+- Paul Dirac 
+	- Wrote an equation obeyed by an electrons which had a kind of mirror image solutions.
