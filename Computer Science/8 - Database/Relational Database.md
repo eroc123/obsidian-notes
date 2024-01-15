@@ -1,1 +1,1 @@
-**Relational databases are where **
+**Relational databases is a type of database where recro**
