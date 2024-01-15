@@ -5,4 +5,7 @@ vs
 | Bob  |
 | Alice | (right)
 
-- There are no repeating groups of attributes/columns
+- There are no repeating groups of attributes/columns - each column has a unique name
+
+**First Normal Form (1NF) -> Second Normal Form (2NF)**
+- 
