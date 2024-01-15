@@ -8,4 +8,6 @@ vs
 - There are no repeating groups of attributes/columns - each column has a unique name
 
 **First Normal Form (1NF) -> Second Normal Form (2NF)**
-- 
+- A database must be in the first normal form
+- Relation must not contain any partial dependency
+- Any non-primary key attribute must be
