@@ -1,5 +1,5 @@
 #### 8.1 Database Concepts
-- Show understanding of the limitations of using a filebased approach for the storage and retrieval of data 
+- Show understanding of the limitations of using a [[filebased|flat]] approach for the storage and retrieval of data 
 - Describe the features of a relational database that address the limitations of a file-based approach
 - Show understanding of and use the terminology associated with a relational database model
 	- Including entity, table, record, field, tuple, attribute, primary key, candidate key, secondary key, foreign key, relationship (one-to-many, one-to-one, manyto-many), referential integrity, indexing 
