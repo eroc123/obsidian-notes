@@ -1,0 +1,3 @@
+- High energy protons or small nuclei that travel through space from the stars
+- When they enter the atmosphere, the collide with gas atoms
+- This results in the creation of new particles and antiparticles with very short lifetimes and photons

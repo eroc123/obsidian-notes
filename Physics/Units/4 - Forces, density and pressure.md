@@ -9,7 +9,7 @@ tags:
 	1. understand that the weight of an object may be taken as acting at a single point known as its [[Center of gravity and mass|center of gravity]]
 	2. define and apply the [[moment|moment of a force]]
 	3. understand that a [[Physics/Excalidraw/Couple|couple is a pair of forces]] a pair of forces that acts to produce rotation only
-	4. define and apply the [[torque]] of a couple
+	4. define and apply the [[Excalidraw/Torque]] of a couple
 2. **Equilibrium of forces**
 	1. state and apply the principle of [[Moment|moments]]
 	2. understand that, when there is no resultant force and no resultant torque, a system is in [[Equilibrium|equilibrium]]

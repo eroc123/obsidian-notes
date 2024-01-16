@@ -1,8 +1,10 @@
 ---
 share: "true"
 ---
+Force excreted normally per unit area
+normally - Perpendicular to the surface
 
-$Pressure = F/a$
+$Pressure = {F \over a}$
 - Pressure is a scalar
 - Force either in $N/m^2$ or $N/cm^2$
 - 1 $N/m^2$ = 1 pascal

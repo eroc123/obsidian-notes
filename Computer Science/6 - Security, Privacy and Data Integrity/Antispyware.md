@@ -1,0 +1,2 @@
+- Scans the computer for spyware and checks against a stored database of viruses, that need to be updated regularly and then deletes/quarantines them
+- compares downloaded files to a database of known spyware and the prevents download from continuing

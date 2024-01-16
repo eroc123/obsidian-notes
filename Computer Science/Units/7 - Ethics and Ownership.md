@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Show understanding of the need for and purpose of ethics as a computing professional 
 - Understand the importance of joining a professional ethical body including BCS (British Computer Society), IEEE (Institute of Electrical and Electronic Engineers)
 Show understanding of the need to act ethically and the impact of acting ethically or unethically for a given situation 
@@ -5,3 +6,14 @@ Show understanding of the need for copyright legislation Show understanding of t
 - Licences to include free Software Foundation, the Open Source Initiative, shareware and commercial software 
 Show understanding of Artificial Intelligence (AI)
 - Understand the impact of AI including social, economic and environmental issues Understand the applications of AI
+=======
+- Show understanding of the need for and purpose of ethics as a computing professional 
+	- Understand the importance of joining a professional ethical body including BCS (British Computer Society), [[IEEE Software Engineering Code of Ethics|IEEE]] (Institute of Electrical and Electronic Engineers) 
+- Show understanding of the need to act ethically and the impact of acting ethically or unethically for a given situation 
+- Show understanding of the need for copyright legislation 
+- Show understanding of the different types of software licencing and justify the use of a licence for a given situation 
+	- Licences to include free Software Foundation, the Open Source Initiative, shareware and commercial software 
+- Show understanding of Artificial Intelligence (AI) 
+	- Understand the impact of AI including social, economic and environmental issues 
+	- Understand the applications of AI
+>>>>>>> origin/main
