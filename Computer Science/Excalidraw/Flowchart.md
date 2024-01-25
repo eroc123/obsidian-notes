@@ -8,11 +8,12 @@ tags: [excalidraw]
 
 
 # Text Elements
-Assignment/ = rectangle
+Assignment/calculations = rectangle
  ^Ovl6nOyu
 
 Total <- 0
-Counter <- 1 ^dTUCGxRw
+Counter <- 1
+Total <- Total +1 ^dTUCGxRw
 
 assignment use left arrow ^lGv9mgLi
 
@@ -30,8 +31,8 @@ oval is start/end ^nF89Xvod
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 1410243551,
+			"version": 169,
+			"versionNonce": 749368479,
 			"isDeleted": false,
 			"id": "mk9QIdPWHHE-VV6tS3OjH",
 			"fillStyle": "hachure",
@@ -40,8 +41,8 @@ oval is start/end ^nF89Xvod
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -242.75,
-			"y": -298.25,
+			"x": -234.75,
+			"y": -295.75,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 201,
@@ -56,14 +57,14 @@ oval is start/end ^nF89Xvod
 					"type": "arrow"
 				}
 			],
-			"updated": 1706155043665,
+			"updated": 1706155119577,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 1319608415,
+			"version": 257,
+			"versionNonce": 893892255,
 			"isDeleted": false,
 			"id": "Ovl6nOyu",
 			"fillStyle": "hachure",
@@ -76,31 +77,31 @@ oval is start/end ^nF89Xvod
 			"y": -269.25,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 234.9398193359375,
+			"width": 350.53973388671875,
 			"height": 50,
 			"seed": 1793440529,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706155081925,
+			"updated": 1706155097090,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Assignment/ = rectangle\n",
-			"rawText": "Assignment/ = rectangle\n",
+			"text": "Assignment/calculations = rectangle\n",
+			"rawText": "Assignment/calculations = rectangle\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Assignment/ = rectangle\n",
+			"originalText": "Assignment/calculations = rectangle\n",
 			"lineHeight": 1.25,
 			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 682477567,
+			"version": 181,
+			"versionNonce": 1439921215,
 			"isDeleted": false,
 			"id": "dTUCGxRw",
 			"fillStyle": "hachure",
@@ -109,30 +110,35 @@ oval is start/end ^nF89Xvod
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -215.75,
-			"y": -255.25,
+			"x": -223.75,
+			"y": -284.25,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 121.23989868164062,
-			"height": 50,
+			"width": 182.35987854003906,
+			"height": 75,
 			"seed": 1305254719,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1706155043666,
+			"boundElements": [
+				{
+					"id": "wnaSYi4kmuAzsT6xgqn46",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706155123196,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Total <- 0\nCounter <- 1",
-			"rawText": "Total <- 0\nCounter <- 1",
+			"text": "Total <- 0\nCounter <- 1\nTotal <- Total +1",
+			"rawText": "Total <- 0\nCounter <- 1\nTotal <- Total +1",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Total <- 0\nCounter <- 1",
+			"originalText": "Total <- 0\nCounter <- 1\nTotal <- Total +1",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -174,8 +180,8 @@ oval is start/end ^nF89Xvod
 		{
 			"id": "6WB0XurLGI7BQKX-K4AEH",
 			"type": "freedraw",
-			"x": 53.484893798828125,
-			"y": -134.375,
+			"x": 113.48489379882812,
+			"y": -125.375,
 			"width": 121.5,
 			"height": 74.5,
 			"angle": 0,
@@ -190,11 +196,11 @@ oval is start/end ^nF89Xvod
 			"frameId": null,
 			"roundness": null,
 			"seed": 751220625,
-			"version": 71,
-			"versionNonce": 706020625,
+			"version": 126,
+			"versionNonce": 1619381361,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155043666,
+			"updated": 1706155132409,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -481,8 +487,8 @@ oval is start/end ^nF89Xvod
 		{
 			"id": "S5n6BsZNcdUJqz1_IK18N",
 			"type": "freedraw",
-			"x": -54.015106201171875,
-			"y": -227.375,
+			"x": 8.484893798828125,
+			"y": -215.875,
 			"width": 26.5,
 			"height": 36.5,
 			"angle": 0,
@@ -497,11 +503,11 @@ oval is start/end ^nF89Xvod
 			"frameId": null,
 			"roundness": null,
 			"seed": 348312817,
-			"version": 41,
-			"versionNonce": 1903579263,
+			"version": 70,
+			"versionNonce": 1521400255,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155043666,
+			"updated": 1706155130268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -668,10 +674,10 @@ oval is start/end ^nF89Xvod
 		{
 			"id": "K5KQDoNtcWJAakqfYjJ6c",
 			"type": "arrow",
-			"x": -143.01510620117188,
-			"y": -169.875,
-			"width": 2,
-			"height": 81.5,
+			"x": -138.5996016933354,
+			"y": -167.375,
+			"width": 2.415504507836488,
+			"height": 79,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -684,11 +690,11 @@ oval is start/end ^nF89Xvod
 			"frameId": null,
 			"roundness": null,
 			"seed": 1425570321,
-			"version": 29,
-			"versionNonce": 1144273649,
+			"version": 74,
+			"versionNonce": 1506838719,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155043666,
+			"updated": 1706155119578,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -697,8 +703,8 @@ oval is start/end ^nF89Xvod
 					0
 				],
 				[
-					2,
-					81.5
+					-2.415504507836488,
+					79
 				]
 			],
 			"lastCommittedPoint": null,
@@ -730,16 +736,11 @@ oval is start/end ^nF89Xvod
 			"frameId": null,
 			"roundness": null,
 			"seed": 630444113,
-			"version": 39,
-			"versionNonce": 645011665,
+			"version": 40,
+			"versionNonce": 1385338737,
 			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "wnaSYi4kmuAzsT6xgqn46",
-					"type": "arrow"
-				}
-			],
-			"updated": 1706155070593,
+			"boundElements": [],
+			"updated": 1706155126201,
 			"link": null,
 			"locked": false
 		},
@@ -1290,10 +1291,10 @@ oval is start/end ^nF89Xvod
 		{
 			"id": "wnaSYi4kmuAzsT6xgqn46",
 			"type": "arrow",
-			"x": -138.01510620117188,
-			"y": -375.875,
-			"width": 1,
-			"height": 79.5,
+			"x": -137.17072043558883,
+			"y": -378.8761405842721,
+			"width": 2.586812934791652,
+			"height": 85.0011405842721,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1306,11 +1307,11 @@ oval is start/end ^nF89Xvod
 			"frameId": null,
 			"roundness": null,
 			"seed": 777979935,
-			"version": 37,
-			"versionNonce": 1865490161,
+			"version": 223,
+			"versionNonce": 941945233,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155070593,
+			"updated": 1706155126201,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1319,17 +1320,17 @@ oval is start/end ^nF89Xvod
 					0
 				],
 				[
-					-1,
-					79.5
+					2.586812934791652,
+					85.0011405842721
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "Ilfktvxf2sJv8IlhSwdZL",
-				"focus": 0.001960847229449993,
-				"gap": 1.5009848659757807
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "dTUCGxRw",
+				"focus": -0.0062792371733507305,
+				"gap": 9.625
 			},
-			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
@@ -2630,7 +2631,7 @@ oval is start/end ^nF89Xvod
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 406.7651062011719,
-		"scrollY": 457.125,
+		"scrollY": 357.125,
 		"zoom": {
 			"value": 2
 		},
