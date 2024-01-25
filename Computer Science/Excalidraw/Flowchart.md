@@ -21,7 +21,12 @@ Start ^isVz6jux
 
 oval is start/end ^nF89Xvod
 
-Input/output values ^vvLZI06E
+Input/output values
+Parallelogram ^vvLZI06E
+
+PRINT "Total"
+PRINT "Counter"
+INPUT Name ^ftCJFSVF
 
 %%
 # Drawing
@@ -1413,8 +1418,8 @@ Input/output values ^vvLZI06E
 		{
 			"id": "d5BoJCZs3ll_pG79NC1-0",
 			"type": "freedraw",
-			"x": 27.984893798828125,
-			"y": -3.875,
+			"x": 31.484893798828125,
+			"y": -1.875,
 			"width": 64,
 			"height": 66,
 			"angle": 0,
@@ -1429,11 +1434,11 @@ Input/output values ^vvLZI06E
 			"frameId": null,
 			"roundness": null,
 			"seed": 397588255,
-			"version": 31,
-			"versionNonce": 1282898097,
+			"version": 54,
+			"versionNonce": 330457233,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155386256,
+			"updated": 1706155461063,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1730,7 +1735,7 @@ Input/output values ^vvLZI06E
 			"x": 20.984893798828125,
 			"y": 9.125,
 			"width": 201.23980712890625,
-			"height": 25,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1743,23 +1748,60 @@ Input/output values ^vvLZI06E
 			"frameId": null,
 			"roundness": null,
 			"seed": 901152639,
-			"version": 58,
-			"versionNonce": 1146457759,
+			"version": 92,
+			"versionNonce": 744151569,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706155406307,
+			"updated": 1706155419076,
 			"link": null,
 			"locked": false,
-			"text": "Input/output values",
-			"rawText": "Input/output values",
+			"text": "Input/output values\nParallelogram",
+			"rawText": "Input/output values\nParallelogram",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "Input/output values",
+			"originalText": "Input/output values\nParallelogram",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "ftCJFSVF",
+			"type": "text",
+			"x": -240.51510620117188,
+			"y": -106.875,
+			"width": 175.78125,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 893798865,
+			"version": 47,
+			"versionNonce": 795610591,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706155457524,
+			"link": null,
+			"locked": false,
+			"text": "PRINT \"Total\"\nPRINT \"Counter\"\nINPUT Name",
+			"rawText": "PRINT \"Total\"\nPRINT \"Counter\"\nINPUT Name",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 67,
+			"containerId": null,
+			"originalText": "PRINT \"Total\"\nPRINT \"Counter\"\nINPUT Name",
+			"lineHeight": 1.2
 		},
 		{
 			"id": "i3JQoeOo52MCF0gLVzfAq",
@@ -3459,13 +3501,13 @@ Input/output values ^vvLZI06E
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 3,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 406.7651062011719,
-		"scrollY": 257.125,
+		"scrollY": 307.125,
 		"zoom": {
 			"value": 2
 		},
