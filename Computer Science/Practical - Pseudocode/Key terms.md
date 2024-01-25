@@ -1,0 +1,1 @@
+- **Abstraction** - Extracting only in
