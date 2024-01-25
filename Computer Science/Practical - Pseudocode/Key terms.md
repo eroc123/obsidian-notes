@@ -1,1 +1,4 @@
-- **Abstraction** - Extracting only in
+- **Abstraction** - Extracting only information that is essential while ignoring irrelevant information when solving a problem
+- **Decomposition** - Break a complex problem into smaller, simpler problems
+- **Pattern recognition** - Recognize parts of a problem that are similar and can use the same code
+- ****
