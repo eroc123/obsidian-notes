@@ -1,0 +1,1 @@
+- Decomposition of structured english to turn a complex task into multiple smaller, simpler tasks.
