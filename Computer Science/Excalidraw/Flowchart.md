@@ -39,6 +39,8 @@ No ^yvJWgc1Z
 
 Yes ^K5wrEBrC
 
+if yes, the program jumps back  ^sCELVv6h
+
 %%
 # Drawing
 ```json
@@ -1980,7 +1982,7 @@ Yes ^K5wrEBrC
 			"type": "arrow",
 			"x": -165.89117898149414,
 			"y": 197.67499999999995,
-			"width": 671.2,
+			"width": 640.8000000000001,
 			"height": 532,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1992,15 +1994,13 @@ Yes ^K5wrEBrC
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
+			"roundness": null,
 			"seed": 1150745343,
-			"version": 470,
-			"versionNonce": 947944945,
+			"version": 526,
+			"versionNonce": 240472287,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706233063017,
+			"updated": 1706233073353,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2009,8 +2009,8 @@ Yes ^K5wrEBrC
 					0
 				],
 				[
-					-30.399999999999977,
-					148.80000000000007
+					5.684341886080802e-14,
+					174.4000000000001
 				],
 				[
 					626.4,
@@ -2033,6 +2033,43 @@ Yes ^K5wrEBrC
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "sCELVv6h",
+			"type": "text",
+			"x": -32.29117898149411,
+			"y": 396.075,
+			"width": 311.27972412109375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 881049681,
+			"version": 58,
+			"versionNonce": 1074757727,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706233102123,
+			"link": null,
+			"locked": false,
+			"text": "if yes, the program jumps back ",
+			"rawText": "if yes, the program jumps back ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "if yes, the program jumps back ",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "O_qluAaXc0wrVx5bK8l-p",
@@ -2239,11 +2276,11 @@ Yes ^K5wrEBrC
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 598.2911789814941,
-		"scrollY": 646.725,
+		"scrollY": 406.725,
 		"zoom": {
 			"value": 1.25
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
