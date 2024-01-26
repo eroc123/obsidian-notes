@@ -4,3 +4,4 @@
 - **Algorithm** - An ordered set of steps to be followed in the completion of a task
 - **Structured English** - method of showing the logical steps in an algorithm using straightforward English words for commands.
 - **Flow Chart** - a diagrammatic representation of an algorithm.
+- **Pseudocode** - A method of showing the detailed logical steps in an algorithm, using keywords, identifiers with meaningful names and mathematical operators to represent a solution. Syntax is not representitive of any programming language.
