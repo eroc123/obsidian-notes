@@ -12,4 +12,6 @@ IF Name = "John"
 		PRINT "Not the right name"
 ENDIF
 
-For an IF statement, there must be a condition (Comparison in the if)
+For an IF statement, there must be a condition (Comparison in the if statement to check if the condition is **true**)
+If true, **THEN** run the file (must include then or else it wont work)
+
