@@ -1,3 +1,3 @@
 ![[Pseudocode Syntax.png]]
 - String Concatenation - merging two strings together, e.g.
-PRINT "Hello "
+PRINT "Hello "&"my name is Bob"
