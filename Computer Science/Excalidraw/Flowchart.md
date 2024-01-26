@@ -39,7 +39,11 @@ No ^yvJWgc1Z
 
 Yes ^K5wrEBrC
 
-if yes, the program jumps back  ^sCELVv6h
+if yes, the program jumps back to the second
+flow chart box and re-executes that part. ^sCELVv6h
+
+if no, end the 
+program ^KiSRXWct
 
 %%
 # Drawing
@@ -1680,8 +1684,8 @@ if yes, the program jumps back  ^sCELVv6h
 		},
 		{
 			"type": "arrow",
-			"version": 94,
-			"versionNonce": 1105131071,
+			"version": 100,
+			"versionNonce": 2070444703,
 			"isDeleted": false,
 			"id": "tNpJaZmiD4ZHwxORziQeD",
 			"fillStyle": "hachure",
@@ -1690,11 +1694,11 @@ if yes, the program jumps back  ^sCELVv6h
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 15.305738218367793,
+			"x": 18.261532005781902,
 			"y": 190.125,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.82084441953967,
+			"width": 68.77663820695378,
 			"height": 63,
 			"seed": 533887345,
 			"groupIds": [],
@@ -1703,7 +1707,7 @@ if yes, the program jumps back  ^sCELVv6h
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706233045274,
+			"updated": 1706233157971,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1725,19 +1729,19 @@ if yes, the program jumps back  ^sCELVv6h
 					0
 				],
 				[
-					-18.820844419539668,
+					-21.776638206953777,
 					-53
 				],
 				[
-					-65.82084441953967,
+					-68.77663820695378,
 					-63
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 77,
-			"versionNonce": 140628273,
+			"version": 91,
+			"versionNonce": 768385489,
 			"isDeleted": false,
 			"id": "u4nkDE5J",
 			"fillStyle": "hachure",
@@ -1746,7 +1750,7 @@ if yes, the program jumps back  ^sCELVv6h
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9.484893798828125,
+			"x": 15.884893798828216,
 			"y": 205.625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1762,7 +1766,7 @@ if yes, the program jumps back  ^sCELVv6h
 					"type": "arrow"
 				}
 			],
-			"updated": 1706233045274,
+			"updated": 1706233167482,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1982,8 +1986,8 @@ if yes, the program jumps back  ^sCELVv6h
 			"type": "arrow",
 			"x": -165.89117898149414,
 			"y": 197.67499999999995,
-			"width": 640.8000000000001,
-			"height": 532,
+			"width": 626.4,
+			"height": 705.6000000000001,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1996,11 +2000,11 @@ if yes, the program jumps back  ^sCELVv6h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1150745343,
-			"version": 526,
-			"versionNonce": 240472287,
+			"version": 688,
+			"versionNonce": 1901549503,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706233073353,
+			"updated": 1706233139047,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2017,12 +2021,12 @@ if yes, the program jumps back  ^sCELVv6h
 					174.39999999999998
 				],
 				[
-					640.8000000000001,
-					-353.6
+					621.6,
+					-528
 				],
 				[
-					20,
-					-357.59999999999997
+					34.400000000000006,
+					-531.2
 				]
 			],
 			"lastCommittedPoint": [
@@ -2039,8 +2043,8 @@ if yes, the program jumps back  ^sCELVv6h
 			"type": "text",
 			"x": -32.29117898149411,
 			"y": 396.075,
-			"width": 311.27972412109375,
-			"height": 25,
+			"width": 449.41961669921875,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2053,22 +2057,59 @@ if yes, the program jumps back  ^sCELVv6h
 			"frameId": null,
 			"roundness": null,
 			"seed": 881049681,
-			"version": 58,
-			"versionNonce": 1074757727,
+			"version": 141,
+			"versionNonce": 1027744881,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706233102123,
+			"updated": 1706233125273,
 			"link": null,
 			"locked": false,
-			"text": "if yes, the program jumps back ",
-			"rawText": "if yes, the program jumps back ",
+			"text": "if yes, the program jumps back to the second\nflow chart box and re-executes that part.",
+			"rawText": "if yes, the program jumps back to the second\nflow chart box and re-executes that part.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "if yes, the program jumps back ",
+			"originalText": "if yes, the program jumps back to the second\nflow chart box and re-executes that part.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "KiSRXWct",
+			"type": "text",
+			"x": -426.6911789814941,
+			"y": 153.67499999999998,
+			"width": 143.4398956298828,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 702032273,
+			"version": 38,
+			"versionNonce": 1098717343,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706233155611,
+			"link": null,
+			"locked": false,
+			"text": "if no, end the \nprogram",
+			"rawText": "if no, end the \nprogram",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "if no, end the \nprogram",
 			"lineHeight": 1.25
 		},
 		{
@@ -2262,7 +2303,7 @@ if yes, the program jumps back  ^sCELVv6h
 	],
 	"appState": {
 		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"viewBackgroundColor": "#f5faff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -2276,15 +2317,15 @@ if yes, the program jumps back  ^sCELVv6h
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 598.2911789814941,
-		"scrollY": 406.725,
+		"scrollY": 486.725,
 		"zoom": {
 			"value": 1.25
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
+			"Bold": "#8AC4FFFF",
+			"Regular": "#D1E8FFFF"
 		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
