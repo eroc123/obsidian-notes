@@ -1,3 +1,8 @@
+---
+tags:
+  - "#pseudocode"
+  - "#algorithmdesign"
+---
 
 Counter <- 1
 Name <- "John" (quotes for string)
