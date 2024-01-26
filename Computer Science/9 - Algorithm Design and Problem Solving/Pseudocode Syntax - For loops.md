@@ -16,4 +16,7 @@ NEXT Counter
 - The for loop repeats until the index arrives to the number specified, in this case 10. The condition is inclusive of 10, hence the counter will run one more time even when it has hit 10. 
 - After 10 however it will stop.
 - Hence:
-	- FOR Counter <- 1 TO 10 will run 10 times ()
+	- FOR Counter <- 1 TO 10 will run 10 times 
+	- FOR Counter <- 0 TO 10 will run 11 times
+	- FOR Counter <- 1 TO 10 STEP 2 will run 5 times
+	- FOR Counter <- 0 TO 10 STEP 2 will run 6 times
