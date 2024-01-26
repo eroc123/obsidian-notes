@@ -11,6 +11,9 @@ FOR Counter ← 1 TO 10 STEP 2
 NEXT Counter
 
 
-**FOR** is a loop with a fixed number of repeats 
-**STEP** specifies with what increment the index increases by, e.g. step 2 means it increases by 2 each iteration until counter = 10 (the index)
-The for loop repeats until the index arrives to the number specified, in this case 10. The condition is in
+- **FOR** is a loop with a fixed number of repeats 
+- **STEP** specifies with what increment the index increases by, e.g. step 2 means it increases by 2 each iteration until counter = 10 (the index)
+- The for loop repeats until the index arrives to the number specified, in this case 10. The condition is inclusive of 10, hence the counter will run one more time even when it has hit 10. 
+- After 10 however it will stop.
+- Hence:
+	- FOR Counter <- 1 TO 10 will run 10 times ()
