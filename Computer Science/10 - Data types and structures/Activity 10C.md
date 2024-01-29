@@ -1,3 +1,9 @@
+---
+tags:
+  - comsci/chapter-10
+  - "#practice"
+  - "#array"
+---
 
 
 >TYPE
