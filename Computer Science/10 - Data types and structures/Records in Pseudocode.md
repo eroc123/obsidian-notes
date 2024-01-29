@@ -1,3 +1,8 @@
+---
+tags:
+  - comsci/chapter-10
+  - datatypes
+---
 
 >TYPE 
 >TbookRecord 
