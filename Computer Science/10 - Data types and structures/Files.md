@@ -25,3 +25,7 @@ READFILE \<file identifier>, \<variable>
 
 WRITEFILE \<file identifier>, \<variable>
 
+**Variable must always be a string**
+
+##### END OF FILE IDENTIFIER
+EOF(\<file identifier>)
