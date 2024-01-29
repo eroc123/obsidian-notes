@@ -24,3 +24,4 @@ READFILE \<file identifier>, \<variable>
 ##### WRITE MODE
 
 WRITEFILE \<file identifier>, \<variable>
+
