@@ -1,0 +1,9 @@
+- Saffir-simpson Hurricane Wind Scale, measured from 1-5 based on hurricane sustained wind speed
+- e.g. Hurricane Idalia (2023)
+	- Peak intensity: Category 3 
+	- Location: Southeastern US, Yutacan Penninsula in Mexico
+	- Damage: 3.6 billion USD
+- e.g. Hurricane Franklin (2023)
+	- Peak intensity: Category 4 (240km/h)
+	- Location: Off the eastern coast of the US, Dominican Republic (impacted)
+	- Damage: 90 million USD

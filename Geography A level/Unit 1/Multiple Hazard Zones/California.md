@@ -1,0 +1,27 @@
+- Population: 40 million
+- Population Density: 96.6 km^2
+- Types of hazards: 
+	- **[[Earthquake causes|Earthquakes]]**
+		- Situated on active fault lines such as the San Andreas Fault
+		- Pacific Plate and the North American plate are both moving northwest, but the Pacific plate is moving faster, causing friction
+	- Wildfires
+	- Droughts
+	- Tsunamis
+	- Landslides
+	- Floods 
+		- [[ENSO]] increases amount of rainfall that California gets, increasing chance of landslides and coastal erosion
+	- Coastal Erosion
+- GDP
+	- 3.6 trillion USD
+	- 68,000 USD per capita
+- Land use
+	- Clear zoning laws - dictates how land or city or town in California can be used, categories include agriculture, residential, commercial and industrial
+- Topography
+	- Diverse. Mountain ranges, valleys, flat land, coast.
+- Poverty rate
+	- 13.2% lives below the poverty line
+- Hazard frequency: 
+	- 2-3 earthquakes large enough to cause damage per year
+- Solutions to hazards
+	- Aseismic design: buildings are less prone to collapse as they are designed to withstand earthquakes
+	- Multi-Hazards Demonstration Project: initiated in 2007 by the US Geological Survey helps communities in southern California reduce death and destruction from natural hazards

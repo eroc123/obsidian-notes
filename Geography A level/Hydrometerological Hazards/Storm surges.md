@@ -1,0 +1,3 @@
+- Abnormal rise of water above the level fo the astronomical (moon) tides
+- Storm surge is measured as water level above the mean sea level
+- Caused due to water being pushed ashore by a tropical cylcone's wind + a small effect from the storm's low pressure drawing water up.

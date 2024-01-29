@@ -1,0 +1,8 @@
+- Natural Hazard 
+	- A natural event with the potential to harm people and property
+- Disaster
+	- UN definition: a serious disruption of the functioning of a community or a society involving widespread human, material, economic or environmental losses and impacts, which exceeds the ability of the affected community or society to cope using its own resources
+- Disaster resilience
+	- The ability of a community to cope with a hazard
+- Capacity to cope
+	- The ability to effectively handle and adapt to challenges or stressors, considering resources, knowledge and resillience

@@ -1,0 +1,2 @@
+- made up of one quark and one antiquark
+- not made up of two quarks

@@ -1,0 +1,1 @@
+- When smashing two particles together, conservation of energy means that total energy of particles before collision = total energy of particles after collision.

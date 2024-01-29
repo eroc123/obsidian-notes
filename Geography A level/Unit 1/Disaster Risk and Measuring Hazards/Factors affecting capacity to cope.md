@@ -1,0 +1,5 @@
+- Money
+- Access to aid
+- International Relationships
+- Debt
+- Population Structure

@@ -5,5 +5,5 @@
 	- Volcanic eruptions
 
 **Normal waves vs tsunamis**
-- Normal wave's source of energy is from wind and friction on the surface of the water, creating waves
+- Normal [[obsidian-notes/Geography A level/Coasts/L2 Coastal processes and landforms/Waves/Wave creation|wave's]] source of energy is from wind and friction on the surface of the water, creating waves
 - Tsunami wave's (NOT TIDAL WAVE) source of energy is from undersea geophysical forces.

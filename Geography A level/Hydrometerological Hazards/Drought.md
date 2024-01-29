@@ -1,0 +1,6 @@
+- Medium term hazard
+- Caused by abnormally low rainfall (below average rainfall for an extended period of time)
+- Different from aridity (permanent state of low rainfall)
+- Complex phenomenan (difficult to monitor and define)
+	- This is because it has no definite beginning or end (must detect whether the level of rainfall or a time period is abnormally low or within accepted levels)
+	- Also because there are different types that isnt solely based on meterological reasons.

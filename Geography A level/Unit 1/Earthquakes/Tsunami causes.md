@@ -1,0 +1,2 @@
+- When earthquakes happen underwater and displace large volumes of seawater
+	- This causes large undersea waves to travel at speeds up to 800 km/h (in circular motions)
