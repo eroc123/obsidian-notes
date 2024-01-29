@@ -4,7 +4,6 @@ share: "true"
 
 > (resultant) force is proportional/equal to the rate of change of momentum
 
-When the resultant force is not 0, object accelerate in the direction of the resultant force
 $F = m \times a$
 However, considering an object with mass m, with a force F acting on it. This causes the object to have a change in velocity, therefore a change in momentum
 

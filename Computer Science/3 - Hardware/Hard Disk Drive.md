@@ -23,7 +23,6 @@
 - Random access (data doesn't need to be read in a sequence to access the intended data)
 - High capacities
 - Low cost per megabyte
-- Long longevity - more read/write operations than an SSD 
 **Disadvantage:**
 - Latency, since head needs time to move to the correct track to access the block of data.
 - Susceptible to physical shock

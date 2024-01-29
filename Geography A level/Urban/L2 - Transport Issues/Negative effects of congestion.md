@@ -1,0 +1,21 @@
+- Commuter costs
+	- Lost time
+	- Wasted fuel (idling in traffic)
+	- Increased stress and reduced quality of life
+- Safety cost
+	- Crashes more likely
+	- Higher likelyhood of road rage (people get angry and stressed and release it on others)
+	- Increased emergency response times (you can see in Chiang Mai, how there may be ambulances stuck behind you in traffic but you physically cannot move to get out the way)
+- Environmental and public health costs
+	- Wasted fuel
+	- Increased $CO_2$ and [[Effects of increased automobile numbers|other pollutants]] (especially pm2.5 which is a huge problem in Chiang Mai especially in March-April) in the atmosphere 
+		- Can cause increased risk of respiratory and cardiovascular illnesses, premature death and cancer
+- Freight costs
+	- Freight delay - stuck in traffic + supply chain disruptions
+	- Wasted fuel
+	- Increased shipping time 
+	- Less reliable pick up and delivery times
+- Reduced economic competitiveness
+	- Delays to container ports
+	- Smaller labor pool
+	- Less access to jobs - a commute can only take so long before people no longer do it.

@@ -1,3 +1,3 @@
 
-- Transistors arranged as a flip flop with each flip flop holding one bit of memory
+- Uses a group of 4 transistors to hold memory
 - Much faster than DRAM and does not need to be constantly refreshed

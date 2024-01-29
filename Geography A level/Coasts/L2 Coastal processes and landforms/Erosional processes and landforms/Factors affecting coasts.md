@@ -1,0 +1,3 @@
+- Energy level of a coast ([[Destructive waves|destructive waves]] or [[Constructive waves|constructive waves]] for high/low energy respectively)
+- Dominated by erosion or [[Key coast terms#**Deposition - the process by which sediment is released from flowing water when it loses energy**|deposition]] (depends on the type of wave too and how sheltered the coast is)
+- How much human activity there is or how managed the beach is (whether there are a lot of coastal defenses for example)

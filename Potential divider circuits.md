@@ -9,4 +9,4 @@ $I = V_T / R_T$
 $I = \epsilon /(R_1 + R_{out})$
 
 
-![[Pasted image 20231202184209.png]]
+![[obsidian-notes/attachments/Pasted image 20231202184209.png]]
