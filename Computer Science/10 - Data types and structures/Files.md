@@ -30,6 +30,7 @@ WRITEFILE \<file identifier>, \<variable>
 ##### END OF FILE IDENTIFIER
 EOF(\<file identifier>)
 
+returns TRUE if the end of the file has been reached, FALSE otherwise.
 ##### CLOSE FILE
 CLOSEFILE \<file identifier>
 
