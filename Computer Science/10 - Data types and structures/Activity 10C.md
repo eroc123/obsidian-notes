@@ -3,4 +3,6 @@
 >TYPE
 StudentRecord
 	DECLARE Name : STRING
-	DECLARE DoB : 
+	DECLARE DoB : STRING
+	DECLARE Class : INT
+	DECLARE Gender : BOOLEAN
