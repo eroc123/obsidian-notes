@@ -23,4 +23,13 @@ Show understanding of why files are needed
 Write pseudocode to handle text files that consist of one or more lines
 
 ##### 10.4 Introduction to Abstract Data Types (ADT)
-Show understanding that an ADT is a collection of data and a set of operations on those data Notes and guidance Show understanding that a stack, queue and linked list are examples of ADTs Describe the key features of a stack, queue and linked list and justify their use for a given situation Use a stack, queue and linked list to store data Candidates will not be required to write pseudocode for these structures, but they should be able to add, edit and delete data from these structures Describe how a queue, stack and linked list can be implemented using arrays
+
+Show understanding that an ADT is a collection of data and a set of operations on those data 
+
+Show understanding that a stack, queue and linked list are examples of ADTs 
+- Describe the key features of a stack, queue and linked list and justify their use for a given situation 
+
+Use a stack, queue and linked list to store data 
+- Candidates will not be required to write pseudocode for these structures, but they should be able to add, edit and delete data from these structures
+
+Describe how a queue, stack and linked list can be implemented using arrays
