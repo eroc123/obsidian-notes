@@ -18,7 +18,7 @@ DECLARE temp : INTEGER
 DECLARE top : INTEGER 
 upperBound ← 8
 lowerBound ← 0 
-top ← upperBound 
+top ← upperBound  - ** top index is equivalent to upper bound**
 REPEAT 
 	FOR index = lowerBound TO top - 1 
 		Swap ← FALSE 
