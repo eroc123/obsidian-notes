@@ -7,6 +7,24 @@ Show an understanding of abstraction
 Describe and use [[Computer Science/9 - Algorithm Design and Problem Solving/Key terms|decomposition]] 
 - Break down problems into sub-problems leading to the concept of a program module (procedure / function)
 
+##### 9.2 Algorithms
+
 Show understanding that an algorithm is a solution to a problem expressed as a sequence of defined steps 
--  Use suitable identifier names for the representation of data used by a problem and represent these using an [[identifier table]] 
-- Write pseudocode that contains input, process and output Write pseudocode using the three basic constructs of sequence, selection and iteration (repetition) Document a simple algorithm using a structured English description, a flowchart or pseudocode Write pseudocode from: • a structured English description • a flowchart Draw a flowchart from: • a structured English description • pseudocode
+
+Use suitable identifier names for the representation of data used by a problem and represent these using an [[identifier table]] 
+
+Write pseudocode that contains input, process and output 
+
+Write pseudocode using the three basic constructs of sequence, selection and iteration (repetition) 
+
+Document a simple algorithm using a structured English description, a flowchart or pseudocode 
+
+**Write pseudocode from:** 
+- a structured English description 
+- a flowchart 
+**Draw a flowchart from:** 
+- a structured English description 
+- pseudocode
+Describe and use the process of [[stepwise refinement]] to express an algorithm to a level of detail from which the task may be programmed
+
+Use logic statements to define parts of an algorithm solution
