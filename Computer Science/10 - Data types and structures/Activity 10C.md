@@ -8,4 +8,7 @@
 	DECLARE Gender : BOOLEAN
    ENDTYPE
 
-> StudentRecord.NAM
+> StudentRecord.Name <- "Ahmad Sayed"
+> StudentRecord.DoB <- 
+> StudentRecord.Class <- "5A"
+> StudentRecord.Gender <- 
