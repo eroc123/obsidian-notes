@@ -12,7 +12,7 @@ Show understanding of the purpose of a record structure to hold a set of data of
 
 ##### 10.2 Arrays
 Use the technical terms associated with arrays 
-- Including index, upper and lower bound
+- Including [[Arrays|index, upper and lower bound]]
 
 Select a suitable data structure (1D or 2D array) to use for a given task 
 
