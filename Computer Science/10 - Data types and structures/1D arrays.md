@@ -21,9 +21,14 @@ Example:
 
 DECALRE \<identifier> : ARRAY\[LowerBound:UpperBound] OF \<data type>
 DECLARE myList : ARRAY[\0:\8] OF INTEGER
+
+- the lower bound is 0 (index 0 is first element)
+- the upper bound is 8 (index 8 is last element)
 ##### Assigning data to an index within the list
 
 myList\[7] <- 14
+
+(the 7th index changed to 14)
 
 | Index | myList |
 | ----- | ------ |
