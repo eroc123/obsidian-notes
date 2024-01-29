@@ -29,3 +29,5 @@ MyArray
 ##### Declaring 2D arrays in Pseudocode
 
 > Declare \<identifier> : ARRAY\[LBR:UBR, LBC:UBC] OF \<data type>
+
+- row always comes first in the index, then column. 
