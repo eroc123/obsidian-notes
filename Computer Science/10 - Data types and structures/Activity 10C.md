@@ -1,9 +1,11 @@
 
 
-TYPE
-StudentRecord
+>TYPE
+   StudentRecord
 	DECLARE Name : STRING
 	DECLARE DoB : STRING
 	DECLARE Class : STRING
 	DECLARE Gender : BOOLEAN
-ENDTYPE
+   ENDTYPE
+
+> StudentReco
