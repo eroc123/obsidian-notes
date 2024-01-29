@@ -19,4 +19,11 @@ To reference an item from the record "TbookRecord", the user uses the identifer 
 
 > <identifer>.<item identifer>
 
-- identifer used to reference the record ca
+- identifer used to reference the record called TbookRecord
+- item identifer used to reference the specific item declared within TbookRecord
+
+e.g. to reference author
+
+
+
+
