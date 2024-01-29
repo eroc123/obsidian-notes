@@ -13,6 +13,8 @@ must remove 3, 2 and 1 before being able to remove 0
 
 base pointer ^1BSWhjEU
 
+top pointer ^gGct6kvm
+
 %%
 # Drawing
 ```json
@@ -2681,6 +2683,87 @@ base pointer ^1BSWhjEU
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "base pointer",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "5FR9vYHVDJry7xKGpLS0L",
+			"type": "arrow",
+			"x": -274.1176757812502,
+			"y": -340.66435185185185,
+			"width": 47.500000000000114,
+			"height": 165,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 972029052,
+			"version": 34,
+			"versionNonce": 428804420,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706516853253,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.500000000000114,
+					165
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "gGct6kvm",
+			"type": "text",
+			"x": -277.8676757812502,
+			"y": -395.66435185185196,
+			"width": 107.73988342285156,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1939807612,
+			"version": 14,
+			"versionNonce": 2131352004,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706516857441,
+			"link": null,
+			"locked": false,
+			"text": "top pointer",
+			"rawText": "top pointer",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "top pointer",
 			"lineHeight": 1.25
 		},
 		{
