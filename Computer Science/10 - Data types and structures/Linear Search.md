@@ -4,4 +4,5 @@ tags:
   - array
   - "#datamanipulation"
 ---
-- **Linear search**
+- **Linear search** - Each element of the array is checked in order from the lower bound to the upper bound until the item is found or the upper bound is reached.
+-
