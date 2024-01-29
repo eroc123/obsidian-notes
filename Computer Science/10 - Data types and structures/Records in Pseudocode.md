@@ -15,4 +15,8 @@ ENDTYPE
 > DECLARE Book : TbookRecord
 
 
-To reference an item from the TBookRecord
+To reference an item from the record "TbookRecord", the user uses the identifer that they just declared called "Book"
+
+> <identifer>.<item identifer>
+
+- identifer used to reference the record ca
