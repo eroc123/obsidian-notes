@@ -32,3 +32,5 @@ EOF(\<file identifier>)
 
 ##### CLOSE FILE
 CLOSEFILE \<file identifier>
+
+![[example file writing.png]]
