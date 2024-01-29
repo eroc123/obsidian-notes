@@ -1,3 +1,8 @@
+---
+tags:
+  - "#comsci"
+  - "#syllabus"
+---
 ##### 10.1 Data Types and Records
 Select and use appropriate data types for a problem solution 
 -  including integer, real, char, string, Boolean, date (pseudocode will use the following data types: INTEGER, REAL, CHAR, STRING, BOOLEAN, DATE, ARRAY, FILE) 

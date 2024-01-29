@@ -1,3 +1,8 @@
+---
+tags:
+  - comsci/chapter-10
+  - "#vocab"
+---
 **Data type** – a classification attributed to an item of data, which determines the types of value it can take and how it can be used. Identifier – a unique name applied to an item of data. 
 **Record (data type)** – a composite data type comprising several related items that may be of different data types. 
 **Composite data type** – a data type constructed using several of the basic data types available in a particular programming language. 
