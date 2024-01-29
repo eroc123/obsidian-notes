@@ -8,4 +8,5 @@
 - Queue - list containing several items operating on the first in, first out principle
 	- Items can be added to the queue (enqueue) and removed from the queue (dequeue)
 	- First item to queue is first item removed
-- Linked List
+	- ![[queue]]
+- Linked List - list containing several items in which 
