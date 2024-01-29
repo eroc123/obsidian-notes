@@ -30,5 +30,6 @@ REPEAT
 				swap ← TRUE  - **swapping the values and declaring that a swap has happened**
 		ENDIF 
 	NEXT - **one pass of bubble sort complete, continue to next pass** 
-	top ← top -1  - **top - 1 as highest index is now in the correct position, hence the next pass only has to check the values below the highest index**
+	top ← top -1  - **top - 1 as highest index is now in the correct position, hence the next pass only has to check the indexes below the highest index and so on.**
 UNTIL (NOT swap) OR (top = 0)
+**when there are no swaps left or no elements left, stop program**
