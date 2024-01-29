@@ -27,3 +27,5 @@ MyArray
 - Bottom row is upper bound for row index
 
 ##### Declaring 2D arrays in Pseudocode
+
+> Declare \<identifier> : ARRAY\[LBR:UBR, LBC:UBC] OF \<data type>
