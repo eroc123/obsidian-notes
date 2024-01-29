@@ -17,4 +17,6 @@ Example:
 | [7]   | 16     |
 | [8]      | 55       |
 
-#####
+##### Declaring Arrays in Pseudocode
+
+> DE

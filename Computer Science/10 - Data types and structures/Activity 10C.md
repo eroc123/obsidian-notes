@@ -9,6 +9,6 @@
    ENDTYPE
 
 > StudentRecord.Name <- "Ahmad Sayed"
-> StudentRecord.DoB <- 
+> StudentRecord.DoB <- "01/03/05"
 > StudentRecord.Class <- "5A"
 > StudentRecord.Gender <- "Male"
