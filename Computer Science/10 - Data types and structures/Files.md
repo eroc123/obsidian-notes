@@ -29,3 +29,6 @@ WRITEFILE \<file identifier>, \<variable>
 
 ##### END OF FILE IDENTIFIER
 EOF(\<file identifier>)
+
+##### CLOSE FILE
+CLOSEFILE \<file identifier>
