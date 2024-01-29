@@ -5,4 +5,3 @@ tags:
 ---
 > DECLARE <identifier> : <data type> 
 > DECALRE myBirthday : DATE
-> 
