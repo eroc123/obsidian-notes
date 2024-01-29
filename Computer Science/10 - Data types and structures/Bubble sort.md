@@ -9,7 +9,7 @@ tags:
 - Upper bound is now in right position
 - Comparison is repeated with one less element in the list until there is only one element left or no swaps are made.
 
-DECLARE myList : ARRAY[0:8] OF INTEGER 
+DECLARE myList : ARRAY\[0:8] OF INTEGER 
 DECLARE upperBound : INTEGER 
 DECLARE lowerBound : INTEGER 
 DECLARE index : INTEGER 
@@ -22,7 +22,13 @@ top ← upperBound
 REPEAT 
 	FOR index = lowerBound TO top - 1 
 		Swap ← FALSE 
-		IF myList[index] > myList[index + 1] 
+		IF myList\[index] > myList\[index + 1] 
 			THEN 
-				temp ← myList[index] 
-				myList[index] ← myList[index + 1] myList[index + 1] ← temp swap ← TRUE ENDIF NEXT top ← top -1 UNTIL (NOT swap) OR (top = 0)
+				temp ← myList\[index] 
+				myList\[index] ← myList\[index + 1] 
+				myList\[index + 1] ← temp 
+				swap ← TRUE 
+			ENDIF 
+		NEXT
+		top ← top -1 
+UNTIL (NOT swap) OR (top = 0)
