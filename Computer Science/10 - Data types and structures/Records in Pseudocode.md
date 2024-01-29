@@ -17,13 +17,16 @@ ENDTYPE
 
 To reference an item from the record "TbookRecord", the user uses the identifer that they just declared called "Book"
 
-> <identifer>.<item identifer>
+> <identifer>.<item identifer> 
+
+
 
 - identifer used to reference the record called TbookRecord
 - item identifer used to reference the specific item declared within TbookRecord
 
 e.g. to reference author
 
-
+Book.author <- "David Watson"
+Book.fiction <- False
 
 
