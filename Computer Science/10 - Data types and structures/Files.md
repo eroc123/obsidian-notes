@@ -19,4 +19,8 @@ OPEN \<file identifer> FOR \<file mode>
 
 ##### READ MODE
 
-READFILE \<file identifier>, 
+READFILE \<file identifier>, \<variable>
+
+##### WRITE MODE
+
+WRITEFILE \<file identifier>, \<variable>
