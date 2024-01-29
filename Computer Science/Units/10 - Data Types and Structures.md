@@ -4,7 +4,7 @@ tags:
   - "#syllabus"
 ---
 ##### 10.1 Data Types and Records
-Select and use appropriate data types for a problem solution 
+Select and use appropriate [[Data types|data types]] for a problem solution 
 -  including integer, real, char, string, Boolean, date (pseudocode will use the following data types: INTEGER, REAL, CHAR, STRING, BOOLEAN, DATE, ARRAY, FILE) 
 Show understanding of the purpose of a record structure to hold a set of data of different data types under one identifier 
 - Write pseudocode to define a record structure 
@@ -16,10 +16,11 @@ Use the technical terms associated with arrays
 
 Select a suitable data structure (1D or 2D array) to use for a given task 
 
-Write pseudocode for 1D and 2D arrays 
+Write pseudocode for [[1D arrays|1D]] and [[2D arrays|2D]] arrays 
 
 Write pseudocode to process array data 
-- Sort using a bubble sort Search using a linear search
+- Sort using a [[Bubble sort|bubble sort]]
+- Search using a [[Linear Search|linear search]]
 
 ##### 10.3 Files
 
