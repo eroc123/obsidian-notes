@@ -21,4 +21,18 @@ Example:
 
 DECALRE \<identifier> : ARRAY\[LowerBound:UpperBound] OF \<data type>
 DECLARE myList : ARRAY[\0:\8] OF INTEGER
-#####
+##### Assigning data to an index within the list
+
+myList\[7] <- 14
+
+| Index | myList |
+| ----- | ------ |
+| [0]   | 27     |
+| [1]   | 19     |
+| [2]   | 36     |
+| [3]   | 42     |
+| [4]   | 16     |
+| [5]   | 89     |
+| [6]   | 21     |
+| [7]   | **14** |
+| [8]   | 55     |
