@@ -18,9 +18,9 @@ DECLARE temp : INTEGER
 DECLARE top : INTEGER 
 upperBound ← 8
 lowerBound ← 0 
-top ← upperBound  - ** top index is equivalent to upper bound**
+top ← upperBound  - **top index is equivalent to upper bound**
 REPEAT 
-	FOR index = lowerBound TO top - 1 
+	FOR index <- lowerBound TO top - 1   **e.g. if there are 5 elements, it will do 4 comparisons that is why it is **
 		Swap ← FALSE 
 		IF myList\[index] > myList\[index + 1] 
 			THEN 
