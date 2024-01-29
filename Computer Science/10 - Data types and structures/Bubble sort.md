@@ -22,12 +22,12 @@ top ← upperBound  - **top index is equivalent to upper bound**
 REPEAT 
 	FOR index <- lowerBound TO top - 1   **e.g. if there are 5 elements, it will do 4 comparison that is why it is top-1, where top is the upper bound. Index just assigned to lowerbound since it starts at the lowest index**
 		Swap ← FALSE 
-		IF myList\[index] > myList\[index + 1] - **the comparison, if index ahead has a lower value **
+		IF myList\[index] > myList\[index + 1] - **the comparison, if index ahead (+1) has a lower value than current index then swap the values**
 			THEN 
 				temp ← myList\[index] 
 				myList\[index] ← myList\[index + 1] 
 				myList\[index + 1] ← temp 
-				swap ← TRUE 
+				swap ← TRUE  - **swapping the values and **
 			ENDIF 
 		NEXT
 		top ← top -1 
