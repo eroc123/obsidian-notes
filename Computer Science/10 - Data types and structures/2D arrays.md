@@ -33,5 +33,6 @@ MyArray
 - row index always comes first in the index, then column index
 e.g.
 > DECLARE myArray : ARRAY\[0:8,0:2] OF INTEGER
-- this array has a lower bound of 0 and upper row bound of 8
-- upper column bound fo
+- this array has a lower bound of 0 and upper bound of 8 for row index
+- lower bound of 0 and upper bound of 2 for column index
+- array can only store integer data types
