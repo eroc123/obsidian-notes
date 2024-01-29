@@ -12,4 +12,11 @@ tags:
 OPEN \<file identifer> FOR \<file mode>
 
 ##### File Modes
-- READ 
+- READ - reads data from a file
+- WRITE - writes data to the file, any existing data will be overwritten
+- APPEND - adds data to the end of a file
+
+
+##### READ MODE
+
+READFILE \<file identifier>, 
