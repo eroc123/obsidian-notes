@@ -9,4 +9,4 @@
 	- Items can be added to the queue (enqueue) and removed from the queue (dequeue)
 	- First item to queue is first item removed
 	- ![[queue]]
-- Linked List - list containing several items in which 
+- Linked List - list containing several items in which each item in the list points to the next item in the list
