@@ -22,7 +22,7 @@ ENDTYPE
 
 To reference an item from the record "TbookRecord", the user uses the identifer that they just declared called "Book"
 
-> <identifer>.<item identifer> 
+> \<identifer>.\<item identifer> 
 
 
 

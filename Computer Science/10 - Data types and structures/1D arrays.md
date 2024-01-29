@@ -18,5 +18,7 @@ Example:
 | [8]      | 55       |
 
 ##### Declaring Arrays in Pseudocode
-DECALRE <identifier> : ARRAY[LowerBound:UpperBound] OF <data type>
-DECLARE myList : ARRAY[0:8] OF INTEGER
+
+DECALRE \<identifier> : ARRAY\[LowerBound:UpperBound] OF \<data type>
+DECLARE myList : ARRAY[\0:\8] OF INTEGER
+#####
