@@ -29,6 +29,6 @@ REPEAT
 				myList\[index + 1] ← temp 
 				swap ← TRUE  - **swapping the values and declaring that a swap has happened**
 		ENDIF 
-		NEXT - **one pass of bubb**
-		top ← top -1 
+	NEXT - **one pass of bubble sort complete, continue to next pass** 
+	top ← top -1  - **top - 1 as highest index is now in the correct position, hence the next pass only has to check the values below the highest index**
 UNTIL (NOT swap) OR (top = 0)
