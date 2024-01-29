@@ -8,4 +8,8 @@
 >	DECLARE fiction : BOOLEAN 
 ENDTYPE
 
-A composite datatype called Tbook
+- A user-made composite datatype called TbookRecord has just been defined in this statement.
+	- The data
+- The user can then declare an identifier as such:
+
+> DECLARE Book : TbookRecord
