@@ -27,8 +27,8 @@ REPEAT
 				temp ← myList\[index] 
 				myList\[index] ← myList\[index + 1] 
 				myList\[index + 1] ← temp 
-				swap ← TRUE  - **swapping the values and **
-			ENDIF 
-		NEXT
+				swap ← TRUE  - **swapping the values and declaring that a swap has happened**
+		ENDIF 
+		NEXT - **one pass of bubb**
 		top ← top -1 
 UNTIL (NOT swap) OR (top = 0)
