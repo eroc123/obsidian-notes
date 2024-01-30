@@ -12,13 +12,8 @@ tags:
 
 #### Process 
 
-<<<<<<< HEAD
-- If waves are of the same type, regardless of amplitude or frequency
-- If the waves are of the same [[Polarization]]
-=======
 - If waves are of the same type, regardless of amplitude
 - If the waves are of the same [[polarisation]]
->>>>>>> origin/main
 
 - If two waves are in **phase**, the relative effect on amplitude increases (the amplitude of the two waves are added)
 	- This is because the troughs and crests of both waves line up

@@ -1,4 +1,0 @@
-- [[Two-pass Assembler|Assembler]] - For assembly code into machine code
-- Compiler 
-- Interpreter
-- [[Java complier]] - For java code into an intermediate .class file. 

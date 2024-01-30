@@ -1,1 +1,0 @@
-- Encryption is a technique used to scramble a message and hide it’s meaning if intercepted. The length of the encryption key determines how difficult the message is to crack. Converts plain text to ciphertext using keys 

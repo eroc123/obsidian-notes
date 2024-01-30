@@ -1,4 +1,0 @@
-- USB can be used to connect peripheral devices (Universal Serial Bus)
-- Plug and play concept used (PnP), devices just work when plugged in
-- When plugged in, vendor and product ID are sent so that the computer can find a driver for the device (a small piece of software used to communicate with hardware devices)
-- USB ports can also provide external power

@@ -1,0 +1,1 @@
+Bind quarks together; they are subject to the strong interaction

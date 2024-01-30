@@ -1,7 +1,6 @@
-**Definition:** Kinetic energy gained by an electron when it is accelerated through a potential difference of 1 V
+An electron volt is the kinetic energy gained by an electron when it is accelerated through a potential difference of 1V (volt)
 
-Energy = Charge x Potential Difference
-e = $1.6*10^{-19} * 1V$
-hence 
-$1.6 * 10^{-19}J$ = 1eV
-Note that 1 V = $1JC^{-1}$
+$$Energy = Charge \times \text{Potential Difference}$$
+$$= 1.60 \times 10 ^{-19} C \times 1V$$
+$$= 1.60 \times 10^{-19} J = 1eV$$
+

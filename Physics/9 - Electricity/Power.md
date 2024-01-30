@@ -3,8 +3,8 @@ tags:
   - physics/chapter-9
 ---
 - Power is the rate of [[Work Done|work being done]] ($P=W/t$)
-	- [[Potential Difference]] is the work done per unit [[charge]] ($V = W/Q$)
-	- [[Physics/9 - Electricity/Electric Current|Current]] is the rate of flow of charge ($I = Q/t$)
+	- [[Potential difference]] is the work done per unit [[charge]] ($V = W/Q$)
+	- [[Physics/9 - Electricity/Current|Current]] is the rate of flow of charge ($I = Q/t$)
 	- **Derive:**
 		- $P = QV/t$
 		- $It=Q$

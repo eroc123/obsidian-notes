@@ -1,1 +1,0 @@
-- Users of a system are typically assigned roles by a system administrator. For a given file a user may have no access or limited read, write and execute privileges depending on their assigned role.

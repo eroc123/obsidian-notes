@@ -1,1 +1,0 @@
-- Computers should not be left unattended, especially with a user logged in. Physical access to office computers should be limited to those authorised.

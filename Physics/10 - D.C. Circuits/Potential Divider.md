@@ -1,6 +1,1 @@
 - A circuit with a fixed source of potential difference and two or more resistors connected in series.
-- According to [[Kirchoff's second law]], potential difference will be split across the two components and add up to the total EMF of the circuit.
-- Potential dividers have three main purposes:
-	- To provide a variable potential difference
-	- To enable a specific potential difference to be chosen
-	- To split the potential difference of a power source between two or more components

@@ -15,7 +15,7 @@ $Upthrust = W$
 - Objects appear to weigh less when immersed - due to force of upthrust
 $Apparent weight = Actual weight - Upthrust$
 
-![[Weight]]
+![[Excalidraw/Weight]]
 
 If $upthrust > Weight_{object}$ , object floats
 If $upthrust = Weight_{object}$ , object is in equilibrium and stays suspended in water
