@@ -27,6 +27,9 @@ Stage 2 - after dequeue ^CIehtwt4
 rearPointer
  ^jmePdQy7
 
+the first item has been dequeued - the value is now ignored
+(no pointers pointing to it) until it is overwritten ^y8JOtocz
+
 %%
 # Drawing
 ```json
@@ -3569,70 +3572,132 @@ rearPointer
 			"baseline": 43
 		},
 		{
-			"id": "d3fYDmwTiTxNbFxf028ma",
 			"type": "rectangle",
-			"x": -313.48529411764696,
-			"y": -224.92647058823525,
-			"width": 156.47058823529403,
-			"height": 64.11764705882351,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 44,
+			"versionNonce": 545032149,
+			"isDeleted": false,
+			"id": "d3fYDmwTiTxNbFxf028ma",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -313.48529411764696,
+			"y": -224.92647058823525,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 156.47058823529403,
+			"height": 64.11764705882351,
+			"seed": 1142166779,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1142166779,
-			"version": 43,
-			"versionNonce": 1754866517,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706678355974,
+			"boundElements": [
+				{
+					"id": "v8V-qCvodh1_j8DL5qiu6",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706678448175,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "jjElMLP9",
-			"type": "text",
-			"x": 80.72826086956525,
-			"y": -200.41879795396414,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"type": "arrow",
+			"version": 40,
+			"versionNonce": 1447298133,
+			"isDeleted": false,
+			"id": "v8V-qCvodh1_j8DL5qiu6",
 			"fillStyle": "hachure",
-			"strokeWidth": 4,
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -40.70986622073582,
+			"y": -283.42883139878023,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 113.34448160535118,
+			"height": 72.57525083612046,
+			"seed": 663781307,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1706678507261,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "y8JOtocz",
+				"focus": -0.2318005431060195,
+				"gap": 10.46822742474916
+			},
+			"endBinding": {
+				"elementId": "d3fYDmwTiTxNbFxf028ma",
+				"focus": 0.41391095733965977,
+				"gap": 2.9603580562659317
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-113.34448160535118,
+					72.57525083612046
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 217,
+			"versionNonce": 1534764437,
+			"isDeleted": false,
+			"id": "y8JOtocz",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -361.579431438127,
+			"y": -343.8970588235294,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 596.219482421875,
+			"height": 50,
+			"seed": 627201685,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1696667227,
-			"version": 2,
-			"versionNonce": 1726967349,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706678363645,
+			"boundElements": [
+				{
+					"id": "v8V-qCvodh1_j8DL5qiu6",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706678507261,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "the first item has been dequeued - the value is now ignored\n(no pointers pointing to it) until it is overwritten",
+			"rawText": "the first item has been dequeued - the value is now ignored\n(no pointers pointing to it) until it is overwritten",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
 			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"originalText": "the first item has been dequeued - the value is now ignored\n(no pointers pointing to it) until it is overwritten",
+			"lineHeight": 1.25,
+			"baseline": 43
 		}
 	],
 	"appState": {
@@ -3641,7 +3706,7 @@ rearPointer
 		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 4,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -3650,10 +3715,10 @@ rearPointer
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 709.271739130435,
-		"scrollY": 546.940537084399,
+		"scrollX": 405.2030193877459,
+		"scrollY": 406.381221719457,
 		"zoom": {
-			"value": 1.1499999999999997
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
