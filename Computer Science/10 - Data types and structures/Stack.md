@@ -27,6 +27,6 @@ ENDIF
 
 IF topPointer = basePointer - 1 **- checks if there are values in the stack (topPointer = 0)**
 	THEN
-		OUTPUT "Stack is empty, cannot pop" 
+		OUTPUT "Stack is empty, cannot pop" **- cannot remove values if there are none left**
 	ELSE
-		Item <- stack\[topPointer]
+		Item <- stack\[topPointer] 
