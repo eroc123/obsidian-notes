@@ -22,3 +22,10 @@ IF topPointer < stackful   - if the number of values is less than upper bound
 	ELSE
 		OUTPUT "Stack is full, cannot push"
 ENDIF
+
+##### Pop
+
+IF topPointer = basePointer - 1 **- checks if there are values in the stack (topPointer = 0)**
+	THEN
+		OUTPUT "Stack is empty, cannot pop"
+		
