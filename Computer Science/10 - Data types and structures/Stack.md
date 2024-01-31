@@ -32,4 +32,4 @@ IF topPointer = basePointer - 1 **- checks if there are values in the stack (top
 		Item <- stack\[topPointer] 
 		 topPointer <- topPointer - 1 - **decrement 1 down from old index to show that topPointer is now pointing at the item below. The item to pop will now be overwritten the next time the stack is pushed to**
 ENDIF
-![[Stack Pop]]
+<img src = "Excalidraw">
