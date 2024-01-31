@@ -1,0 +1,1 @@
+- frontPointer changes after enqueue (indeand rearPointer changes after dequeue.
