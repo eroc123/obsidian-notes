@@ -16,6 +16,8 @@ Node ^TAPayUXv
 
 25 ^wch4Cd76
 
+Startpoiner ^zHSqWjlp
+
 %%
 # Drawing
 ```json
@@ -506,7 +508,7 @@ Node ^TAPayUXv
 		{
 			"id": "BUFsWlaeie_QxDAFP-5dU",
 			"type": "rectangle",
-			"x": 222.25,
+			"x": 219.25,
 			"y": -26.25,
 			"width": 29,
 			"height": 50,
@@ -524,11 +526,11 @@ Node ^TAPayUXv
 				"type": 3
 			},
 			"seed": 1689534427,
-			"version": 52,
-			"versionNonce": 334219387,
+			"version": 58,
+			"versionNonce": 105389653,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706676205858,
+			"updated": 1706676210456,
 			"link": null,
 			"locked": false
 		},
@@ -721,6 +723,43 @@ Node ^TAPayUXv
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "zHSqWjlp",
+			"type": "text",
+			"x": -439.75,
+			"y": -71.25,
+			"width": 110.89988708496094,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1763331349,
+			"version": 21,
+			"versionNonce": 1315762005,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706676221861,
+			"link": null,
+			"locked": false,
+			"text": "Startpoiner",
+			"rawText": "Startpoiner",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Startpoiner",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "FjkBwJZb",
@@ -2467,8 +2506,8 @@ Node ^TAPayUXv
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 312.25,
-		"scrollY": 489.75,
+		"scrollX": 575.25,
+		"scrollY": 558.75,
 		"zoom": {
 			"value": 1
 		},
