@@ -32,7 +32,9 @@ Item
 value for
 top stack item) ^yFIDXTvu
 
-The item in red is no longer the top item ^1tMPjkdu
+The item in red is above the top item
+New items added to the stack will overwrite 
+this value. ^1tMPjkdu
 
 %%
 # Drawing
@@ -6925,9 +6927,9 @@ The item in red is no longer the top item ^1tMPjkdu
 			"id": "GpmNTNej0Xg1DZL1JL8t7",
 			"type": "arrow",
 			"x": 563.2565652255354,
-			"y": -219.89116379310326,
+			"y": -220.3777682564853,
 			"width": 143.448275862069,
-			"height": 60,
+			"height": 60.36692025383553,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -6942,11 +6944,11 @@ The item in red is no longer the top item ^1tMPjkdu
 				"type": 2
 			},
 			"seed": 1408067093,
-			"version": 36,
-			"versionNonce": 892247957,
+			"version": 115,
+			"versionNonce": 1445892693,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706677564034,
+			"updated": 1706677662373,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6956,11 +6958,15 @@ The item in red is no longer the top item ^1tMPjkdu
 				],
 				[
 					-143.448275862069,
-					60
+					60.36692025383553
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "1tMPjkdu",
+				"focus": 0.6716339915531329,
+				"gap": 5.517241379310349
+			},
 			"endBinding": {
 				"elementId": "CjDmB9sn1G6DYusLW0d-Q",
 				"focus": 0.5371589441822063,
@@ -6972,10 +6978,10 @@ The item in red is no longer the top item ^1tMPjkdu
 		{
 			"id": "1tMPjkdu",
 			"type": "text",
-			"x": 570.8427721220871,
-			"y": -244.7187499999998,
-			"width": 405.35968017578125,
-			"height": 25,
+			"x": 568.7738066048457,
+			"y": -266.0980603448274,
+			"width": 449.899658203125,
+			"height": 75,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -6988,22 +6994,27 @@ The item in red is no longer the top item ^1tMPjkdu
 			"frameId": null,
 			"roundness": null,
 			"seed": 508874971,
-			"version": 174,
-			"versionNonce": 1886339125,
+			"version": 350,
+			"versionNonce": 990950293,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706677587525,
+			"boundElements": [
+				{
+					"id": "GpmNTNej0Xg1DZL1JL8t7",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706677662370,
 			"link": null,
 			"locked": false,
-			"text": "The item in red is no longer the top item",
-			"rawText": "The item in red is no longer the top item",
+			"text": "The item in red is above the top item\nNew items added to the stack will overwrite \nthis value.",
+			"rawText": "The item in red is above the top item\nNew items added to the stack will overwrite \nthis value.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 68,
 			"containerId": null,
-			"originalText": "The item in red is no longer the top item",
+			"originalText": "The item in red is above the top item\nNew items added to the stack will overwrite \nthis value.",
 			"lineHeight": 1.25
 		},
 		{

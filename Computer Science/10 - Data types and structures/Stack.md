@@ -30,5 +30,5 @@ IF topPointer = basePointer - 1 **- checks if there are values in the stack (top
 		OUTPUT "Stack is empty, cannot pop" **- cannot remove values if there are none left**
 	ELSE
 		Item <- stack\[topPointer] 
-		 topPointer <- topPointer - 1
+		 topPointer <- topPointer - 1 - **decrement 1 down from old index to show that topPointer is now **
 ENDIF
