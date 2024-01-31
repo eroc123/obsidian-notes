@@ -22,9 +22,10 @@ frontPointer (index + 1)
 first item added to the queue gets popped
   ^MmOWnH18
 
-Stage 1 - after dequeue ^CIehtwt4
+Stage 2 - after dequeue ^CIehtwt4
 
-rearPointer ^jmePdQy7
+rearPointer
+ ^jmePdQy7
 
 %%
 # Drawing
@@ -3447,8 +3448,8 @@ rearPointer ^jmePdQy7
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 610456117,
+			"version": 103,
+			"versionNonce": 329294459,
 			"isDeleted": false,
 			"id": "CIehtwt4",
 			"fillStyle": "hachure",
@@ -3457,28 +3458,28 @@ rearPointer ^jmePdQy7
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -362.19993591308594,
-			"y": -273.25,
+			"x": -359.591240260912,
+			"y": -271.5108695652174,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 243.13980102539062,
+			"width": 251.9597930908203,
 			"height": 25,
 			"seed": 2057657275,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706678272346,
+			"updated": 1706678444346,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Stage 1 - after dequeue",
-			"rawText": "Stage 1 - after dequeue",
+			"text": "Stage 2 - after dequeue",
+			"rawText": "Stage 2 - after dequeue",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Stage 1 - after dequeue",
+			"originalText": "Stage 2 - after dequeue",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -3532,8 +3533,8 @@ rearPointer ^jmePdQy7
 		},
 		{
 			"type": "text",
-			"version": 46,
-			"versionNonce": 412965499,
+			"version": 65,
+			"versionNonce": 1483658485,
 			"isDeleted": false,
 			"id": "jmePdQy7",
 			"fillStyle": "hachure",
@@ -3547,25 +3548,25 @@ rearPointer ^jmePdQy7
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 110.33988952636719,
-			"height": 25,
+			"height": 50,
 			"seed": 2032658683,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706678268103,
+			"updated": 1706678440411,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "rearPointer",
-			"rawText": "rearPointer",
+			"text": "rearPointer\n",
+			"rawText": "rearPointer\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "rearPointer",
+			"originalText": "rearPointer\n",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 43
 		},
 		{
 			"id": "d3fYDmwTiTxNbFxf028ma",
