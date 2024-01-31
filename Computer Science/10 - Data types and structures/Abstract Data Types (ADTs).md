@@ -10,4 +10,6 @@
 	- First item to queue is first item removed
 	- ![[queue]]
 - **Linked List - list containing several items in which each item in the list points to the next item in the list**
-	- New items are always added 
+	- New items are always added to the start of the list. 
+	- Each item in a linked list is stored with a pointer to the next item called a node.
+	- 
