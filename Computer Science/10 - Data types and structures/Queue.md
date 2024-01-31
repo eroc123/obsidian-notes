@@ -34,4 +34,5 @@ IF queueLength < queueful
 		ENDIF 
 		queueLength ← queueLength + 1 queue[rearPointer] ← item 
 	ELSE 
-		OUTPUT "Queue is full, cannot enqueue" ENDIF
+		OUTPUT "Queue is full, cannot enqueue" 
+ENDIF
