@@ -18,7 +18,9 @@ tags: [excalidraw]
 
 23 ^xcjbVEB7
 
-frontPointer  ^MmOWnH18
+frontPointer (index + 1)
+first item added to the queue gets popped
+  ^MmOWnH18
 
 Stage 1 - after dequeue ^CIehtwt4
 
@@ -3408,8 +3410,8 @@ rearPointer ^jmePdQy7
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 857012379,
+			"version": 177,
+			"versionNonce": 1518882427,
 			"isDeleted": false,
 			"id": "MmOWnH18",
 			"fillStyle": "hachure",
@@ -3422,26 +3424,26 @@ rearPointer ^jmePdQy7
 			"y": -198.25,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 128.89987182617188,
-			"height": 25,
+			"width": 428.6795654296875,
+			"height": 75,
 			"seed": 24966939,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706678268103,
+			"updated": 1706678379012,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "frontPointer ",
-			"rawText": "frontPointer ",
+			"text": "frontPointer (index + 1)\nfirst item added to the queue gets popped\n ",
+			"rawText": "frontPointer (index + 1)\nfirst item added to the queue gets popped\n ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "frontPointer ",
+			"originalText": "frontPointer (index + 1)\nfirst item added to the queue gets popped\n ",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -3564,15 +3566,81 @@ rearPointer ^jmePdQy7
 			"originalText": "rearPointer",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"id": "d3fYDmwTiTxNbFxf028ma",
+			"type": "rectangle",
+			"x": -313.48529411764696,
+			"y": -224.92647058823525,
+			"width": 156.47058823529403,
+			"height": 64.11764705882351,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1142166779,
+			"version": 43,
+			"versionNonce": 1754866517,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706678355974,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "jjElMLP9",
+			"type": "text",
+			"x": 80.72826086956525,
+			"y": -200.41879795396414,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1696667227,
+			"version": 2,
+			"versionNonce": 1726967349,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1706678363645,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#2f9e44",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -3581,10 +3649,10 @@ rearPointer ^jmePdQy7
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 524.3676470588234,
-		"scrollY": 294.0441176470588,
+		"scrollX": 709.271739130435,
+		"scrollY": 546.940537084399,
 		"zoom": {
-			"value": 1.7000000000000002
+			"value": 1.1499999999999997
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
