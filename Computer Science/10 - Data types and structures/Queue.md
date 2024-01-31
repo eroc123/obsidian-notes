@@ -11,6 +11,8 @@
 	- e.g. if rearPointer was 8 and an extra item is added (provided the queue isn't full), the rearPointer will now be 1 (circles back)
 	- e.g. if frontPointer was 8 and an extra item is added (provided the queue isn't full), the frontPointer will now be 1 (circles back)
 
+##### Set up a queue
+
 DECLARE queue ARRAY\[1:10] OF INTEGER 
 DECLARE  rearPointer : INTEGER 
 DECLARE frontPointer : INTEGER 
@@ -21,3 +23,15 @@ endPointer ← 0
 upperBound ← 10 
 queueful ← 10 
 queueLength ← 0
+
+##### Add an item onto queue
+IF queueLength < queueful 
+	THEN 
+		IF rearPointer < upperBound 
+			THEN 
+				rearPointer ← rearPointer + 1 
+			ELSE rearPointer ← 1 
+		ENDIF 
+		queueLength ← queueLength + 1 queue[rearPointer] ← item 
+	ELSE 
+		OUTPUT "Queue is full, cannot enqueue" ENDIF
