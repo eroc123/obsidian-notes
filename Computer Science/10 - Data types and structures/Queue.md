@@ -6,3 +6,5 @@
 
 ##### Stage 3
 ![[queue operation stage 3]]
+
+- Arranged as a circular queue, where if the index of either rearPointer or frontPointer exceeds the upper bound, it cycles back to the
