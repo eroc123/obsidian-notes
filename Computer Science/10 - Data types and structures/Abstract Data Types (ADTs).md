@@ -7,7 +7,7 @@ tags:
 - **abstract data type (ADT)** is a collection of data and a set of operations on that data
 
 ##### Three abstract data types:
-- [[Computer Science/Excalidraw/stack]] - list containing several items operating on last in, first out (LIFO) principle**
+- [[Computer Science/10 - Data types and structures/Stack|Stack]] - list containing several items operating on last in, first out (LIFO) principle**
 	- First item added to the list is last item to be removed (imagine stacking tires on each other, first tire will be the last one to be removed as all other tires must be removed first)
 	- items can be added (push) or removed (pop) from the stack - the top gets manipulated
 		- e.g. if push, a new item is placed on top of stack
