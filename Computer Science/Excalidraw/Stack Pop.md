@@ -18,7 +18,9 @@ Stage 2 - after pop code ^5zUGqEsH
 
 basePointer ^t1KjoAWf
 
-topPointer ^2g1TsOyn
+topPointer - has moved down to show that
+this is the new top item - points to new index (-1 from old index)
+ ^2g1TsOyn
 
 Item 
 (variable storing
@@ -29,6 +31,8 @@ Item
 (variable storing
 value for
 top stack item) ^yFIDXTvu
+
+The item in red is no longer the top item ^1tMPjkdu
 
 %%
 # Drawing
@@ -4553,8 +4557,8 @@ top stack item) ^yFIDXTvu
 		},
 		{
 			"type": "arrow",
-			"version": 348,
-			"versionNonce": 1784165205,
+			"version": 687,
+			"versionNonce": 139176725,
 			"isDeleted": false,
 			"id": "0lZmPFfMgt-oavicZMadi",
 			"fillStyle": "hachure",
@@ -4563,12 +4567,12 @@ top stack item) ^yFIDXTvu
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 524.0687661006533,
-			"y": -147.0132712478137,
+			"x": 524.7629444892189,
+			"y": -103.00438842690572,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 106.13793103448268,
-			"height": 74.85258322535029,
+			"width": 105.45279907822066,
+			"height": 22.572674920007415,
 			"seed": 1765705589,
 			"groupIds": [],
 			"frameId": null,
@@ -4576,18 +4580,18 @@ top stack item) ^yFIDXTvu
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706677551315,
+			"updated": 1706677625928,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2g1TsOyn",
-				"focus": 0.6055673454029046,
-				"gap": 4.206896551724071
+				"focus": 0.36751372458994386,
+				"gap": 3.512718163158553
 			},
 			"endBinding": {
-				"elementId": "o7DjmJkZFRKj3BKy0D16A",
-				"focus": 0.02097543299512436,
-				"gap": 5.2413793103448825
+				"elementId": "hfb7iMxNikHSG3gR3Ejm_",
+				"focus": 0.3689247541823669,
+				"gap": 5.708752599255945
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4598,15 +4602,15 @@ top stack item) ^yFIDXTvu
 					0
 				],
 				[
-					-106.13793103448268,
-					74.85258322535029
+					-105.45279907822066,
+					22.572674920007415
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 754391163,
+			"version": 291,
+			"versionNonce": 966327381,
 			"isDeleted": false,
 			"id": "2g1TsOyn",
 			"fillStyle": "hachure",
@@ -4619,8 +4623,8 @@ top stack item) ^yFIDXTvu
 			"y": -168.9719827586206,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 101.09988403320312,
-			"height": 25,
+			"width": 640.679443359375,
+			"height": 75,
 			"seed": 1732759765,
 			"groupIds": [],
 			"frameId": null,
@@ -4631,19 +4635,19 @@ top stack item) ^yFIDXTvu
 					"type": "arrow"
 				}
 			],
-			"updated": 1706677551315,
+			"updated": 1706677625925,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "topPointer",
-			"rawText": "topPointer",
+			"text": "topPointer - has moved down to show that\nthis is the new top item - points to new index (-1 from old index)\n",
+			"rawText": "topPointer - has moved down to show that\nthis is the new top item - points to new index (-1 from old index)\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "topPointer",
+			"originalText": "topPointer - has moved down to show that\nthis is the new top item - points to new index (-1 from old index)\n",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 68
 		},
 		{
 			"id": "vYJcNXRX855V_GwSSrf8c",
@@ -4775,8 +4779,8 @@ top stack item) ^yFIDXTvu
 		},
 		{
 			"type": "arrow",
-			"version": 103,
-			"versionNonce": 1782674875,
+			"version": 133,
+			"versionNonce": 1956048437,
 			"isDeleted": false,
 			"id": "cjGUu--699yRlulBLgZ-q",
 			"fillStyle": "hachure",
@@ -4785,12 +4789,12 @@ top stack item) ^yFIDXTvu
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 535.6794113411352,
-			"y": -56.48602777768943,
+			"x": 538.4380320307902,
+			"y": -56.323872588478814,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 113.79310344827587,
-			"height": 18.620689655172413,
+			"width": 117.2413793103446,
+			"height": 9.392353858885748,
 			"seed": 673049531,
 			"groupIds": [],
 			"frameId": null,
@@ -4798,18 +4802,18 @@ top stack item) ^yFIDXTvu
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706677551315,
+			"updated": 1706677606876,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "yFIDXTvu",
-				"focus": 0.06086834388829511,
+				"focus": 0.4235119653100318,
 				"gap": 2.758620689655004
 			},
 			"endBinding": {
-				"elementId": "o7DjmJkZFRKj3BKy0D16A",
-				"focus": -0.35740520124544034,
-				"gap": 9.196852137033545
+				"elementId": "hfb7iMxNikHSG3gR3Ejm_",
+				"focus": 0.9945693130252452,
+				"gap": 7.595259908703326
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4820,15 +4824,15 @@ top stack item) ^yFIDXTvu
 					0
 				],
 				[
-					-113.79310344827587,
-					-18.620689655172413
+					-117.2413793103446,
+					9.392353858885748
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1829115765,
+			"version": 121,
+			"versionNonce": 1029229717,
 			"isDeleted": false,
 			"id": "yFIDXTvu",
 			"fillStyle": "hachure",
@@ -4837,7 +4841,7 @@ top stack item) ^yFIDXTvu
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 538.4380320307902,
+			"x": 541.1966527204452,
 			"y": -89.07223467424112,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
@@ -4853,7 +4857,7 @@ top stack item) ^yFIDXTvu
 					"type": "arrow"
 				}
 			],
-			"updated": 1706677551315,
+			"updated": 1706677588823,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6866,11 +6870,20 @@ top stack item) ^yFIDXTvu
 				"type": 3
 			},
 			"seed": 1470862357,
-			"version": 34,
-			"versionNonce": 26186357,
+			"version": 36,
+			"versionNonce": 1351773461,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706677551315,
+			"boundElements": [
+				{
+					"id": "cjGUu--699yRlulBLgZ-q",
+					"type": "arrow"
+				},
+				{
+					"id": "0lZmPFfMgt-oavicZMadi",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706677606938,
 			"link": null,
 			"locked": false
 		},
@@ -6895,13 +6908,103 @@ top stack item) ^yFIDXTvu
 				"type": 3
 			},
 			"seed": 728143867,
-			"version": 82,
-			"versionNonce": 366835541,
+			"version": 83,
+			"versionNonce": 180861755,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706677559089,
+			"boundElements": [
+				{
+					"id": "GpmNTNej0Xg1DZL1JL8t7",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706677561834,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "GpmNTNej0Xg1DZL1JL8t7",
+			"type": "arrow",
+			"x": 563.2565652255354,
+			"y": -219.89116379310326,
+			"width": 143.448275862069,
+			"height": 60,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1408067093,
+			"version": 36,
+			"versionNonce": 892247957,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706677564034,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-143.448275862069,
+					60
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "CjDmB9sn1G6DYusLW0d-Q",
+				"focus": 0.5371589441822063,
+				"gap": 8.965517241379303
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "1tMPjkdu",
+			"type": "text",
+			"x": 570.8427721220871,
+			"y": -244.7187499999998,
+			"width": 405.35968017578125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 508874971,
+			"version": 174,
+			"versionNonce": 1886339125,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706677587525,
+			"link": null,
+			"locked": false,
+			"text": "The item in red is no longer the top item",
+			"rawText": "The item in red is no longer the top item",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "The item in red is no longer the top item",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "i-gU78f4la0S259ro02WC",
@@ -7125,7 +7228,7 @@ top stack item) ^yFIDXTvu
 		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 4,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
