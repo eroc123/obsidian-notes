@@ -15,10 +15,10 @@ stackful <- 10 - **upper bound is 10**
 
 ##### Push
 
-IF topPointer < stackful   - if the 
+IF topPointer < stackful   - if the number of values is less than upper bound 
 	THEN
-		topPointer <- topPointer + 1
-		stack\[topPointer] <- item   
+		topPointer <- topPointer + 1  - **increment number of items by 1 (as you just stored another item)**
+		stack\[topPointer] <- item  
 	ELSE
 		OUTPUT "Stack is full, cannot push"
 ENDIF
