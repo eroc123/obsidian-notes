@@ -13,7 +13,7 @@ basePointer <- 1   - **define base pointer value (always points to the first ind
 topPointer <- 0  - **define number of values currently stored (0 as default)**
 stackful <- 10 - **upper bound is 10**
 
-##### Push
+##### Push - an item stored in *item*, onto a stack
 
 IF topPointer < stackful   - if the number of values is less than upper bound 
 	THEN
@@ -23,9 +23,10 @@ IF topPointer < stackful   - if the number of values is less than upper bound
 		OUTPUT "Stack is full, cannot push"
 ENDIF
 
-##### Pop
+##### Pop an item, stored in *item*, from a stack
 
 IF topPointer = basePointer - 1 **- checks if there are values in the stack (topPointer = 0)**
 	THEN
-		OUTPUT "Stack is empty, cannot pop"
-		
+		OUTPUT "Stack is empty, cannot pop" 
+	ELSE
+		Item <- stack\[topPointer]
