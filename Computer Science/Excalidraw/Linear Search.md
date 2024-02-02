@@ -21,6 +21,8 @@ i <- LowerBound ^ubhAeLd5
 
 MyArray[i] = Item ^ua3zMdOa
 
+i < i+1 ^aQgZuCua
+
 %%
 # Drawing
 ```json
@@ -50,8 +52,8 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 795938240,
-			"version": 167,
-			"versionNonce": 1509232192,
+			"version": 168,
+			"versionNonce": 791332416,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -59,7 +61,7 @@ MyArray[i] = Item ^ua3zMdOa
 					"type": "arrow"
 				}
 			],
-			"updated": 1706838971772,
+			"updated": 1706839357217,
 			"link": null,
 			"locked": false
 		},
@@ -82,11 +84,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 1686185536,
-			"version": 101,
-			"versionNonce": 171343424,
+			"version": 102,
+			"versionNonce": 1115405760,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1706838971772,
+			"updated": 1706839357217,
 			"link": null,
 			"locked": false,
 			"text": "Start",
@@ -121,11 +123,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 1089527360,
-			"version": 170,
-			"versionNonce": 1909528000,
+			"version": 171,
+			"versionNonce": 2143159744,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838971876,
+			"updated": 1706839357217,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -167,11 +169,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 476110400,
-			"version": 186,
-			"versionNonce": 1455160896,
+			"version": 187,
+			"versionNonce": 1684463168,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838906767,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -224,8 +226,8 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 1341345216,
-			"version": 42,
-			"versionNonce": 1895642688,
+			"version": 43,
+			"versionNonce": 548218304,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -233,7 +235,7 @@ MyArray[i] = Item ^ua3zMdOa
 					"type": "arrow"
 				}
 			],
-			"updated": 1706838980845,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"text": "INPUT Item\nOUTPUT \"Input\nnumber to find\"",
@@ -266,16 +268,20 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 613924416,
-			"version": 164,
-			"versionNonce": 162196928,
+			"version": 168,
+			"versionNonce": 1175473600,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "8nKuM8xcBqUZlIMLYRzas",
 					"type": "arrow"
+				},
+				{
+					"id": "D6sQWH-ETGvOtHmCabpQo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1706839012825,
+			"updated": 1706839362345,
 			"link": null,
 			"locked": false
 		},
@@ -298,11 +304,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 257136064,
-			"version": 30,
-			"versionNonce": 2038904256,
+			"version": 31,
+			"versionNonce": 1584680512,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706839012825,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -344,11 +350,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 1491426880,
-			"version": 80,
-			"versionNonce": 1476844992,
+			"version": 81,
+			"versionNonce": 745452992,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838977110,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false
 		},
@@ -371,11 +377,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 851078592,
-			"version": 28,
-			"versionNonce": 334954048,
+			"version": 29,
+			"versionNonce": 525370944,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838980845,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -417,11 +423,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 1719178688,
-			"version": 105,
-			"versionNonce": 1717528128,
+			"version": 106,
+			"versionNonce": 546438592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706839009944,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"text": "MyArray <- [1,4,7,9,5,3]\nLowerBound <- 0\nUpperBound <- 5\ni <- LowerBound",
@@ -454,11 +460,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 1956986432,
-			"version": 41,
-			"versionNonce": 1003449920,
+			"version": 42,
+			"versionNonce": 1743109696,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706839025897,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"text": "MyArray[i] = Item",
@@ -470,6 +476,125 @@ MyArray[i] = Item ^ua3zMdOa
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "MyArray[i] = Item",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "D6sQWH-ETGvOtHmCabpQo",
+			"type": "arrow",
+			"x": -62.20417438389612,
+			"y": 114.07937226437613,
+			"width": 103.45417438389612,
+			"height": 14.969385750052354,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2008755776,
+			"version": 127,
+			"versionNonce": 883994048,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706839386344,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					103.45417438389612,
+					-14.969385750052354
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FcJtaK9c1ysqQ8zI5AF4z",
+				"gap": 1.8024089331900655,
+				"focus": 0.059693711306614536
+			},
+			"endBinding": {
+				"elementId": "WCa3ZjAifjzj9BUy7ewIu",
+				"gap": 7,
+				"focus": 0.16037786774628882
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "WCa3ZjAifjzj9BUy7ewIu",
+			"type": "rectangle",
+			"x": 48.25,
+			"y": 44.75,
+			"width": 117.99999999999999,
+			"height": 110,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1879877184,
+			"version": 89,
+			"versionNonce": 378346944,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "D6sQWH-ETGvOtHmCabpQo",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706839386344,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "aQgZuCua",
+			"type": "text",
+			"x": 82.25,
+			"y": 104.75,
+			"width": 58.77996826171875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1196686912,
+			"version": 33,
+			"versionNonce": 197588544,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706839383905,
+			"link": null,
+			"locked": false,
+			"text": "i < i+1",
+			"rawText": "i < i+1",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "i < i+1",
 			"lineHeight": 1.25
 		},
 		{
@@ -493,11 +618,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 427327040,
-			"version": 72,
-			"versionNonce": 955924032,
+			"version": 73,
+			"versionNonce": 41418304,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838878487,
+			"updated": 1706839357217,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -541,8 +666,8 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 3
 			},
 			"seed": 188640832,
-			"version": 96,
-			"versionNonce": 328758848,
+			"version": 97,
+			"versionNonce": 1734227520,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -550,7 +675,7 @@ MyArray[i] = Item ^ua3zMdOa
 					"type": "arrow"
 				}
 			],
-			"updated": 1706838878487,
+			"updated": 1706839357217,
 			"link": null,
 			"locked": false
 		},
@@ -573,11 +698,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 79019456,
-			"version": 23,
-			"versionNonce": 1761676736,
+			"version": 24,
+			"versionNonce": 1836535232,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838878487,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -612,11 +737,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 2044904896,
-			"version": 23,
-			"versionNonce": 1840229952,
+			"version": 24,
+			"versionNonce": 1119710784,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838878487,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -656,11 +781,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 595588544,
-			"version": 64,
-			"versionNonce": 212837952,
+			"version": 65,
+			"versionNonce": 1690801600,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838887095,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -700,11 +825,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 931302848,
-			"version": 65,
-			"versionNonce": 1386794560,
+			"version": 66,
+			"versionNonce": 1567991360,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838878232,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -744,11 +869,11 @@ MyArray[i] = Item ^ua3zMdOa
 				"type": 2
 			},
 			"seed": 250125760,
-			"version": 199,
-			"versionNonce": 1750945216,
+			"version": 200,
+			"versionNonce": 449764800,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838886185,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -801,11 +926,11 @@ MyArray[i] = Item ^ua3zMdOa
 			"frameId": null,
 			"roundness": null,
 			"seed": 66035264,
-			"version": 295,
-			"versionNonce": 2038648256,
+			"version": 296,
+			"versionNonce": 1752241728,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706838955856,
+			"updated": 1706839357218,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -824,6 +949,52 @@ MyArray[i] = Item ^ua3zMdOa
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "caujig2cOhF9apJc6syyp",
+			"type": "arrow",
+			"x": -165.75,
+			"y": 208.75,
+			"width": 1,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1867541952,
+			"version": 57,
+			"versionNonce": 1091323328,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1706839357219,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					72
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FcJtaK9c1ysqQ8zI5AF4z",
+				"focus": -0.0196319737458978,
+				"gap": 3.641177700767244
+			},
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
