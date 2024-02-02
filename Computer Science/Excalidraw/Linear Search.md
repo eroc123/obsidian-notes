@@ -14,6 +14,13 @@ INPUT Item
 OUTPUT "Input
 number to find" ^1PV9B9Uy
 
+MyArray <- [1,4,7,9,5,3]
+LowerBound <- 0
+UpperBound <- 5
+i <- LowerBound ^ubhAeLd5
+
+MyArray[i] = Item ^ua3zMdOa
+
 %%
 # Drawing
 ```json
@@ -25,8 +32,8 @@ number to find" ^1PV9B9Uy
 		{
 			"id": "RlnHqWi2f19E3B4tnynHo",
 			"type": "ellipse",
-			"x": -231.75,
-			"y": -299.25,
+			"x": -237.75,
+			"y": -494.25,
 			"width": 143,
 			"height": 78,
 			"angle": 0,
@@ -43,8 +50,8 @@ number to find" ^1PV9B9Uy
 				"type": 2
 			},
 			"seed": 795938240,
-			"version": 101,
-			"versionNonce": 418711104,
+			"version": 167,
+			"versionNonce": 1509232192,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -52,15 +59,15 @@ number to find" ^1PV9B9Uy
 					"type": "arrow"
 				}
 			],
-			"updated": 1706838878487,
+			"updated": 1706838971772,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "aVZ4flbZ",
 			"type": "text",
-			"x": -191.75,
-			"y": -272.25,
+			"x": -197.75,
+			"y": -467.25,
 			"width": 56.699951171875,
 			"height": 25,
 			"angle": 0,
@@ -75,11 +82,11 @@ number to find" ^1PV9B9Uy
 			"frameId": null,
 			"roundness": null,
 			"seed": 1686185536,
-			"version": 35,
-			"versionNonce": 1635089856,
+			"version": 101,
+			"versionNonce": 171343424,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1706838878487,
+			"updated": 1706838971772,
 			"link": null,
 			"locked": false,
 			"text": "Start",
@@ -96,8 +103,8 @@ number to find" ^1PV9B9Uy
 		{
 			"id": "BbUTJaGS4s5KfaRptLup3",
 			"type": "arrow",
-			"x": -161.75,
-			"y": -216.25,
+			"x": -167.75,
+			"y": -411.25,
 			"width": 0,
 			"height": 64,
 			"angle": 0,
@@ -114,11 +121,11 @@ number to find" ^1PV9B9Uy
 				"type": 2
 			},
 			"seed": 1089527360,
-			"version": 37,
-			"versionNonce": 427804096,
+			"version": 170,
+			"versionNonce": 1909528000,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838878487,
+			"updated": 1706838971876,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -217,11 +224,16 @@ number to find" ^1PV9B9Uy
 			"frameId": null,
 			"roundness": null,
 			"seed": 1341345216,
-			"version": 41,
-			"versionNonce": 695610944,
+			"version": 42,
+			"versionNonce": 1895642688,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706838918065,
+			"boundElements": [
+				{
+					"id": "qw6sPWLwfqQoMmmm7MNXL",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706838980845,
 			"link": null,
 			"locked": false,
 			"text": "INPUT Item\nOUTPUT \"Input\nnumber to find\"",
@@ -238,8 +250,8 @@ number to find" ^1PV9B9Uy
 		{
 			"id": "FcJtaK9c1ysqQ8zI5AF4z",
 			"type": "diamond",
-			"x": -279.75,
-			"y": 39.75,
+			"x": -287.75,
+			"y": 41.75,
 			"width": 237,
 			"height": 165,
 			"angle": 0,
@@ -254,8 +266,8 @@ number to find" ^1PV9B9Uy
 			"frameId": null,
 			"roundness": null,
 			"seed": 613924416,
-			"version": 159,
-			"versionNonce": 1849353792,
+			"version": 164,
+			"versionNonce": 162196928,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -263,7 +275,7 @@ number to find" ^1PV9B9Uy
 					"type": "arrow"
 				}
 			],
-			"updated": 1706838959030,
+			"updated": 1706839012825,
 			"link": null,
 			"locked": false
 		},
@@ -272,8 +284,8 @@ number to find" ^1PV9B9Uy
 			"type": "arrow",
 			"x": -165.75,
 			"y": -20.25,
-			"width": 6,
-			"height": 59,
+			"width": 2.8934147393783007,
+			"height": 64.40680772994696,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -286,11 +298,11 @@ number to find" ^1PV9B9Uy
 			"frameId": null,
 			"roundness": null,
 			"seed": 257136064,
-			"version": 25,
-			"versionNonce": 1395306048,
+			"version": 30,
+			"versionNonce": 2038904256,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706838959030,
+			"updated": 1706839012825,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -299,8 +311,8 @@ number to find" ^1PV9B9Uy
 					0
 				],
 				[
-					6,
-					59
+					2.8934147393783007,
+					64.40680772994696
 				]
 			],
 			"lastCommittedPoint": null,
@@ -312,6 +324,153 @@ number to find" ^1PV9B9Uy
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "T9tsq-U_JzCsQKvBfvaCs",
+			"type": "rectangle",
+			"x": -341.75,
+			"y": -350.25,
+			"width": 365,
+			"height": 154,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1491426880,
+			"version": 80,
+			"versionNonce": 1476844992,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706838977110,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "qw6sPWLwfqQoMmmm7MNXL",
+			"type": "arrow",
+			"x": -165.75,
+			"y": -197.25,
+			"width": 2,
+			"height": 55,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 851078592,
+			"version": 28,
+			"versionNonce": 334954048,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706838980845,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2,
+					55
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "1PV9B9Uy",
+				"focus": 0.02289401531547601,
+				"gap": 10
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ubhAeLd5",
+			"type": "text",
+			"x": -316.75,
+			"y": -332.25,
+			"width": 230.71986389160156,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1719178688,
+			"version": 105,
+			"versionNonce": 1717528128,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706839009944,
+			"link": null,
+			"locked": false,
+			"text": "MyArray <- [1,4,7,9,5,3]\nLowerBound <- 0\nUpperBound <- 5\ni <- LowerBound",
+			"rawText": "MyArray <- [1,4,7,9,5,3]\nLowerBound <- 0\nUpperBound <- 5\ni <- LowerBound",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "MyArray <- [1,4,7,9,5,3]\nLowerBound <- 0\nUpperBound <- 5\ni <- LowerBound",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ua3zMdOa",
+			"type": "text",
+			"x": -261.75,
+			"y": 117.75,
+			"width": 180.0798797607422,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1956986432,
+			"version": 41,
+			"versionNonce": 1003449920,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706839025897,
+			"link": null,
+			"locked": false,
+			"text": "MyArray[i] = Item",
+			"rawText": "MyArray[i] = Item",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "MyArray[i] = Item",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "e2Wn5hAiZBl0Yz2ArsEpV",
@@ -686,7 +845,7 @@ number to find" ^1PV9B9Uy
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 657.25,
-		"scrollY": 680.75,
+		"scrollY": 380.75,
 		"zoom": {
 			"value": 1
 		},
