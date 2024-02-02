@@ -39,6 +39,8 @@ Yes ^b5zij0Dp
 
 Yes ^40iQ0x05
 
+No ^qnQpzbit
+
 %%
 # Drawing
 ```json
@@ -1289,11 +1291,11 @@ Yes ^40iQ0x05
 			"frameId": null,
 			"roundness": null,
 			"seed": 650114624,
-			"version": 247,
-			"versionNonce": 1696830912,
+			"version": 248,
+			"versionNonce": 1508031936,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706839618111,
+			"updated": 1706839634757,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1318,7 +1320,11 @@ Yes ^40iQ0x05
 				-382,
 				-262
 			],
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "qnQpzbit",
+				"focus": 1.6392973075881785,
+				"gap": 8
+			},
 			"endBinding": {
 				"elementId": "FcJtaK9c1ysqQ8zI5AF4z",
 				"focus": -1.3880612577386773,
@@ -1330,8 +1336,8 @@ Yes ^40iQ0x05
 		{
 			"id": "40iQ0x05",
 			"type": "text",
-			"x": 143.25,
-			"y": 381.75,
+			"x": 127.25,
+			"y": 369.75,
 			"width": 32.119964599609375,
 			"height": 25,
 			"angle": 0,
@@ -1346,11 +1352,11 @@ Yes ^40iQ0x05
 			"frameId": null,
 			"roundness": null,
 			"seed": 457891392,
-			"version": 6,
-			"versionNonce": 718900672,
+			"version": 58,
+			"versionNonce": 240813504,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706839624650,
+			"updated": 1706839639068,
 			"link": null,
 			"locked": false,
 			"text": "Yes",
@@ -1362,6 +1368,48 @@ Yes ^40iQ0x05
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "Yes",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "qnQpzbit",
+			"type": "text",
+			"x": 230.25,
+			"y": 267.75,
+			"width": 23.959976196289062,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 346103232,
+			"version": 73,
+			"versionNonce": 306513344,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "4uEcBiXnqo7iuARuO6QbV",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706839634757,
+			"link": null,
+			"locked": false,
+			"text": "No",
+			"rawText": "No",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "No",
 			"lineHeight": 1.25
 		},
 		{
