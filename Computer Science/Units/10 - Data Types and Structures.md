@@ -20,7 +20,7 @@ Write pseudocode for [[1D arrays|1D]] and [[2D arrays|2D]] arrays
 
 Write pseudocode to process array data 
 - Sort using a [[Bubble sort|bubble sort]]
-- Search using a [[Linear Search|linear search]]
+- Search using a [[Computer Science/10 - Data types and structures/Linear Search|linear search]]
 
 ##### 10.3 Files
 
