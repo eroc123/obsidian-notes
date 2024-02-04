@@ -7,6 +7,7 @@ tags:
 - As free electrons move through a metal wire, they collide with ions which get in their way - some or all kinetic energy of electrons get transferred on collision
 ![[resistivity.png]]
 - Resistivity equation - $R = ρL/A$ where R is resistance, L is length of the wire, A is the cross sectional area and ρ is the resistivity ($\Omega m$)
+	- *Resistivity of a 1m long piece of wire with a cross-sectional area of -1*
 	- The longer the wire, the greater its resistance
 	- The thicker the wire, the smaller its resistance
 - The higher the resistivity of a material, the higher its resistance

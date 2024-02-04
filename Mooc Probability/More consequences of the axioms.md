@@ -1,0 +1,6 @@
+---
+tags:
+  - probability
+  - mooc
+  - mathematics
+---

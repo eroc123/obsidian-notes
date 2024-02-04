@@ -14,11 +14,11 @@ tags:
 		- e.g. if pop, an item is taken from the top of stack (top pointer)
 	- **Base pointer always has same value**
 	- ![[Computer Science/Excalidraw/stack]]
-- **Queue - list containing several items operating on the first in, first out principle**
+- **[[Queue]] - list containing several items operating on the first in, first out principle**
 	- Items can be added to the queue (enqueue) and removed from the queue (dequeue)
 	- First item to queue is first item removed
 	- ![[Computer Science/Excalidraw/queue]]
-- **Linked List - list containing several items in which each item in the list points to the next item in the list**
+- **[[Linked List]] - list containing several items in which each item in the list points to the next item in the list**
 	- New items are always added to the start of the list. 
 	- Each item in a linked list is stored with a pointer to the next item called a node.
 	- ![[Computer Science/Excalidraw/linked list]]
