@@ -36,6 +36,8 @@ Node 0  ^O2T9KmGj
 
 NULL ^qftKQ7Au
 
+pointer of node 0 points to -1 as the data node points to null ^98CwdqEM
+
 %%
 # Drawing
 ```json
@@ -1711,8 +1713,8 @@ NULL ^qftKQ7Au
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 13210065,
+			"version": 190,
+			"versionNonce": 890167327,
 			"isDeleted": false,
 			"id": "0eTSbkBj",
 			"fillStyle": "hachure",
@@ -1721,8 +1723,8 @@ NULL ^qftKQ7Au
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 139.99845931109274,
-			"y": 199.85539215686265,
+			"x": 137.64551813462202,
+			"y": 193.97303921568619,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 328.42791748046875,
@@ -1732,7 +1734,7 @@ NULL ^qftKQ7Au
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707117454817,
+			"updated": 1707117555311,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1748,8 +1750,8 @@ NULL ^qftKQ7Au
 		},
 		{
 			"type": "rectangle",
-			"version": 209,
-			"versionNonce": 2007887807,
+			"version": 210,
+			"versionNonce": 1731512959,
 			"isDeleted": false,
 			"id": "xFkC90lCKO-SlIKxuQp9b",
 			"fillStyle": "hachure",
@@ -1774,9 +1776,13 @@ NULL ^qftKQ7Au
 				{
 					"id": "HDsQ8k8-vV1Lbg09J7rGG",
 					"type": "arrow"
+				},
+				{
+					"id": "HCKbtTkC5-ZRFF80Xuo73",
+					"type": "arrow"
 				}
 			],
-			"updated": 1707117454817,
+			"updated": 1707117486679,
 			"link": null,
 			"locked": false
 		},
@@ -2701,6 +2707,91 @@ NULL ^qftKQ7Au
 				28.235294117647015,
 				0
 			]
+		},
+		{
+			"id": "HCKbtTkC5-ZRFF80Xuo73",
+			"type": "arrow",
+			"x": 68.60357621136814,
+			"y": 378.2291666666668,
+			"width": 67.05882352941171,
+			"height": 47.058823529411825,
+			"angle": 0,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1731698385,
+			"version": 38,
+			"versionNonce": 650012415,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707117538258,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-67.05882352941171,
+					-47.058823529411825
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "xFkC90lCKO-SlIKxuQp9b",
+				"focus": -0.5355704272896921,
+				"gap": 6.676470588234963
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "98CwdqEM",
+			"type": "text",
+			"x": 92.1329879760741,
+			"y": 360.5821078431373,
+			"width": 624.4794921875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1425218431,
+			"version": 136,
+			"versionNonce": 1761969329,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707117535755,
+			"link": null,
+			"locked": false,
+			"text": "pointer of node 0 points to -1 as the data node points to null",
+			"rawText": "pointer of node 0 points to -1 as the data node points to null",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "pointer of node 0 points to -1 as the data node points to null",
+			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
@@ -3749,7 +3840,7 @@ NULL ^qftKQ7Au
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#9c36b5",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -3761,8 +3852,8 @@ NULL ^qftKQ7Au
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 836.6905414356905,
-		"scrollY": 142.35906862745088,
+		"scrollX": 482.572894376867,
+		"scrollY": 324.71200980392143,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
