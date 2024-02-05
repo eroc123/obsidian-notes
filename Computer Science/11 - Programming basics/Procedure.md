@@ -17,3 +17,8 @@ PROCEDURE stars (NUMBER : INTEGER)
 	FOR Counter 1 TO NUMBER
 		OUTPUT "\*"
 	NEXTCOUNTER
+ENDPROCEDURE
+
+CALL stars
+
+**calling a procedure with parameters**
