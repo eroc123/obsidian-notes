@@ -6,7 +6,11 @@ FUNCTION \<identifier> RETURNS \<value>
 ENDFUNCTION
 
 **Simple function with parameters:**
-FUNCTION \<identifier> ()
+FUNCTION \<identifier> (\<parameter1> : \<datatype 1>, \<parameter2> :\<datatype2>)
+	RETURNS \<value>
+		\<statements>
+ENDFUNCTION
+
 
 
 
