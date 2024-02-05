@@ -14,10 +14,10 @@ startPointer = -1 as the list has no elements
 - **startPointer** points to -1 since it points to NULL (any pointer with value of -1 points to NULL)
 - null is the end of the list
 
-###### Empty linked list pointers
-| Index | Value |
+###### Empty linked list data -
+| Node | Value |
 | ---- | ---- |
-| 0  |  |
+| 0   |  |
 | 1 |  |
 | 2 |  |
 | 3 |  |
@@ -30,8 +30,9 @@ startPointer = -1 as the list has no elements
 | 10 |  |
 
 ###### Empty linked list pointers - heapPointer used for empty space linked list
-| Index | Value |
+| Node | Value |
 | ---- | ---- |
+| **heapPointer** |  |
 | 0 > heapPointer | 1 |
 | 1 | 2 |
 | 2 | 3 |
