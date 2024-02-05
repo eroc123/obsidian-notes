@@ -1,6 +1,4 @@
 {
-	"nodes":[
-		{"id":"2886a22bb67fc792","x":-234,"y":-215,"width":250,"height":60,"type":"text","text":"HeapPointer"}
-	],
+	"nodes":[],
 	"edges":[]
 }
