@@ -8,7 +8,7 @@ startPointer = -1 as the list has no elements
 ###### Empty linked list elements
 
 - When set up, there are technically two linked lists, one for free space and one for actual data storage
-
+![[Linked List Stage 1]]
 
 - heapPointer points to the index 0 of the list (heapPointer = 0)
 
