@@ -26,7 +26,7 @@ Write pseudocode to process array data
 
 - Show understanding of why [[files]] are needed 
 
-Write pseudocode to handle text files that consist of one or more lines
+- Write pseudocode to handle text files that consist of one or more lines
 
 ##### 10.4 Introduction to Abstract Data Types (ADT)
 
