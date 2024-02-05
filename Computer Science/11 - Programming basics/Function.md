@@ -12,5 +12,5 @@ FUNCTION \<identifier> (\<parameter1> : \<datatype 1>, \<parameter2> :\<datatype
 ENDFUNCTION
 
 
-
-
+RETURN can be placed anywhere in a function and used multiple times like in python
+![[pseudocode fnction.png]]
