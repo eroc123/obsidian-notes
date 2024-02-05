@@ -21,4 +21,9 @@ ENDPROCEDURE
 
 CALL stars
 
-**calling a procedure with parameters**
+**calling a procedure with parameters** - a parameter is a value that a function can take in which can modify the actions taken
+
+
+PROCEDURE \<identifier> (parameter1)
+ENDPROCEDURE
+CALL \<identifier> (Value1, Value2 ...)
