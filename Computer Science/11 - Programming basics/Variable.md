@@ -1,0 +1,1 @@
+variable is a named value that can change during the execution of a program.

@@ -1,0 +1,1 @@
+constant is a named value that cannot change during the execution of a program
