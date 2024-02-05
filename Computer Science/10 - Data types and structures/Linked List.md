@@ -79,7 +79,7 @@ startPointer = -1 as the list has no elements
 
 | Index | Value |
 | ---- | ---- |
-| 0 > identified by heapPointer <- *startPointer*  | -1 > heapPointer took value of 1 from index 0 and changed it to -1  **as it is the last element of the list** |
+| 0 <- startPoin  | -1 > data linked list points to NULL |
 | 1 <- *heapPointer* | 2 |
 | 2 | 3 |
 | 3 | 4 |
