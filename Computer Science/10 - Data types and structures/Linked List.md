@@ -51,10 +51,10 @@ startPointer = -1 as the list has no elements
 ###### Empty linked list elements
 
 - heapPointer points to the index 1 (heapPointer = 1) of the empty data linked list
-	- this is because free space is taken from the front of the list - **node 0 is sacrificed first**
+	- this is because free space is taken from the **front of the list** - **node 0 is sacrificed first**
 	- heapPointer then **points to node 1** as node 0 has been removed.
 - startPointer set to value 0
-	- this is because the empty node - **which is node 0** is taken from the empty data linked list and put at the **beginning of the data linked list.** 
+	- this is because the empty node - **which is node 0** is taken from **the beginning of **empty data linked list and put at the **beginning of the data linked list.** 
 	- startPointer then points to **node 0** instead of NULL (-1).
 
 ##### Linked list

@@ -31,8 +31,8 @@ startPointer ^vcHItBQH
 value of heapPointer is 0
 since it points to node 0 ^d9zePTY0
 
-value of startPointer is -1
-since it points to NULL ^VaiLZjSV
+value of startPointer is 0 as it now points to node 0 
+- node 0 taken from the front of the empty linked list. ^VaiLZjSV
 
 Data Linked LIST ^0eTSbkBj
 
@@ -2121,8 +2121,8 @@ NULL ^qftKQ7Au
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 614633681,
+			"version": 226,
+			"versionNonce": 1714821809,
 			"isDeleted": false,
 			"id": "VaiLZjSV",
 			"fillStyle": "hachure",
@@ -2135,24 +2135,24 @@ NULL ^qftKQ7Au
 			"y": 395.29656862745094,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 265.29974365234375,
+			"width": 553.599609375,
 			"height": 50,
 			"seed": 496850801,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707117281191,
+			"updated": 1707117356324,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "value of startPointer is -1\nsince it points to NULL",
-			"rawText": "value of startPointer is -1\nsince it points to NULL",
+			"text": "value of startPointer is 0 as it now points to node 0 \n- node 0 taken from the front of the empty linked list.",
+			"rawText": "value of startPointer is 0 as it now points to node 0 \n- node 0 taken from the front of the empty linked list.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "value of startPointer is -1\nsince it points to NULL",
+			"originalText": "value of startPointer is 0 as it now points to node 0 \n- node 0 taken from the front of the empty linked list.",
 			"lineHeight": 1.25,
 			"baseline": 43
 		},
@@ -2502,8 +2502,8 @@ NULL ^qftKQ7Au
 		},
 		{
 			"type": "arrow",
-			"version": 232,
-			"versionNonce": 813544945,
+			"version": 239,
+			"versionNonce": 1796312529,
 			"isDeleted": false,
 			"id": "cye5Lk9gNiEzv71OWwzg-",
 			"fillStyle": "hachure",
@@ -2516,8 +2516,8 @@ NULL ^qftKQ7Au
 			"y": 314.8139348384594,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 92.94117647058823,
-			"height": 0,
+			"width": 96.47058823529409,
+			"height": 3.201048308631414,
 			"seed": 862364159,
 			"groupIds": [],
 			"frameId": null,
@@ -2525,7 +2525,7 @@ NULL ^qftKQ7Au
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707117335157,
+			"updated": 1707117337793,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2543,15 +2543,15 @@ NULL ^qftKQ7Au
 					0
 				],
 				[
-					92.94117647058823,
-					0
+					96.47058823529409,
+					3.201048308631414
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 1300999601,
+			"version": 68,
+			"versionNonce": 1205548017,
 			"isDeleted": false,
 			"id": "qftKQ7Au",
 			"fillStyle": "hachure",
@@ -2560,8 +2560,8 @@ NULL ^qftKQ7Au
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 89.6544117647058,
-			"y": 291.0232843137254,
+			"x": 93.18382352941165,
+			"y": 295.72916666666663,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 92.01597595214844,
@@ -2576,7 +2576,7 @@ NULL ^qftKQ7Au
 					"type": "arrow"
 				}
 			],
-			"updated": 1707117335975,
+			"updated": 1707117337793,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
