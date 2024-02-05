@@ -10,12 +10,14 @@ startPointer = -1 as the list has no elements
 - When set up, there are technically two linked lists, one for free space and one for actual data storage
 ![[Linked List Stage 1]]
 
-- heapPointer points to node 0 of the list (heapPointer = 0)
-- startPointer points to -1 since it points to NULL (any pointer with value of -1 points to null)
+- **heapPointer** points to node 0 of the list (heapPointer = 0)
+- **startPointer** points to -1 since it points to NULL (any pointer with value of -1 points to NULL)
+- null is the end of the list
 
+###### Empty linked list pointers
 | Index | Value |
 | ---- | ---- |
-| 0 > heapPointer |  |
+| 0  |  |
 | 1 |  |
 | 2 |  |
 | 3 |  |
@@ -27,10 +29,10 @@ startPointer = -1 as the list has no elements
 | 9 |  |
 | 10 |  |
 
-###### Empty linked list pointers
+###### Empty linked list pointers - heapPointer used for empty space linked list
 | Index | Value |
 | ---- | ---- |
-| 0 | 1 |
+| 0 > heapPointer | 1 |
 | 1 | 2 |
 | 2 | 3 |
 | 3 | 4 |
