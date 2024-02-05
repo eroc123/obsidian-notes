@@ -24,7 +24,7 @@ Write pseudocode to process array data
 
 ##### 10.3 Files
 
-Show understanding of why files are needed 
+- Show understanding of why [[files]] are needed 
 
 Write pseudocode to handle text files that consist of one or more lines
 
