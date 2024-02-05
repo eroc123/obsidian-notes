@@ -53,10 +53,8 @@ startPointer = -1 as the list has no elements
 - heapPointer points to the index 1 (heapPointer = 1) of the empty data linked list
 	- this is because free space is taken from the front of the list - **node 0 is sacrificed first**
 	- heapPointer then **points to node 1** as node 0 has been removed.
-- startPointer set to heapPointer value
-	- heapPointer takes the **linked pointer list** value of whatever was stored in the **same index** as the previous element it pointed to.
-	- Previous element it pointed to was where value 37 is now with **index 0**. Hence heapPointer takes value stored in **index - of the linked list pointer** which was 1
-	- Now heapPointer points to value 1
+- startPointer set to value 0
+	- this is because the empty node - **which is node 0** is taken from the empty data linked list and put at the beginning of the 
 
 | Index | Value |
 | ---- | ---- |
