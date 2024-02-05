@@ -79,7 +79,7 @@ startPointer = -1 as the list has no elements
 
 | Index | Value |
 | ---- | ---- |
-| 0 <- startPoin  | -1 > data linked list points to NULL |
+| 0 <- *startPointer*  | -1 > data linked list points to NULL |
 | 1 <- *heapPointer* | 2 |
 | 2 | 3 |
 | 3 | 4 |
