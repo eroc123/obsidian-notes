@@ -1,4 +1,4 @@
-- Is basically a python function, but the general name is Procedure
+
 - **Is used when the same group of statements perform similar tasks**
 	- Same code but repeated
 - Procedure can be called many times 
@@ -24,6 +24,6 @@ CALL stars
 **calling a procedure with parameters** - a parameter is a value that a function can take in which can modify the actions taken
 
 
-PROCEDURE \<identifier> (parameter1)
+PROCEDURE \<identifier> (parameter1 : \<datatype1>, parameter 2 : \<datatype2>)
 ENDPROCEDURE
 CALL \<identifier> (Value1, Value2 ...)
