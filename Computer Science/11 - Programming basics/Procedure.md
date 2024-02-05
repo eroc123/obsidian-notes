@@ -1,0 +1,2 @@
+- Is basically a python function, but the general name is Procedure
+- Is used when the same group of statements perform similar tasks
