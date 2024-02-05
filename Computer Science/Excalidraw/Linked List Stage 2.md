@@ -1621,8 +1621,8 @@ NULL ^qftKQ7Au
 		},
 		{
 			"type": "arrow",
-			"version": 63,
-			"versionNonce": 356759537,
+			"version": 85,
+			"versionNonce": 1009610513,
 			"isDeleted": false,
 			"id": "EBGnSKUjwCbou48qR2Dz5",
 			"fillStyle": "hachure",
@@ -1631,12 +1631,12 @@ NULL ^qftKQ7Au
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -297.27877672980793,
-			"y": 396.4730392156862,
+			"x": -356.10230614157257,
+			"y": 407.06127450980387,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 48.23529411764707,
-			"height": 69.41176470588232,
+			"width": 10.588235294117567,
+			"height": 80,
 			"seed": 156779871,
 			"groupIds": [],
 			"frameId": null,
@@ -1644,10 +1644,14 @@ NULL ^qftKQ7Au
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707117454817,
+			"updated": 1707117476665,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "VaiLZjSV",
+				"focus": -0.37388353956180775,
+				"gap": 8.235294117647186
+			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1658,15 +1662,15 @@ NULL ^qftKQ7Au
 					0
 				],
 				[
-					-48.23529411764707,
-					-69.41176470588232
+					10.588235294117567,
+					-80
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 468237215,
+			"version": 327,
+			"versionNonce": 1479429969,
 			"isDeleted": false,
 			"id": "VaiLZjSV",
 			"fillStyle": "hachure",
@@ -1675,8 +1679,8 @@ NULL ^qftKQ7Au
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -296.1023061415727,
-			"y": 422.35539215686276,
+			"x": -532.5728943768668,
+			"y": 415.29656862745105,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 553.599609375,
@@ -1685,8 +1689,13 @@ NULL ^qftKQ7Au
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1707117454817,
+			"boundElements": [
+				{
+					"id": "EBGnSKUjwCbou48qR2Dz5",
+					"type": "arrow"
+				}
+			],
+			"updated": 1707117476448,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3752,8 +3761,8 @@ NULL ^qftKQ7Au
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 486.1023061415727,
-		"scrollY": 309.4178921568627,
+		"scrollX": 836.6905414356905,
+		"scrollY": 142.35906862745088,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
