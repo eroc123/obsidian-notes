@@ -9,4 +9,11 @@
 **to define a procedure in pseudocode:**
 PROCEDURE \<identifier>
 	\<statements>
-	ENDPROCEDURE
+ENDPROCEDURE
+
+
+**example procedure**
+PROCEDURE stars (NUMBER : INTEGER)
+	FOR Counter 1 TO NUMBER
+		OUTPUT "\*"
+	NEXTCOUNTER
