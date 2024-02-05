@@ -14,7 +14,7 @@ startPointer = -1 as the list has no elements
 - **startPointer** points to -1 since it points to NULL (any pointer with value of -1 points to NULL)
 - null is the end of the list
 
-###### Empty linked list data -
+###### Empty linked list DATA
 | Node | Value |
 | ---- | ---- |
 | 0   |  |
@@ -32,8 +32,8 @@ startPointer = -1 as the list has no elements
 ###### Empty linked list pointers - heapPointer used for empty space linked list
 | Node | Value |
 | ---- | ---- |
-| **heapPointer** |  |
-| 0 > heapPointer | 1 |
+| **heapPointer** | **0** |
+| 0  | 1 |
 | 1 | 2 |
 | 2 | 3 |
 | 3 | 4 |
@@ -43,14 +43,15 @@ startPointer = -1 as the list has no elements
 | 7 | 8 |
 | 8 | 9 |
 | 9 | 10 |
-| 10 | -1 |
+| 10 | -1 (**NULL**) |
 
 
 ### Stage 2 - adding value to the list
 
 ###### Empty linked list elements
 
-- heapPointer points to the index 1 (heapPointer = 1) of the list 
+- heapPointer points to the index 1 (heapPointer = 1) of the empty data linked list
+	- this is because free space is taken from the front of the list - **node 0 is sacrificed first** 
 - startPointer set to heapPointer value
 	- heapPointer takes the **linked pointer list** value of whatever was stored in the **same index** as the previous element it pointed to.
 	- Previous element it pointed to was where value 37 is now with **index 0**. Hence heapPointer takes value stored in **index - of the linked list pointer** which was 1
