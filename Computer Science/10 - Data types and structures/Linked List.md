@@ -46,7 +46,7 @@ startPointer = -1 as the list has no elements
 | 10 | -1 (**NULL**) |
 
 
-### Stage 2 - adding value to the list
+### Stage 2 - adding values to the list
 
 ###### Empty linked list elements
 
@@ -90,3 +90,5 @@ startPointer = -1 as the list has no elements
 | 8 | 9 |
 | 9 | 0 |
 | 10 | -1 |
+
+![[Linked List Stage 2]]
