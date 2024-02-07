@@ -1,1 +1,1 @@
-MID(string, number of chars, position in string)
+MID(string, position in string, no. chars)
