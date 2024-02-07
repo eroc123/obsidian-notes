@@ -1,0 +1,8 @@
+- economic growth
+- population growth
+- Technological development
+- Geographical distribution of human settlements and urban structures
+	- e.g. human settlements in colder areas require heating which releases GHG
+	- living in suburbs generally require longer commutes or private transport - increases GHG emissions
+- Consumption patterns (housing patterns, leisure activities, diet - whether its vegetarian or meat based)
+- Extent to which countries mitigate against GHG emissions
