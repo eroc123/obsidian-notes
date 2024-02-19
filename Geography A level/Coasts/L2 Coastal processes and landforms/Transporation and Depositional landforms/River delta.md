@@ -1,5 +1,0 @@
-- Formed when a river meets a lake or the sea
-	- River current gets slowed down and causes deposition as it loses energy.
-	- A delta builds up when more material gets deposited than eroded away.
-- Characteristics include: islands which extend above the water, river splitting up into multiple channels (distributaries)
-- ![[River delta.png]]

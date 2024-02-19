@@ -1,7 +1,0 @@
-#### [[Coastal management|Hard engineering structures and coastal management techniques:]]
-- [[Groynes]]
-- [[Rock Armour (rip rap)]]
-- [[Sea Wall]]
-- [[Revetments]]
-- [[Offshore Breakwater]]
-- [[Gabions]]
