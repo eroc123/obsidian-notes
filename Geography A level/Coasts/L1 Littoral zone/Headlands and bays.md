@@ -1,7 +1,7 @@
 ### Formation:
 
 1. Waves attack a discordant coastline
-2. Via hydraulic action, the coast gradually erodes, however, the soft bands of rock erode faster than the hard rock bands
+2. Via [[ero|hydraulic action]], the coast gradually erodes, however, the soft bands of rock erode faster than the hard rock bands
 3. The soft, less resistant rock bands get eroded away and form bays, whilst the hard, more resistant rock bands stick out and form headlands
 4. Sheltered bays allow beaches to form from deposition
 
