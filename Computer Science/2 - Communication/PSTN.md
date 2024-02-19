@@ -14,3 +14,11 @@ tags:
 - When a call is finished, the specific line is freed up for someone else to use
 - Dial-ups and modems used PTSN to connect to the internet.
 - Over time PTSN was upgraded to fibre optic and broadband connections.
+
+
+
+
+
+
+
+
