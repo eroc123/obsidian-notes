@@ -1,3 +1,5 @@
+![[Drawing 2024-02-10 12.30.47.excalidraw.svg]]
+
 Alpha particles were considered to be nuclear sized bullets that would smash the atoms in the gold foil like water melons.
 
 Instead they found that many alpha particles were deflected, while a few came back in the direction they came from. It led to some important conclusions:

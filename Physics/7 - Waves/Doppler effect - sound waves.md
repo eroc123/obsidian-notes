@@ -11,7 +11,7 @@ tags:
 $$f_0 = f_s({V \over V \pm V_s})$$
 - $f_o$ is observed frequency
 - $f_s$ is source frequency - frequency of the sound emitted by the source
-- V is wave velocity 
+- $V$ is wave velocity 
 - $V_s$ is the velocity of the moving object relative to the observer
 	- If away, velocity is positive
 	- If towards, velocity is negative

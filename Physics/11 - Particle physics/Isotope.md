@@ -2,11 +2,11 @@
 tags:
   - physics/chapter-11
 ---
-Atoms with the same number of protons and different numbers of neutrons
+Atoms of the same element with same number of proton but different number of neutron
 ![[Drawing 2024-01-08 09.43.59.excalidraw.svg|100]]
 A - Nucleon number, or the mass number. Total number of nucleons
 Z - Proton number or atomic number. 
-X - Chemical symbol
+X - Chemical symbol 
 
 ## Notation
 - We can determine the number of neutrons simply by subtracting the proton number from the nucleon number

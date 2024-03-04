@@ -13,4 +13,4 @@ Waves on a string will always behave according to the first diagram, as both sid
 
 For a hollow tube, the wave gets reflected back due to the pressure difference, which pushes the compressed wavefront exiting the pipe back into the pipe, causing a reflection [(read more here)](https://physics.stackexchange.com/questions/150929/how-can-standing-waves-be-produced-in-an-open-organ-pipe-if-the-ends-are-open)
 
-
+**For simplicity**, just think of the reflection as a separate wave being sent in the opposite direction. No need to understand why it reflects, just that it does
