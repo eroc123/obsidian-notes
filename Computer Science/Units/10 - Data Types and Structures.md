@@ -20,13 +20,13 @@ Write pseudocode for [[1D arrays|1D]] and [[2D arrays|2D]] arrays
 
 Write pseudocode to process array data 
 - Sort using a [[Bubble sort|bubble sort]]
-- Search using a [[Linear Search|linear search]]
+- Search using a [[Computer Science/10 - Data types and structures/Linear Search|linear search]]
 
 ##### 10.3 Files
 
-Show understanding of why files are needed 
+- Show understanding of why [[files]] are needed 
 
-Write pseudocode to handle text files that consist of one or more lines
+- Write pseudocode to handle text files that consist of one or more lines
 
 ##### 10.4 Introduction to Abstract Data Types (ADT)
 

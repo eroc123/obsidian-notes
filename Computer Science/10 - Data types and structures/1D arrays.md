@@ -2,6 +2,7 @@
 tags:
   - comsci/chapter-10
   - array
+  - "#pseudocode"
 ---
 Example:
 

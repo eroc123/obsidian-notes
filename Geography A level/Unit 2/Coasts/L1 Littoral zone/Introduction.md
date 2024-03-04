@@ -1,6 +1,4 @@
-
 ## Key Terms:
-
 |   |   |
 |---|---|
 |Deposition:|The process by which sediments get placed down in a specific location by wind, water or other natural processes.|

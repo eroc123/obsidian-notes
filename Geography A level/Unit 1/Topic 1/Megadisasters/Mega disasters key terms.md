@@ -1,0 +1,4 @@
+- **Megadisaster** - An event that is high impact, high magnitude, infrequent, causes huge devastation, is extremely costly and affects more than one country
+- Examples of recent megadisasters are: 2004 boxing day tsunami, 2010 Eyajallajokull eruption, 2011 Japan tsunami
+- **Wave shoaling** - the process whereby a deep ocean tsunami wave with a long wavelength and low wave height is transformed into a shallow water tsunami wave with a shorter wavelength and a much higher amplitude.
+- **Wave train** - the set of waves that ripple out from the initial disturbance that causes a tsunami.

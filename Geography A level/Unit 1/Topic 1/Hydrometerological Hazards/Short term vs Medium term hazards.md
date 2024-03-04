@@ -1,0 +1,4 @@
+- Short term hazards are those that span a few days to a few weeks at most 
+	- e.g. [[Tropical Cyclones]], [[Flood Types]]
+- Medium term hazards are those that span several months to years.
+	- e.g. [[Drought]]

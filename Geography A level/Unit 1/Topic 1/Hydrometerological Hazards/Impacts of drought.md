@@ -1,0 +1,4 @@
+- Lack of clean water supply can cause contaminated water and spread diseases such as typhoid
+- Wildfire risk increased due to less moisture
+- Conflict due to pressure on water supplies (e.g. between Egypt and Ethiopia)
+- High crop and livestock losses for subsistence and commercial farmers

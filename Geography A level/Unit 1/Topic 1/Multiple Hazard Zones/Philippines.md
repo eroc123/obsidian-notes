@@ -1,0 +1,30 @@
+- Population: 110 million
+- Population Density: 334 km^2
+- Types of hazards: 
+	- **[[Earthquake causes|Earthquakes]]**
+		- Situated on two convergent fault lines.
+		- Situated in tsunami prone area and in a major typhoon belt.
+	- Tropical Cyclones
+	- Droughts
+	- Tsunamis
+	- Landslides
+	- Volcanoes
+	- Floods 
+		- [[ENSO]] increases amount of rainfall that California gets, increasing chance of landslides and coastal erosion
+	- Coastal Erosion
+- GDP
+	- 394.1 billion USD
+	- 3460 USD per capita
+- Land use
+	- Rapid urbanization with little planning, many flatland areas used for agricultural purposes
+- Topography
+	- Mountainous with coastal lowlands. 
+	- Is an island chain
+- Poverty rate
+	- 21.6% lives below the poverty line
+- Hazard frequency: 
+	- at least 1 earthquake of magnitude greater than or equal to 6.8 per year.
+- Solutions to hazards
+	- Partnerships with governments + community disaster action team formation:
+		- Long term planning will become part of the local planning strategy
+		- Disaster mitigation program will consist of community volunteers who work together with communities for disaster action plans

@@ -1,0 +1,402 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Vulnerable Population ^zcCqJgkE
+
+Hazard 
+(geophysical/
+hydrometerological/
+human ^qkmdqlR8
+
+Disaster ^IPabdqGL
+
+the stronger a hazard, the more likely a disaster occurs ^HzLCJnqR
+
+If a population isn't vulnerable, they are more likely able to cope ^1dpkaZQn
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"elements": [
+		{
+			"id": "cXpO2j1D30set7ObriHIa",
+			"type": "ellipse",
+			"x": -345.40692138671875,
+			"y": -161.10421752929688,
+			"width": 369.44976806640625,
+			"height": 377.7350769042969,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 333061875,
+			"version": 103,
+			"versionNonce": 392300029,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001522033,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "I1glnaI86KP1Ae_5XIeeW",
+			"type": "ellipse",
+			"x": -118.73431396484375,
+			"y": -171.73345947265625,
+			"width": 412.05657958984375,
+			"height": 402.78289794921875,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 38020829,
+			"version": 66,
+			"versionNonce": 1757076285,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001496909,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "zcCqJgkE",
+			"type": "text",
+			"x": 51.49407958984375,
+			"y": -25.9718017578125,
+			"width": 205.7598114013672,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1896704179,
+			"version": 54,
+			"versionNonce": 940853139,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001533159,
+			"link": null,
+			"locked": false,
+			"text": "Vulnerable Population",
+			"rawText": "Vulnerable Population",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Vulnerable Population",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "qkmdqlR8",
+			"type": "text",
+			"x": -304.9388732910156,
+			"y": -67.2928466796875,
+			"width": 185.21981811523438,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 665464349,
+			"version": 65,
+			"versionNonce": 1241474451,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001523098,
+			"link": null,
+			"locked": false,
+			"text": "Hazard \n(geophysical/\nhydrometerological/\nhuman",
+			"rawText": "Hazard \n(geophysical/\nhydrometerological/\nhuman",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "Hazard \n(geophysical/\nhydrometerological/\nhuman",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "IPabdqGL",
+			"type": "text",
+			"x": -90.7342529296875,
+			"y": -12.06695556640625,
+			"width": 85.87991333007812,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1136352467,
+			"version": 47,
+			"versionNonce": 140394461,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001530950,
+			"link": null,
+			"locked": false,
+			"text": "Disaster",
+			"rawText": "Disaster",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Disaster",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Ss-79TQPQU7fok1Ty8Ys1",
+			"type": "line",
+			"x": -322.8225402832031,
+			"y": -214.52996826171875,
+			"width": 102.32040405273438,
+			"height": 117.92898559570312,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1328677757,
+			"version": 21,
+			"versionNonce": 1615783347,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001546700,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					102.32040405273438,
+					117.92898559570312
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "HzLCJnqR",
+			"type": "text",
+			"x": -360.1413879394531,
+			"y": -250.984375,
+			"width": 566.6595458984375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 997046099,
+			"version": 57,
+			"versionNonce": 1566236765,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001555275,
+			"link": null,
+			"locked": false,
+			"text": "the stronger a hazard, the more likely a disaster occurs",
+			"rawText": "the stronger a hazard, the more likely a disaster occurs",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "the stronger a hazard, the more likely a disaster occurs",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "lpOaeTDGa2oeNBETMYxMe",
+			"type": "line",
+			"x": 227.4561767578125,
+			"y": 264.1214599609375,
+			"width": 98.2154541015625,
+			"height": 158.0313720703125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1666854173,
+			"version": 38,
+			"versionNonce": 60768691,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001558475,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-98.2154541015625,
+					-158.0313720703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1dpkaZQn",
+			"type": "text",
+			"x": 83.8929443359375,
+			"y": 288.27728271484375,
+			"width": 649.439453125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1280480083,
+			"version": 80,
+			"versionNonce": 1977656573,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706001575268,
+			"link": null,
+			"locked": false,
+			"text": "If a population isn't vulnerable, they are more likely able to cope",
+			"rawText": "If a population isn't vulnerable, they are more likely able to cope",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "If a population isn't vulnerable, they are more likely able to cope",
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 477.25,
+		"scrollY": 362.84375,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%

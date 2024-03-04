@@ -1,0 +1,5 @@
+- The Earth's climate has changed throughout history and we can see these changes in the geological record. 
+- However, recent climate changes are unprecedented and there is no longer any doubt that these increased temperatures are being caused by human activity. 
+- We will continue to see warming temperatures until at least 2050 no matter what action we take, and some of the impacts will be irreversible for thousands of years.  
+- Extreme weather events have become more frequent and intense. 
+- Some development and adaptation efforts have reduced vulnerability, but the most vulnerable people and systems are disproportionately affected.

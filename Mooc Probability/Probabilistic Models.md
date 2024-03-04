@@ -1,0 +1,23 @@
+---
+tags:
+  - "#mathematics"
+  - "#probability"
+  - "#mooc"
+---
+- **Sample space** $\Omega$ is the set of all possible outcomes of an experiment
+- **Set**
+	- Must be mutually exclusive (no two events can occur at the same time)
+	- Collectively exhaustive  - no matter what happens in an experiment, there must be one outcome. e.g. if a die is rolled, there is always either 1, 2, 3, 4, 5 or 6 that is the outcome. there is no "null" outcome
+	- Sample space can be chosen based on what you are trying to investigate
+- **Discontinous  sample space**
+	- Limited number of possibilities, e.g. rolling 2 die (36 possibilities total)
+	- Total probability of a set is equal to the sum of the probabilities of the individual outcomes 
+		- e.g. a die has 1,2,3,4,5,6 with each outcome having a probability of 1/6. There are 6 outcomes, hence they add to 1
+	- P({X=1}) - the set of all outcomes such that X is equal to 1
+- **Continuous example**
+	- Unlimited number of possibilities, e.g. playing darts and finding the coordinates of where the dart landed.
+	- notation is $\Omega$ = {(x,y) | 0 <= x, y<=1 } (both x and y are real numbers between 0 and 1)
+	- A subset can be created of the sample space called an **event** (e.g P(A))
+		- if an outcome occurs within the subset, the **event has occured** (P(A))
+		- if an outcome occurs outside the set, the **event has not occured** (P(A'))
+		- ![[subset]]

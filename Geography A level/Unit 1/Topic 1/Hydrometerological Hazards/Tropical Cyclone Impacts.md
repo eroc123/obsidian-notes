@@ -1,0 +1,5 @@
+- Coastal flooding + coastal erosion from strong waves
+- Strong winds can cause damage to houses and infrastructure
+- Flooding from high rainfall
+	- Secondary hazards include collapsed buildings, disease, sanitation issues
+- [[Storm surges]]

@@ -1,0 +1,8 @@
+- Stands for El-Nino Southern Oscillation
+- Is a recurring climate pattern in the central and eastern tropical Pacific
+- Occurs in cycles of 3-7 years
+- When large swaths of warm surface waters move across the Pacific ocean and cool/warm areas by 1-3 degrees compared to the average.
+- Has three phases
+	- [[El Nino]]
+	- [[La Nina]]
+	- [[Neutral]]

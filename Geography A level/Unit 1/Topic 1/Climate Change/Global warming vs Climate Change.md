@@ -1,0 +1,2 @@
+- Global warming - occurs as a result of climate change and is the rise in average global temperatures
+- Climate change is the increasing changes in the measures of climate over a long period of time, including precipitation, temperature and wind patterns

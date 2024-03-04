@@ -1,0 +1,3 @@
+- Sea surface temperatures are close to average (neither el nino or la nina)
+- Trade winds blow warm surface waters from S. America to Aus and causes warm surface water to pool in the eastern Pacific (though not to the extent of La NIna)
+- There is some upwelling in the western Pacific.

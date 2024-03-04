@@ -1,0 +1,6 @@
+- Occured in 2013
+- Had a magnitude of 7.2 on Moment Magnitude Scale
+- Depth of 12 km
+- 222 people killed 976 injured
+- 73002 houses destroyed
+- Infrastructure damage totaled 52 million USD

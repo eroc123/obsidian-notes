@@ -1,0 +1,3 @@
+- [[Magnitude of an Earthquake - Mercalli Scale]]
+- [[Magnitude of an Earthquake - Moment Magnitude Scale]]
+- [[Magnitude of an Earthquake - Richter Scale]]

@@ -3,6 +3,7 @@ tags:
   - comsci/chapter-10
   - datamanipulation
   - array
+  - "#pseudocode"
 ---
 - Bubble sort allows for a list to be ordered numerically or alphabetically 
 - Each element of the array is compared with the next element and swapped if the elements are in the wrong order.

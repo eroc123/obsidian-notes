@@ -1,0 +1,4 @@
+- Dam building - can restrict water flow downstream and cause [[Types of drought|hydrological drought]]
+- Deforestation - removing trees can reduce amount of water stored in the soil
+- Agriculture - using large amounts of water to irrigate crops removes water from lakes and can cause [[Types of drought|hydrological drought/agricultural drought]]
+- 
