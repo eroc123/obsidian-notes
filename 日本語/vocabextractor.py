@@ -1,8 +1,18 @@
 import requests
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 #initalize webdriver
 driver = webdriver.Chrome()
+# Open the desired webpage
+driver.get("https://www3.nhk.or.jp/news/easy/list/index.html?date=2024-04-07")
+def navigateArticle(week):
+    link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//a[contains(text(), 'Click Me')]")))
+    link_element.click()
+
+
 def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
     response = requests.get(url)
