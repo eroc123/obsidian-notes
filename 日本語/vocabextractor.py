@@ -9,18 +9,21 @@ from bs4 import BeautifulSoup
 driver = webdriver.Chrome()
 # Open the desired webpage
 driver.get("https://www3.nhk.or.jp/news/easy/list/index.html?date=2024-04-07")
-def navigateArticle(week):
+def navigateArticle(day, month, year):
+    print(day, month, year)
     link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
- 
+    print(link_element.text)
+    if str(day) + "日" and str(month) + "月" + str(year) + "年" in link_element.text:
+        print("this is the one")
 
 
 
-day = 3
+day = 8
 month = 4
 year = 2024
 givenDate = datetime.datetime(year,month,day)
 weekdayIndex = givenDate.weekday()
-navigateArticle(day-weekdayIndex)
+navigateArticle(day-weekdayIndex, month, year)
 print(weekdayIndex)
 def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
