@@ -9,8 +9,11 @@ from bs4 import BeautifulSoup
 driver = webdriver.Chrome()
 # Open the desired webpage
 driver.get("https://www3.nhk.or.jp/news/easy/list/index.html?date=2024-04-07")
-def navigateArticle(articleDate, currentDate):
-    day = articleDate.
+def navigateArticle(articleDate):
+    day = articleDate.day - articleDate.weekday() - 1
+    month = articleDate.month
+    year = articleDate.year
+    modifiedDate = datetime.datetime(day,month,year)
     link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
     print(link_element.text)
     weekDate = str(year) + "年" + str(month) + "月" + str(day) + "日"
