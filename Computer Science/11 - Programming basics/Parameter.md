@@ -1,0 +1,2 @@
+- defined in function/procedure header
+- passes arguments to the function/procedure

@@ -1,0 +1,1 @@
+Unstable nuclei releases energy as photons such as gamma rays

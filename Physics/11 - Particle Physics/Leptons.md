@@ -1,3 +1,3 @@
-Electrons, muon, neutrino
+[[electrons]], [[muon]], [[neutrino]]
 
-Subject to the weal interraction
+Subject to the [[weak interaction]]

@@ -5,6 +5,7 @@
 	- [[Centre of mass]]
 	- [[Forces diagrams]]
 	- [[Newton's third law of motion]]
+- [[Hard queations]]
 
 %% End Waypoint %%
 

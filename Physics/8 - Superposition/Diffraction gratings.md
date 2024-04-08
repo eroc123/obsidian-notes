@@ -43,3 +43,5 @@ The maximum number of orders is when $\theta$ is 90 and hence $sin \theta = 1$
 $\therefore n = d/\lambda$
 
 **Always round down**
+
+
