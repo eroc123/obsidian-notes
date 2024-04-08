@@ -9,7 +9,8 @@ def extract_article_text(url, encoding='utf-8'):
     # Parse the HTML content
     soup = BeautifulSoup(html_content, 'html.parser')
     #find all paragraph tags
-    paragraphs= soup.find_all('p')
+    paragraphs= soup.find_all('<main class="1-main easy-news">')
+    title = soup.find_all('<h1 class="article_title">')
     paragraph_text = []
     for paragraph in paragraphs:
         text = paragraph.get_text(strip=True)
