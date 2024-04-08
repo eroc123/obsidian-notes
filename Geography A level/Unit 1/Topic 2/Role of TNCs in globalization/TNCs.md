@@ -1,0 +1,5 @@
+- Have production/services in multiple countries
+- Take advantage of economic liberalisation via outsourcing and offshoring
+	- less trade barriers make it more profitable for TNCs to outsource and off-shore their production for example
+- Mainly owned by industrialized economies, e.g. China, USA, Japan
+- Are not new - e.g. East India Company who traded with India and subsequently seizing much of the Indian subcontinent in the 16-1700's

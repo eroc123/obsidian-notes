@@ -1,5 +1,7 @@
 - Are **projections of future greenhouse gas emissions (GHG)** used by analysts to **assess future vulnerability** to climate change
-- There are multiple scenarios for climate change as we are unclear how greenhouse gas emissions will change in the future. 
+- There are multiple scenarios for climate change as we are unclear how greenhouse gas emissions will change in the future 
 	- e.g. if there were stricter policies, greenhouse gas emissions may reduce and change our climate change projects
 	- e.g. if we did nothing, greenhouse gas emissions may increase and change our climate change projections
+	- are complex and involve many factors
+	- can't take every factor into account
 - Projections **help stakeholders** understand what kind of decisions will have meaningful effects on climate change mitigation or adaptation.

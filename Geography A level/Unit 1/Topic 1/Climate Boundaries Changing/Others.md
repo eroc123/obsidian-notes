@@ -1,0 +1,3 @@
+- Warming temps may mean that North America's wheat belt can reach as far north as 65 degrees north by 2050 from 55 degrees north today
+- Southern US may become less productive due to higher temps
+- Ganges region may become heat stressed - causing yield reduction

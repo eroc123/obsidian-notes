@@ -1,0 +1,5 @@
+- working age population set to rise - potential ratio of working to non-working people rising 2:1 by 2050
+- has high population growth due to Nigerian culture promoting marraige and large families - may even encourage 10+ children
+- can reach demographic dividend - rapid  economic growth as it has a lot of oil and a lot of new young workers.
+- impacts on halth services - 5.5 children per woman results on a strain on maternal services and only 60% of births being attended by a trained health physicians.
+- only 0.38 doctors per 1000 population in 2009

@@ -1,0 +1,5 @@
+- highest point on Maldives is 4 meters
+- vulnerable to storms and storm surges
+- poor population - threathens livelihood of people who rely on fishing industry as an example
+- threats to freshwater supplies - limited due to small land area and can be contaminated by saltwater
+- **maldives may no longer be inhabitable in 2030**

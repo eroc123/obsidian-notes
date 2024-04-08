@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"8fc0818efe117acb","type":"group","x":-2421,"y":-637,"width":1292,"height":864,"color":"3","label":"What has been done to solve the issue?"},
+		{"id":"7b0c4d94258e3d1e","type":"group","x":-1129,"y":451,"width":868,"height":864,"color":"1","label":"Challenges created in city"},
+		{"id":"f877e12b50322533","type":"group","x":-174,"y":451,"width":868,"height":864,"color":"2","label":"What is the particular challenge in relation to housing supply and the growth of slums?  "},
+		{"id":"da8ba3bca893a159","type":"group","x":-12,"y":-550,"width":868,"height":689,"color":"4","label":"Mumbai Location"},
+		{"id":"82e0f6864aa19bfc","type":"group","x":-708,"y":-750,"width":534,"height":353,"color":"5","label":"Why Mumbai has grown rapidly"},
+		{"id":"418bd307885c9961","type":"text","text":"Grown due to natural increase and rural urban migration\n- comes both from within the state and also from other states in the country\n- from 16 million in 2002 to 21 million in 2022\n- due to rapid economic growth and growth of industries in Mumbai, e.g. shipbuilding, research and Bollywood\n- Is a major port city - largest port in India (63.61 million tonnes handled)\n","x":-703,"y":-740,"width":529,"height":343},
+		{"id":"2d0b35242f0a90bd","type":"file","file":"obsidian-notes/Geography A level/Urban/L4 - Slum Improvement/NGO and Self-Help - Slum improvement.md","x":-2416,"y":-597,"width":555,"height":400},
+		{"id":"fe62ca565fcd2fe8","type":"text","text":"**Mumbai's case** - Self-improvement projects started by informal contractors to build up homes from shanties into solid brick homes and improve living space.\n- Alternative to redevelopment schemes by private contractors which has been slow and ineffective due to corruption and poor building quality\n","x":-1752,"y":-537,"width":557,"height":206,"color":"1"},
+		{"id":"d2929c3efa49ce05","type":"text","text":"NGO's - work to secure land tenure for people - help do this using governmnet subsidies, cheap labour and housing loans to keep costs down for people looking for homes (62% of Mumbai lives in informal housing and slums which often lack basic water and sanitation)","x":-1752,"y":-331,"width":557,"height":126,"color":"2"},
+		{"id":"1c8865dd0b2dde03","type":"text","text":"**Government Failiures -** Government has had plans to redevelop Dharavi but has failed. Government failed to invite public, meaning that redevelopment of Dharavi into public housing works has been met with opposition from public and urban planners.","x":-2166,"y":-103,"width":552,"height":137,"color":"6"},
+		{"id":"cd8c555f53860d31","type":"file","file":"Screen Shot 2567-04-01 at 10.36.23.png","x":7,"y":-514,"width":311,"height":399},
+		{"id":"6fd177b768574bbd","type":"text","text":"- Located in Western India in Maharashi State\n- Is a penninsula - city center is on a small penninsula surrounded by water on three sides\n- has grown northwards, restricted by marshy land in the south of the pennisula and ocean on three sides\n- growth northwards restricted due to creek systems - Mumbai has grown to become very dense in the center (43000 people per square kilometer)\n- grown eastwards across the creek as suburbanization accelerated - swallowed several towns such as Vashi","x":318,"y":-514,"width":538,"height":400},
+		{"id":"3b61b975bf001463","type":"file","file":"Screen Shot 2567-04-01 at 10.33.57.png","x":-893,"y":-314,"width":719,"height":455},
+		{"id":"2291df0b5f754f03","type":"file","file":"obsidian-notes/Geography A level/Urban/L4 - Slum Improvement/Dhavari Slum Case Study.md","x":-1124,"y":457,"width":862,"height":427},
+		{"id":"e44cc0bf87a0ccb0","type":"text","text":"Economic Challenges\n- 40% of households below poverty line\n- Mumbai has some of the highest rental values in the world (especially in Marine Drive in South Mumbai) due to extremely high population density\n","x":-1124,"y":884,"width":859,"height":148,"color":"5"},
+		{"id":"4bae38ae2c28e196","type":"text","text":"Environmental Challenges\n- No organized waste collection system of solid waste in slums - leads to open dumping\n- high number of private vehicles - heavy congestion, causes nitrous oxide levels to be 3x the safe level in Mumbai - doubled since 1988","x":-1124,"y":1032,"width":859,"height":135,"color":"4"},
+		{"id":"8bbdc3b63739f2be","type":"text","text":"Social Challenges\n- Increased pressure on sanitation services and basic infrastructure due to increased population\n- in addition to increased pressures on public transport, e.g. Mumbai suburban rail has 6-7 people dying each day","x":-1121,"y":1167,"width":859,"height":135,"color":"1"},
+		{"id":"65fc46f3bd3777a0","type":"text","text":"- Expensive housing and rental prices, especially in center of the city has caused growth of slums","x":-170,"y":457,"width":864,"height":317,"color":"2"},
+		{"id":"b7d8d5533a64f8f2","type":"text","text":"","x":-489,"y":1583,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"461a8cea88a75afe","fromNode":"3b61b975bf001463","fromSide":"right","toNode":"cd8c555f53860d31","toSide":"left","color":"4"},
+		{"id":"c2ca924953df2d37","fromNode":"418bd307885c9961","fromSide":"right","toNode":"cd8c555f53860d31","toSide":"left","color":"5"},
+		{"id":"6e618b419a33b383","fromNode":"3b61b975bf001463","fromSide":"bottom","toNode":"2291df0b5f754f03","toSide":"top","color":"1"},
+		{"id":"a2856f08bfb1546c","fromNode":"3b61b975bf001463","fromSide":"bottom","toNode":"f877e12b50322533","toSide":"top","color":"2"},
+		{"id":"817280b4ac80e131","fromNode":"fe62ca565fcd2fe8","fromSide":"left","toNode":"2d0b35242f0a90bd","toSide":"right","color":"1"},
+		{"id":"0460d4640acf357a","fromNode":"d2929c3efa49ce05","fromSide":"left","toNode":"2d0b35242f0a90bd","toSide":"right","color":"2"},
+		{"id":"551b671b70d52bba","fromNode":"1c8865dd0b2dde03","fromSide":"top","toNode":"2d0b35242f0a90bd","toSide":"bottom","color":"6"}
+	]
+}

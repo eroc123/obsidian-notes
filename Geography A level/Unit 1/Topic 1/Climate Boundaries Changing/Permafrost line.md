@@ -1,0 +1,9 @@
+- [[permafrost thawing|Permafrost]] forms in areas with annual temp below 0 degrees.
+	- Permafrost is ground that is frozen year round.
+- As climate warms, 0 degree annual isotherm line moves north and thaws permafrost
+	- Soil temp 20 meters down increasing by 1-2 degrees per decade
+- Thawing permafrost threatens arctic cities
+	- Building and infrastructure foundations built on solid permafrost - buildings are already tilting and cracking due to melting permafrost
+	- Roads buckle
+- [[permafrost thawing|Thawing permafrost releases methane]] 
+- Thawing permafrost can drain arctic lakes and ruin ecology in those areas

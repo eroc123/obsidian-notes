@@ -1,0 +1,9 @@
+- Southern and northern boundary of Sahara is moving south (has south 81 miles) and north respectively
+	- Sahara grows
+	- rainfall boundary defined as 10 cm (100 mm ) of rainfall annually
+- Sahara has grown 10% since 1920.
+- Countries in the Sahel region are most vulnerable - semi-arid steppe are converting into desert and affecting developing countries' abilities to grow food
+- Change is down to three factors
+	- Anthropogenic Climate Change
+	- Pacific Decadal cycle
+	- Atlantic Multidecadal cycle

@@ -1,0 +1,31 @@
+---
+tags:
+  - geography/unit-1/topic-2
+  - globalization
+  - trends
+  - "#distribution"
+---
+- Three global economic core regions (Asia, Europe, N.America)
+	- one in East Asia covering cities such as Seoul, Shanghai, Beijing and Tokyo
+	- one in Western Europe covering London, Paris, the Netherlands - see Blue Banana
+	- one in North America, containing many major US and Canadian cities
+- Five main resource frontiers - areas where most of the world's resource supply comes from
+	- One in Northern Canada
+	- One in Siberia (oil, natural gas)
+	- One in the Middle East (oil, natural gas)
+	- One around Nigeria in West Africa (oil)
+	- One in central South America (Brazil, amazon region)
+- [[Emerging areas]] (upward transition areas)
+	- India
+	- Southeast Asia (Asian tigers)
+	- Mexico
+	- Eastern Europe
+	- Southern Europe
+	- Southern Brazil
+	- Southern Australia
+- [[Downwards transition areas]] (decline)
+	- Northeast US Rust Belt
+	- Western Russia down into Turkey and into Northern Iran
+	- Northern UK
+	- Eastern South America
+	

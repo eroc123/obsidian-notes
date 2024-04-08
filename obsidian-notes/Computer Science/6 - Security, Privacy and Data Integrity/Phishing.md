@@ -1,0 +1,2 @@
+-  Fraudulent emails that are sent out disguised as coming from legitimate sources such as banks or reputable organizations
+- They often ask you to input your personal data such as pin or password.

@@ -12,14 +12,20 @@ e.g. adding 52 to 61
 |     | 0   | 0   | 1   | 1   | 0   | 1   | 0   | 0   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | +   | 0   | 0   | 1   | 1   | 1   | 1   | 0   | 1   |
-| =   | 0    | 1   | 1   | 1   | 0   | 0   | 0   | 1   |
+| =   | 0   | 1   | 1   | 1   | 0   | 0   | 0   | 1   |
 
 **To subtract numbers in [[Binary, Denary and Hexadecimal#^90095a|binary]], first convert the number you are subtracting by to its [[One's and Two's complement#^ba3c97|two's complement]] and then add together the numbers.**
 e.g. subtracting 42 from 68
 
+
+#binary
+
+How to subtract two numbers in binary
+;?;
 1. Firstly, convert 42 to its two's complement
 	- 00101010 (42) turns into 11010110 (-42)
-2. Add together the two binary numbers (-42 + 68)
+3. Add together the two binary numbers (-42 + 68)
+<!--SR:!2024-04-07,3,250-->
 
 |     | 1   | 1   | 0   | 1   | 0   | 1   | 1   | 0   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -3,7 +3,7 @@ tags:
   - comsci/chapter-2
 ---
 
-**HTTP** - **H**yper**T**ext **T**ransfer **P**rotocal - langauge that computers uses
+**HTTP** - **H**yper**T**ext **T**ransfer **P**protocol - langauge that computers uses
 - Requests that are sent by a computer such as GET requests and POST requests are examples of HTTP methods.
 **HTTPS** - **H**yper**T**ext **T**ransfer **P**rotocal **S**ecure - HTTP but secured with [[Secure Socket Layer]] and [[Transport Layer Security]]
 **HTML** - Code used in order to "draw" a website 

@@ -1,0 +1,15 @@
+---
+tags:
+  - "#policy"
+  - "#migration"
+  - "#causes"
+---
+- **Crisis events, e.g. sudden conflicts/persecution/genocide/economic recession**
+	- causes large scale emigration from these places - impacts host countries bordering these countries the most
+- **Level of development** 
+	- Developed countries are more popular destinations - must have strict entry requirements
+	- Developing countries less likely to recieve immigrants, however laws are less enforced and infrastructure is worse which may make migration less controlled
+- **Geographic Isolation**
+	- islands less likely to have illegal immigration - ports and airports are highly controlled places and no land borders exist
+- **Cultural views**
+	- east asian countries like Japan have cultural views which makes immigration unpopular

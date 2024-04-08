@@ -11,15 +11,7 @@
 - Clean air act passed in 1956
 - Smoke control implemented, only smokeless fuels can be burnt.
 - Ultra low emission zone implemented - charging drivers of polluting vehicles
-#### Beijing
-**Causes:**
-- Rapid industrialization 
-- Coal-burning power stations and a vehicle boom caused increase in air pollution emissions.
-**Solutions:**
-- Implementing ultra low emission standards - forcing old vehicles off the road
-- Implementing public transit (encourage people to use clean transit instead of driving)
-- Implementing advanced air quality monitoring systems
-- Shifting from coal to natural gas (natural gas is cleaner)
+
 #### Mexico City
 **Causes:**
 - Geography - being situated in a high altitude mountain valley meant that smog often gets trapped

@@ -1,0 +1,4 @@
+- **[[Subsidies in UK|Subsidies]]** - grants given by governments to increase the profitability of key industries
+- **Foreign Direct Investment (FDI)** - investment made by an overseas company or organisation into a company or organisation which is based in another country
+- **[[Special economic zones]]** - an area in which the business and trade laws are different from the rest of the country
+- **Privatisation** - the transfer of a business, industry or service from public to private ownership and control

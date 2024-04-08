@@ -1,0 +1,13 @@
+---
+tags:
+  - "#geography/unit-1/topic-2"
+  - "#globalization"
+  - "#comparisons"
+---
+|                           | Pros                                                                                                                                                            | Cons                                                                                                                                                                        |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Environment               | - Increased global awareness + increased environmental awareness<br>- diffusion of good environmental and human rights values<br>- Improved tech for monitoring | - many global economic activities are exploitative and degrade environment<br>- Global competition leads to resource overuse<br>- increased development damages environment |
+| Improving quality of life | - global capitalisation leads to rapid economic growth (NIC's RIC's, some LEDC's, bypasses LDC's)                                                               | - Many LDC's have got poorer and face economic restructuring to solve debt crisis.                                                                                          |
+| Economy and employment    | - millions of jobs created by TNC's and new industries                                                                                                          | - Relocation of branch stores and industries can cause job loss                                                                                                             |
+| Culture                   | - Increased opportunity for self-development and tourism  in global travel<br>- global technologies reviving declining cultures                                 | - globalisation has led to loss of some traditional cultures and religions<br>- cultural Americanization <br>- speeding up of social life with greater insecurity           |
+| Political                 | - Greater global co-operation to deal with problems in a structured way, e.g. UN, African Union                                                                 | - Decline of nation state                                                                                                                                                   |

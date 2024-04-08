@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e4b690f30d320a44","type":"group","x":-384,"y":-262,"width":658,"height":379,"color":"5","label":"Free Trade Areas"},
+		{"id":"831b8abd574379a2","type":"group","x":-384,"y":-174,"width":658,"height":291,"color":"4","label":"Custom Unions"},
+		{"id":"215f0b2bd98da9d1","type":"group","x":-384,"y":-90,"width":658,"height":207,"color":"1","label":"Common Markets"},
+		{"id":"17305710c1fcfa01","type":"group","x":-384,"y":9,"width":658,"height":108,"color":"3","label":"Economic and social unions"},
+		{"id":"e340cb8d196689cd","type":"text","text":"Charge same import duties to each other","x":-173,"y":-162,"width":426,"height":60,"color":"4"},
+		{"id":"1e33b4b3d9d7ac1f","type":"text","text":"Tarrifs and other trade barriers abolished","x":-198,"y":-246,"width":451,"height":60,"color":"5"},
+		{"id":"c53b7c66fd636791","type":"text","text":"Common tarrif on countries outside the common market","x":-55,"y":-72,"width":308,"height":60,"color":"1"},
+		{"id":"78c0e3b6b2a3e96f","type":"text","text":"Have a common market, common policies on product regulation, freedom of movement of goods, services, common external trade policy.","x":-364,"y":29,"width":617,"height":70,"color":"3"}
+	],
+	"edges":[]
+}

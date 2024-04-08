@@ -1,0 +1,14 @@
+- Trade - the exchange of goods and services between countries
+- Imports - goods brought into a country 
+- Exports - goods sold to another country 
+- [[Free trade bloc.canvas|Trading blocs]] - a group of countries where barriers to trade are reduced or eliminated among the participating states 
+- [[Tariffs]] - a tax on imported goods and services
+	- are protectionist
+- Balance of trade - the difference between the value of a country's exports vs imports
+- Trade surplus - when the value of the net exported goods exceeds the value of the net imported goods of a country - gain money
+- Trade deficit - when the value of the net imports of a country exceeds the net value of its exports - lose money
+- Visible trade - trade of physical items
+- Invisible trade - trade of ideas, concepts or services e.g. tourism and business
+- Terms of trade - Measure of country's export price relative to its import price (ratio)
+	- 60$ import exchange for 120$ export - 120:60 - 2 - terms of trade
+- 

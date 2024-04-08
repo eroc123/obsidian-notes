@@ -1,3 +1,10 @@
+---
+tags:
+  - comsci/chapter-11
+  - algorithmdesign
+  - programdesign
+  - pseudocode
+---
 - **Is used when the same group of statements perform similar tasks**
 	- Same code but repeated
 - Procedure can be called many times 

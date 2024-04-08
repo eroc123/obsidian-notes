@@ -28,6 +28,6 @@
 - **Waste reduction at the source:** Promote awareness and education about waste reduction strategies and about making sustainable choices.
 
 **Case studies:**
-[[Japan Case Study]]
+[[Geography A level/Urban/L1 Urban Issues/Japan Case Study]]
 [[Singapore Case Study]]
 [[India Case Study]]

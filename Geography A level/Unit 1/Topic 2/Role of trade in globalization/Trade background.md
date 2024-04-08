@@ -1,0 +1,5 @@
+- Most trade occurs between developed countries 
+	- control larger share of global trade vs developing countries
+- Developed countries usually export valuable manufactured goods, e.g. electronics and cars
+- Developed countries usually import cheaper primary goods, e.g. tea, coffee
+- Developing countries usually export low value manufactured goods or primary resources e.g. oil 

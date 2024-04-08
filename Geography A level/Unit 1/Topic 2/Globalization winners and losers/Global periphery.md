@@ -1,0 +1,13 @@
+---
+tags:
+  - geography/unit-1/topic-2
+  - globalization
+  - comparisons
+---
+- Some areas have not been affected by globalization mainly due to:
+	- **Political instability** - wars, conflicts, corruption deter investors due to risk
+	- **Debt** - reduces economic growth and prevents investment into human resources
+	- **Lack of infrastructure** - production costs are higher and distribution is unreliable due to bad water supply, bad electricity supply, bad roads, e.g.
+	- **Phyiscal constraints** - hard to get to/remote
+	- **Poverty and disease** - produce low-skilled workforce which is difficult to train
+- mainly found in parts of south Asia and Sub-Saharan Africa

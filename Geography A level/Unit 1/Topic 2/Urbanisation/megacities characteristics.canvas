@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"136f8acf545f3bda","type":"file","file":"Pasted image 20240404084949.png","x":-551,"y":40,"width":853,"height":640},
+		{"id":"20ca0609411d5ec3","type":"text","text":"international financial services, e.g. stock exchanges, banking and contribute significant financial capacity (e.g. GDP) \n","x":-94,"y":446,"width":328,"height":121,"color":"5"},
+		{"id":"3f409050374b2a82","type":"text","text":"#urbanization\nheadquarters of many large companies and TNCs - ==services e.g. FIRE== (Finance, insurance & real estate)","x":-369,"y":152,"width":328,"height":122,"color":"5"},
+		{"id":"690d2f0df586051c","type":"file","file":"Pasted image 20240404085549.png","x":-551,"y":680,"width":853,"height":640},
+		{"id":"395d2ebe4ccb571d","type":"text","text":"headquarters for international organizations, e.g. UN - active influence on world affairs","x":-273,"y":860,"width":250,"height":140,"color":"3"},
+		{"id":"95beb8e8788b59ad","type":"text","text":"Large population of the municipality or country","x":-455,"y":348,"width":250,"height":98,"color":"3"},
+		{"id":"8b12be78975e7e3e","type":"file","file":"Pasted image 20240404085822.png","x":-551,"y":1320,"width":853,"height":527},
+		{"id":"02c71491b055c316","type":"text","text":"large expat communities and diverse demographics, high quality of life","x":-309,"y":1382,"width":268,"height":95,"color":"3"},
+		{"id":"c747d8a3058eb118","type":"file","file":"Pasted image 20240404085919.png","x":302,"y":-530,"width":811,"height":570},
+		{"id":"1d3d9f487c9cf393","type":"text","text":"advanced infrastructure, e.g. railways, roads, even pedestrian infrastructure like crosswalks\ntransportation hub (Shibuya station Tokyo)","x":490,"y":-335,"width":325,"height":154,"color":"4"},
+		{"id":"f5db20c9dd1af620","type":"text","text":"good communications infrastructure, e.g. internet, telephone, celluar phone networks","x":365,"y":-474,"width":375,"height":93,"color":"4"},
+		{"id":"892836d1614d3ba1","type":"file","file":"Pasted image 20240404090334.png","x":302,"y":40,"width":811,"height":475},
+		{"id":"a627910c313ee9f3","type":"text","text":"well known, first-name familiar city names, e.g. Tokyo (even Shibuya is well recognized)","x":458,"y":160,"width":250,"height":118,"color":"6"},
+		{"id":"d81f0d62f084f6a6","type":"text","text":"popular cities, lots of tourism","x":740,"y":160,"width":250,"height":59,"color":"6"},
+		{"id":"e7564268b91d71a9","type":"text","text":"contains world heritage sites and many culturally signififacnt areas (like Grand Palace in Bangkok)","x":-341,"y":1604,"width":250,"height":88,"color":"6"},
+		{"id":"2abc12c85f31828a","type":"text","text":"prominent nightlife, cultural institutions like museums or tourist hotspots like Shibuya Scramble Crossing","x":458,"y":327,"width":282,"height":112,"color":"6"},
+		{"id":"bff0cc75054f35ec","type":"file","file":"Pasted image 20240404090817.png","x":308,"y":663,"width":805,"height":538},
+		{"id":"9ecf9b5ac6656dd3","type":"text","text":"large world-class airports which handle a lot of passenger and cargo traffic","x":537,"y":809,"width":328,"height":121,"color":"4"},
+		{"id":"d08dc0f88d114f4e","type":"file","file":"Pasted image 20240404085224.png","x":-545,"y":-529,"width":853,"height":569},
+		{"id":"867bc3d134a6e860","type":"text","text":"house many billionaires, e.g. billionaires row in NYC, also has extremely high cost of living (near the top of national/world rankings)","x":-272,"y":-381,"width":463,"height":94,"color":"5"},
+		{"id":"8df00a0ce1ac77f0","type":"text","text":"prominent skyscrapers","x":-253,"y":-244,"width":241,"height":62,"color":"4"},
+		{"id":"db345736b252e055","type":"file","file":"Pasted image 20240404091313.png","x":311,"y":1320,"width":802,"height":535},
+		{"id":"87f31cc0138cb9c2","type":"text","text":"music scene, e.g. head in the clouds in Los Angeles","x":458,"y":1463,"width":328,"height":121,"color":"6"},
+		{"id":"c2a91f9c8a983c66","type":"text","text":"good public transport, lots of traffic congestion, shopping malls ","x":-505,"y":1726,"width":328,"height":83,"color":"4"}
+	],
+	"edges":[]
+}

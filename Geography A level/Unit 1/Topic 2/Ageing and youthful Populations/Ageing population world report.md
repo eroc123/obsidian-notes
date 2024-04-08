@@ -1,0 +1,6 @@
+- Pretty much every country is experiencing growth in the proportion of elderly population
+- Life expectancy increasing throughout the world - more old people living to older ages
+	- hence old age population based on actual prospective age "years of life remaining" is growing more slowly, as even if more people are growing older, they are living longer at the same time
+- ageing population will increase the pressure on pension services
+- as long as population ageing is managed properly with good polices, it will not lead to economic decline
+- generally in less developed economies, elderly people finance themselves via their assets and savings, whilst in more developed countries, they rely more on government support (pensions)

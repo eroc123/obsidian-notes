@@ -1,0 +1,2 @@
+- Most global shift is happening to China - largest recipient of FDI due to rapid industrialization
+- China's share of global trade stands at 14.4% in 2022

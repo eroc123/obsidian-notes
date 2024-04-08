@@ -1,0 +1,4 @@
+- Uneven distribution of resources
+	- e.g. natural resources
+	- industrial base
+- Basically, countries cannot produce everything that is required by their population

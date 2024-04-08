@@ -6,7 +6,7 @@ tags:
 Bitmap images are made up of **pixels**, which are the smallest picture element that can be drawn. 
 - It is a small square with a specific color. 
 
-Each pixel has a color, and the amount of bits that the color of each pixel takes up is the **color depth (bit depth)**. 
+Each pixel has a color, and the amount of bits that the color of each pixel takes up is the **color depth (bit depth).**
 - Usually 3 bytes (24 bits) used per pixel, as it can represent over a million color combinations
 
 The amount of pixels that makes up an image depends on the **image resolution**, which is represented by the amount of pixels horizontally by the amount of pixels vertically. 

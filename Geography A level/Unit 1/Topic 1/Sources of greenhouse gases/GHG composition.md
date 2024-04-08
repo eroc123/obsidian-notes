@@ -1,0 +1,17 @@
+---
+tags:
+  - "#climatechange"
+  - "#greenhousegases"
+  - "#geography/unit-1/topic-1"
+  - "#trends"
+---
+- CO2 - 65% from direct human activity
+	- reduced by: reforestation, soil improvement
+- Fluorinated gases - 2%
+	- comes from: Industry, Refridgeration (e.g. [[montreal protocal|CFC's]])
+- Nitrous Oxides - 6%
+	- comes from: Agriculture, fertilizer use, fossil fuel combustion
+- Methane - 16%
+	- comes from: Agriculture, fertilizer use, fossil fuel combustion
+- CO2 - 11% indirect emissions 
+	- comes from: Deforestation, soil degradation

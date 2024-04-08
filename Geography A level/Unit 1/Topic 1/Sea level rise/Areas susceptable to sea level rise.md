@@ -1,0 +1,16 @@
+- low lying areas
+- floodplains
+- **deltas,** include:
+	- **Mekong delta - 1.9 million people**
+		- vulnerable to storms
+		- sediment starved due to dams in China (Tibet)
+	- **Nile delta - 1.3 million people**
+		- Sediment starved due to Aswan High Dam
+		- Lots of human activity - large cities including Cairo, Alexandria
+	- **Bengal delta - 3.4 million people**
+		- Large cyclones
+		- Land subsidence of 25mm a year in some areas due to groundwater pumping
+		- Submarine geology amplifies storm surges.
+	- **Yangtze delta - 0.5 million people**
+		- Typhoons hit
+- small island nations, e.g. coral atolls

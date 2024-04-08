@@ -1,0 +1,2 @@
+- Theory counters Malthus's views - increase in population and demand for food will spur innovation and allow for food production to increase
+- ![[Pasted image 20240326232627.png]]

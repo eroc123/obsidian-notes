@@ -33,3 +33,18 @@ IF topPointer = basePointer - 1 **- checks if there are values in the stack (top
 		 topPointer <- topPointer - 1 - **decrement 1 down from old index to show that topPointer is now pointing at the item below. The item to pop will now be overwritten the next time the stack is pushed to**
 ENDIF
 ![[Stack Pop]]
+
+
+
+#### NOTE
+- **When answering questions describing how to create a stack, DECLARE THE VARIABLES ITS FREE MARKS**
+
+##### Example Mark scheme
+- Declare a (1D) array of data type STRING 
+- 2 The number of elements in that array corresponds to the size of the required stack 
+- 3 Declare an integer / variable for StackPointer 
+- 4 Declare an integer / variable for the size of the stack // for the max value of StackPointer 
+- 5 Use the StackPointer as an index to the array 
+- 6 Pointers and variables initialised to indicate empty stack 
+- 7 Store each item on the stack as one array element / Each stack item maps to one array element 
+- 8 Attempt to describe Push and Pop operations 9 Push and Pop routines need to check for full or empty conditions

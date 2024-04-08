@@ -1,0 +1,2 @@
+- the act of compromising digital devices and networks by gaining unauthorized access to an account or computer system.
+- can be done via the installation of malware

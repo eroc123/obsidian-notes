@@ -1,0 +1,6 @@
+- [[Key words|Glocalisation]] - are culturally and socially influential
+- promote free trade and economic liberalisation
+- contribute to economic growth in LEDC's and emerging economies by outsourcing
+- invest in and invent new technologies improving transport and communication
+	- contribute to a large amount of **FDI (Foreign direct investment)** - e.g. for upgrading plants, equipment and property
+- have global production networks - e.g. apple sources their parts for mobile phones form multiple countries, e.g. semiconductors from Taiwan

@@ -1,0 +1,2 @@
+- LIC's exported primary goods, Europe and North America exported manufactured goods
+- 

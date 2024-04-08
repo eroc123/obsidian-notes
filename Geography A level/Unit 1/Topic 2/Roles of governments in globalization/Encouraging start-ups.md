@@ -1,0 +1,2 @@
+- Are quick to react and adopt new technology
+- [[India Start Up Case Study|Two start up policies]]

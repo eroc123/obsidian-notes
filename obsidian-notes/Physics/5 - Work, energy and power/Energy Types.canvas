@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"text","text":"Types of energy\n","id":"43e876da42f807f1","x":-286,"y":-542,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Transfers","id":"037801f5d581abcd","x":-480,"y":-320,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Stores","id":"0e45c276289e000c","x":-120,"y":-320,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Kinetic - movement","id":"95a253bd382bd4cc","x":-700,"y":-220,"width":220,"height":80,"color":"6"},
+		{"type":"text","text":"Sounds - sound waves","id":"4d869133a215b1b9","x":-700,"y":-120,"width":220,"height":80,"color":"6"},
+		{"type":"text","text":"Light - electromagnetic radiation","id":"b2f3055be7a106e1","x":-700,"y":-20,"width":220,"height":80,"color":"6"},
+		{"type":"text","text":"Electrical - moving electrons","id":"60edf71fda07397c","x":-700,"y":80,"width":220,"height":80,"color":"6"},
+		{"type":"text","text":"Thermal - energy of an object and how fast its particles are vibrating","id":"e573ac1c75b57a68","x":-700,"y":180,"width":220,"height":100,"color":"6"},
+		{"type":"text","text":"Elastic - energy of stretched spring or elastic band","id":"57213c339e0bf89a","x":130,"y":-220,"width":270,"height":80,"color":"6"},
+		{"type":"text","text":"Chemical - energy contained within molecule bonds","id":"265744e7a6ed1d76","x":130,"y":-120,"width":270,"height":80,"color":"6"},
+		{"type":"text","text":"Nuclear - energy contained in a nucleus","id":"a86901b34f8109f9","x":130,"y":-20,"width":270,"height":80,"color":"6"},
+		{"type":"text","text":"Gravitational Potential - energy gain when you lift something up","id":"b86d4ba66d87b1a3","x":130,"y":80,"width":270,"height":100,"color":"6"}
+	],
+	"edges":[
+		{"id":"28d36446502f620e","fromNode":"43e876da42f807f1","fromSide":"bottom","toNode":"037801f5d581abcd","toSide":"top"},
+		{"id":"8a8e3eea7048d64a","fromNode":"43e876da42f807f1","fromSide":"bottom","toNode":"0e45c276289e000c","toSide":"top"},
+		{"id":"14c3945dd3682909","fromNode":"037801f5d581abcd","fromSide":"bottom","toNode":"95a253bd382bd4cc","toSide":"right","color":"6"},
+		{"id":"a903a652ad36f281","fromNode":"037801f5d581abcd","fromSide":"bottom","toNode":"4d869133a215b1b9","toSide":"right","color":"6"},
+		{"id":"b491b39772a38158","fromNode":"037801f5d581abcd","fromSide":"bottom","toNode":"b2f3055be7a106e1","toSide":"right","color":"6"},
+		{"id":"7a5cb417cc9b4c5a","fromNode":"037801f5d581abcd","fromSide":"bottom","toNode":"60edf71fda07397c","toSide":"right","color":"6"},
+		{"id":"38645db758292f7a","fromNode":"037801f5d581abcd","fromSide":"bottom","toNode":"e573ac1c75b57a68","toSide":"right","color":"6"},
+		{"id":"1100bc3e8ee299d5","fromNode":"0e45c276289e000c","fromSide":"bottom","toNode":"57213c339e0bf89a","toSide":"left","color":"6"},
+		{"id":"46fcfcadb3d7b766","fromNode":"0e45c276289e000c","fromSide":"bottom","toNode":"265744e7a6ed1d76","toSide":"left","color":"6"},
+		{"id":"7e45ffe744d0d107","fromNode":"0e45c276289e000c","fromSide":"bottom","toNode":"a86901b34f8109f9","toSide":"left","color":"6"},
+		{"id":"dfd64082f04448fa","fromNode":"0e45c276289e000c","fromSide":"bottom","toNode":"b86d4ba66d87b1a3","toSide":"left","color":"6"}
+	]
+}

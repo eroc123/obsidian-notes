@@ -1,0 +1,23 @@
+---
+tags:
+  - "#geography/unit-1/topic-1"
+  - "#climatechange"
+  - "#greenhousegases"
+  - "#trends"
+---
+- Electricity and heating - 25%
+	- Comes from: Burning fossil fuels for power
+	- Covers all electrical production for national grids (excluding industries with local electricity production)
+- Agriculture, forestry, other land use - 24%
+	- Comes from: Deforestation, Cultivation
+- Buildings - 6%
+	- Comes from: heating, cooking
+- Transportation - 14% 
+	- Comes from: fossil fuels burnt for air, road, rail, marine transport
+- Industry - 21%
+	- Fuel for onsite energy
+	- Chemical/metallurgical processes
+	- Waste management
+- Other sources - 10%
+	- Emissions from energy sector outside electrical/heat production
+	- Fuel extraction/processing

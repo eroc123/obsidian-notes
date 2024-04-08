@@ -1,0 +1,1 @@
+- People who have had to move away due to effects of climate change (e.g. disaster)

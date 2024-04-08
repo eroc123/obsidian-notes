@@ -1,0 +1,3 @@
+#japanesevocab
+
+hello {{ahh}} ahh

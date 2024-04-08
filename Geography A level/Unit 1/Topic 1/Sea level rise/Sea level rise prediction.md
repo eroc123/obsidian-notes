@@ -1,0 +1,6 @@
+- Around 0.4-1m by 2100
+- **Rate of sea level rise is accelerating**
+	- due to positive feedback loops, e.g. [[Geography A level/Unit 1/Topic 1/Climate Change Scenarios/Ice albedo feedback|Ice albedo feedback]], [[Carbon ocean sink]]
+- Difficult to predict due to many [[Climate Change Scenarios|factors]]
+	- sea level rise closely tied to success of mitigation actions
+- General trend is a rise in sea level over time

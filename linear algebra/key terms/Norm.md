@@ -1,0 +1,3 @@
+- function that assigns non-negative value to a vector and measures size or length of the vector 
+- **euclidean norm** - square root of the sum of the squares of vectors components - basically Pythagoras theorem a^2 + b^2= c^2  - magnitude of vector
+- 

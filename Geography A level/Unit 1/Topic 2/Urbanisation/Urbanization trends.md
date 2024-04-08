@@ -1,0 +1,13 @@
+---
+tags:
+  - "#trends"
+  - "#urbanization"
+---
+- More than half the world lives in urban areas now
+- Urbanization is increasing in all regions of the world (both developed and developing)
+- 200 years ago only 2% lived in urban areas, now 55% and projected to be 68% in 2050
+- urban population tripling every 40 years
+- Urbanization is faster in LEDCs than MEDCs (MEDCs already urbanized, LEDCs catching up quickly)
+- Cities in developed countries growing around 1% per year
+- Cities in emerging/newly industrialized countries growing around 2-3% a year
+- Cities in LEDCs/developing countries growing 3%+ per year

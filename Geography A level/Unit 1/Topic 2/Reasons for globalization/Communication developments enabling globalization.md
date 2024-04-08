@@ -1,0 +1,20 @@
+---
+tags:
+  - geography/unit-1/topic-2
+  - "#globalization"
+  - "#developments"
+  - "#technology"
+---
+- Landline phones - allows for calls across long distances
+	- Downside: can only be accessed in specific areas as they are fixed
+- Internet - allows for instant communication 
+	- undersea fiber optic cables connect all parts of the world
+	- **mobile phones can access internet anywhere on mobile celluar networks** - access is no longer fixed
+	- is free and open for all use - via world wide web
+	- allows for development of social media
+- Social media
+	- allows sharing of ideas and culture across communities
+	- e.g. via memes, photos, videos, messages
+	- allows connecting with people all across the world - including meeting new people
+	- allows for easy marketing - used by both TNCs and small businesses
+	- **is global and accesable**

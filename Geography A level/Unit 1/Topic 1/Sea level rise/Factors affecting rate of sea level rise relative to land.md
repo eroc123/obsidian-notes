@@ -1,0 +1,8 @@
+- [[Geography A level/Coasts/L2 Coastal processes and landforms/Erosional processes and landforms/Key coast terms|Isostatic change]] of the land (subsiding or rebouding) can also change effects of sea level
+- In most deltas, due to sediment starvation, the land is sinking
+	- Sediment starvation: When sediment gets trapped behind human-made structures like a dam and restricts sediment flow downstream
+	- There is still erosion of river deltas, but no deposition left, hence river deltas erode.
+- Excessive groundwater pumping 
+	- Leads to land **subsidence** as land cannot support building weight anymore
+	- good example in Bangkok
+- Location in a tropical storm belt makes you more vulnerable to the effects of sea level rise.

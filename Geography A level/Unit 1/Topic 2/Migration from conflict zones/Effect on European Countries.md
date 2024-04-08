@@ -1,0 +1,8 @@
+- **High proportion of migrants to local population, especially in countries like Hungary and Sweden**
+	- this is even after border checks were reintroduced, with Hungary closing its border with Croatia
+	- e.g. Sweden has 1667 migrants per 100,000 local residents
+- **Countries are arguing about sharing the burden of migrants**
+	- Countries such as Greece fear that they will become the holding center for migrants (as they are directly in the migrant path) and have been demanding other EU countries to take responsibility
+	- Other countries accuse Greece of waiving migrants through without registering them first.
+	- Turkey is demanding EU for funds for cooperating with the migrant crisis - it is the country holding the largest share of migrants by far - 2.5 million people
+- European countries have built border fences to stop migrants from moving into a country

@@ -1,6 +1,6 @@
 Carrier Sense Multiple Access/Collision Detection (CSMA/CD)
 
-- When transmitting data via ethernet (half duplex - allows for data transmission in only one direction at a time), there is a possibility for two data packets when sent at the same time to collide on the same channel.
+- ch
 
 - Each device senses whether the cable is idle (no data packets) before transmitting data.
 

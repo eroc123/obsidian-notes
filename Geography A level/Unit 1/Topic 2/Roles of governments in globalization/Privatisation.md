@@ -1,0 +1,2 @@
+- Transfer of a business, industry or service from public to private ownership and control
+- Can make businesses more efficient and operate like TNC's due to free market competition

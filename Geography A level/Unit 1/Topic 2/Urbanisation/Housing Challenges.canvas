@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"77c22fe1cf49477c","type":"file","file":"Geography A level/Unit 1/Topic 2/Urbanisation/Urban Poor on the rise.md","x":-618,"y":-335,"width":400,"height":206,"color":"1"},
+		{"id":"2b627f7b93e8aca6","type":"text","text":"causes insecure housing tenure - fear of eviction","x":-82,"y":-499,"width":250,"height":60,"color":"1"},
+		{"id":"1a09aa744991fdd7","type":"text","text":"Growth of slums due to insecure housing/expensive housing, esp. in Sub-Saharan Africa","x":-162,"y":-711,"width":379,"height":84,"color":"1"},
+		{"id":"1cf70167faa7d6f7","type":"text","text":"Difficult to capture scale due to data collection methods being better suited towards rural poverty","x":-543,"y":-659,"width":250,"height":169,"color":"6"},
+		{"id":"0b18ba626cba4f61","type":"text","text":"legal protection for tenants is required","x":293,"y":-699,"width":250,"height":60,"color":"5"},
+		{"id":"4293b28887792b83","type":"text","text":"barrier to financial credit, services, jobs (invalid address for example)","x":293,"y":-326,"width":250,"height":94,"color":"1"},
+		{"id":"695f744f63e6b9e7","type":"text","text":"households without affordable housing estimated to hit 330 million by 2025","x":-29,"y":-225,"width":322,"height":96,"color":"4"},
+		{"id":"f6fed47cd3de0aaa","x":-641,"y":-1099,"width":400,"height":400,"color":"4","type":"file","file":"obsidian-notes/Geography A level/Urban/L5 - Public housing/Public housing.md"},
+		{"id":"93b4c39ac1a0607c","type":"text","text":"Housing Challenges - Key\n\nBlue -> government solutions\nRed -> causes and issues that occur\nGreen -> additional info/statistics\nPurple -> measurement indexes\n\n","x":-218,"y":113,"width":458,"height":190},
+		{"id":"f947bba272c73f50","type":"text","text":"Changing some indicators for index measuring urban poverty causes big changes in poverty numbers","x":-1252,"y":-655,"width":250,"height":161,"color":"6"},
+		{"id":"583be166a5d5d5af","x":-1252,"y":-434,"width":355,"height":96,"color":"5","type":"text","text":"innovative approaches can be adopted - e.g. recover nutrients and generate energy from human waste for profit "},
+		{"id":"e4308cf99274393b","type":"text","text":"Governments must improve urban planning of land to ensure supply of homes and services","x":-1252,"y":-257,"width":250,"height":133,"color":"5"},
+		{"id":"15fac56a59d49db2","type":"text","text":"worsened due to lack of money and government problems","x":-1252,"y":-11,"width":250,"height":86,"color":"1"},
+		{"id":"5955e824c2a09652","type":"text","text":"2.2 billion no access to clean water\n\n3.5 billion no access to basic sanitation","x":-1252,"y":179,"width":250,"height":129,"color":"4"},
+		{"id":"53f9e858bceda8a3","type":"text","text":"governments must priortize public housing programs and encourage development of houses to combat","x":-97,"y":-983,"width":250,"height":168,"color":"5"}
+	],
+	"edges":[
+		{"id":"60e7570ddac7fa99","fromNode":"1cf70167faa7d6f7","fromSide":"left","toNode":"f947bba272c73f50","toSide":"right","color":"6"},
+		{"id":"864577c8b93c2eba","fromNode":"2b627f7b93e8aca6","fromSide":"right","toNode":"4293b28887792b83","toSide":"top","color":"1"},
+		{"id":"2dde49168c38bc52","fromNode":"2b627f7b93e8aca6","fromSide":"top","toNode":"1a09aa744991fdd7","toSide":"bottom","color":"1"},
+		{"id":"3331c4470003ac4b","fromNode":"2b627f7b93e8aca6","fromSide":"top","toNode":"0b18ba626cba4f61","toSide":"bottom","color":"5"},
+		{"id":"311be13b64aafe99","fromNode":"2b627f7b93e8aca6","fromSide":"bottom","toNode":"695f744f63e6b9e7","toSide":"top","color":"4"},
+		{"id":"7255b465ac58b5c1","fromNode":"53f9e858bceda8a3","fromSide":"bottom","toNode":"1a09aa744991fdd7","toSide":"top","color":"5"},
+		{"id":"433d8cc09faf6b9e","fromNode":"93b4c39ac1a0607c","fromSide":"top","toNode":"77c22fe1cf49477c","toSide":"bottom"},
+		{"id":"f4e3aed01ffd5b0f","fromNode":"77c22fe1cf49477c","fromSide":"top","toNode":"1cf70167faa7d6f7","toSide":"bottom","color":"6"},
+		{"id":"db436c432a1b2dfe","fromNode":"77c22fe1cf49477c","fromSide":"right","toNode":"2b627f7b93e8aca6","toSide":"bottom","color":"1"},
+		{"id":"cbaba077f1754df5","fromNode":"15fac56a59d49db2","fromSide":"top","toNode":"77c22fe1cf49477c","toSide":"bottom","color":"1"},
+		{"id":"dc80163ef8d04dc7","fromNode":"5955e824c2a09652","fromSide":"right","toNode":"77c22fe1cf49477c","toSide":"bottom","color":"4"},
+		{"id":"d230e4f4189e1995","fromNode":"e4308cf99274393b","fromSide":"right","toNode":"77c22fe1cf49477c","toSide":"left","color":"5"},
+		{"id":"341e5765c31fcb3f","fromNode":"f6fed47cd3de0aaa","fromSide":"right","toNode":"53f9e858bceda8a3","toSide":"left","color":"4"},
+		{"id":"9182890dc008f128","fromNode":"583be166a5d5d5af","fromSide":"right","toNode":"77c22fe1cf49477c","toSide":"left","color":"5"}
+	]
+}
