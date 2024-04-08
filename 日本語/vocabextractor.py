@@ -1,4 +1,4 @@
-import requests, datetime
+import requests, datetime, time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -18,11 +18,17 @@ def navigateArticle(articleDate):
     while True:
         #get the week element and converts it to datetime format
         link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
+        time.sleep(2)
         elementText = link_element.text.strip()
+        for i in elementText:
+            print(i)
+        print(elementText[elementText.index("月")-1], "TEST")
         elementYear = elementText[0:4]
-        elementMonth = elementText[elementText.index("月") - 1:elementText.index("月") - 1].replace("年","")
-        elementDay = elementText[elementText.index("日" - 1):elementText.index("日" - 2 )]
-        currentDate = datetime.datetime(int(elementText[0:4]),int(elementText[5]),int(elementText[5:6].strip("日")))
+        elementMonth = elementText[elementText.index("月") - 2:elementText.index("月") - 1].replace("年","")
+        print(elementText[elementText.index("月")-1], elementText[elementText.index("日")-1])
+        elementDay = elementText[elementText.index("日")-2:elementText.index("日")-1]
+        print(elementYear, elementDay, elementMonth, "SADFADSFADSF")
+        currentDate = datetime.datetime(int(elementYear), int(elementMonth), int(elementDay))
         print(currentDate)
         if currentDate == modifiedDate:
             print("this is the one")
