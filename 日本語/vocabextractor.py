@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def extract_article_text(url):
     # Fetch the HTML content of the article
-    response = requests.get(url)
+    response = requests.get(url, encoding = 'utf-8')
     html_content = response.text
 
     # Parse the HTML content
