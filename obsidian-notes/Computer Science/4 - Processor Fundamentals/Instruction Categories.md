@@ -1,4 +1,0 @@
-- Data movement
-- Arithmetic Operations
-- Comparisons and jumps
-- Input and output
