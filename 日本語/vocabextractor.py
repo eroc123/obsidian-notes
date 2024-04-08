@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
     response = requests.get(url)
-    response.enconding = encoding
-    html_content = response.text
+    html_content = response.content
 
     # Parse the HTML content
     soup = BeautifulSoup(html_content, 'html.parser')
