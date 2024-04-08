@@ -13,21 +13,23 @@ def navigateArticle(articleDate):
     day = articleDate.day - articleDate.weekday() - 1
     month = articleDate.month
     year = articleDate.year
-    #modify the date to be the date of the monday of the week
+    #modify the date to be the date of the monday of the week - the date of the article to be found
     modifiedDate = datetime.datetime(year,month,day)
-
-    #get the week element and converts it to datetime format
-    link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
-    currentDate = datetime.datetime(int(link_element[0:3]),int(link_element[5]),int(link_element[5:6].strip("日")))
-    print(currentDate)
-    if currentDate == modifiedDate:
-        print("this is the one")
-    elif modifiedDate < currentDate:
-        previousElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__prev is-prev js-pager-nav")))
-        previousElement.click()
-    elif modifiedDate > currentDate:
-        nextElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__next is-next js-pager-nav")))
-        nextElement.click()
+    while True:
+        #get the week element and converts it to datetime format
+        link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
+        print("aaaaa", link_element.text[0:3]),(link_element.text[5]),(link_element.text[5:6].strip("日"))
+        currentDate = datetime.datetime(int(link_element.text[0:3]),int(link_element.text[5]),int(link_element.text[5:6].strip("日")))
+        print(currentDate)
+        if currentDate == modifiedDate:
+            print("this is the one")
+            break
+        elif modifiedDate < currentDate:
+            previousElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__prev is-prev js-pager-nav")))
+            previousElement.click()
+        elif modifiedDate > currentDate:
+            nextElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__next is-next js-pager-nav")))
+            nextElement.click()
 day = 8
 month = 4
 year = 2024
