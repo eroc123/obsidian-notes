@@ -13,7 +13,8 @@ def navigateArticle(day, month, year):
     print(day, month, year)
     link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
     print(link_element.text)
-    if str(day) + "日" and str(month) + "月" + str(year) + "年" in link_element.text:
+    weekDate = str(year) + "年" + str(month) + "月" + str(day) + "日"
+    if weekDate.strip() in link_element.text.strip():
         print("this is the one")
 
 
@@ -23,7 +24,8 @@ month = 4
 year = 2024
 givenDate = datetime.datetime(year,month,day)
 weekdayIndex = givenDate.weekday()
-navigateArticle(day-weekdayIndex, month, year)
+print(day-weekdayIndex)
+navigateArticle(day-weekdayIndex-1, month, year)
 print(weekdayIndex)
 def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
