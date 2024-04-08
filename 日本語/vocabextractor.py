@@ -1,6 +1,8 @@
-import requests, selenium
+import requests
+from selenium import webdriver
 from bs4 import BeautifulSoup
-
+#initalize webdriver
+driver = webdriver.Chrome()
 def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
     response = requests.get(url)
