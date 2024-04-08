@@ -1,24 +1,21 @@
 import requests
 from bs4 import BeautifulSoup
 
-def extract_article_text(url):
+def extract_article_text(url, encoding='utf-8'):
     # Fetch the HTML content of the article
-    response = requests.get(url, encoding = 'utf-8')
+    response = requests.get(url)
+    response.enconding = encoding
     html_content = response.text
 
     # Parse the HTML content
     soup = BeautifulSoup(html_content, 'html.parser')
-
-    # Find the main content of the article
-    article_content = soup.find('article')
-
-    # Extract text from the article content
-    if article_content:
-        article_text = article_content.get_text(separator='\n')
-        return article_text
-    else:
-        return None
-
+    #find all paragraph tags
+    paragraphs= soup.find_all('p')
+    paragraph_text = []
+    for paragraph in paragraphs:
+        text = paragraph.get_text(strip=True)
+        paragraph_text.append(text)
+    return paragraph_text
 # Example usage
 url = "https://www3.nhk.or.jp/news/easy/k10014413031000/k10014413031000.html"
 article_text = extract_article_text(url)
