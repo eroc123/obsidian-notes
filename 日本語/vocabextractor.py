@@ -1,4 +1,4 @@
-import requests
+import requests, selenium
 from bs4 import BeautifulSoup
 
 def extract_article_text(url, encoding='utf-8'):
@@ -17,7 +17,7 @@ def extract_article_text(url, encoding='utf-8'):
         paragraph_text.append(text)
     return paragraph_text
 # Example usage
-url = "https://www3.nhk.or.jp/news/easy/k10014413031000/k10014413031000.html"
+url = "https://www3.nhk.or.jp/news/easy/list/index.html?date=2024-04-07" #start off from april 7th week
 article_text = extract_article_text(url)
 if article_text:
     print(article_text)
