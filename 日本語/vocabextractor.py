@@ -13,13 +13,17 @@ def navigateArticle(articleDate):
     day = articleDate.day - articleDate.weekday() - 1
     month = articleDate.month
     year = articleDate.year
-    modifiedDate = datetime.datetime(day,month,year)
+    #modify the date to be the date of the monday of the week
+    modifiedDate = datetime.datetime(year,month,day)
+
+    #get the week element and converts it to datetime format
     link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
+    currentDate = datetime.datetime(int(link_element[0:3]),int(link_element[5]),)
     print(link_element.text)
     weekDate = str(year) + "年" + str(month) + "月" + str(day) + "日"
     if weekDate.strip() in link_element.text.strip():
         print("this is the one")
-    elif 
+    elif modifiedDate < link_element.t
 
 
 
