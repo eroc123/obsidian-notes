@@ -19,9 +19,9 @@ def navigateArticle(articleDate):
         #get the week element and converts it to datetime format
         link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
         elementText = link_element.text.strip()
-        print(("aaaaa", elementText[1:4]),(elementText[5]),(elementText[5:6].strip("日")))
-        print(elementText[5])
-        print(elementText)
+        elementYear = elementText[0:4]
+        elementMonth = elementText[elementText.index("月") - 1:elementText.index("月") - 1].replace("年","")
+        elementDay = elementText[elementText.index("日" - 1):elementText.index("日" - 2 )]
         currentDate = datetime.datetime(int(elementText[0:4]),int(elementText[5]),int(elementText[5:6].strip("日")))
         print(currentDate)
         if currentDate == modifiedDate:
