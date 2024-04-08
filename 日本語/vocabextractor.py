@@ -18,15 +18,16 @@ def navigateArticle(articleDate):
 
     #get the week element and converts it to datetime format
     link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
-    currentDate = datetime.datetime(int(link_element[0:3]),int(link_element[5]),)
-    print(link_element.text)
-    weekDate = str(year) + "年" + str(month) + "月" + str(day) + "日"
-    if weekDate.strip() in link_element.text.strip():
+    currentDate = datetime.datetime(int(link_element[0:3]),int(link_element[5]),int(link_element[5:6].strip("日")))
+    print(currentDate)
+    if currentDate == modifiedDate:
         print("this is the one")
-    elif modifiedDate < link_element.t
-
-
-
+    elif modifiedDate < currentDate:
+        previousElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__prev is-prev js-pager-nav")))
+        previousElement.click()
+    elif modifiedDate > currentDate:
+        nextElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__next is-next js-pager-nav")))
+        nextElement.click()
 day = 8
 month = 4
 year = 2024
