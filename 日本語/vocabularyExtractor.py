@@ -1,7 +1,7 @@
 from sudachipy import tokenizer
 from sudachipy import dictionary
 # Tokenize Japanese text
-mode = tokenizer.Tokenizer.SplitMode.C
+mode = tokenizer.Tokenizer.SplitMode.B
 # Load Sudachi dictionary
 sudachi = dictionary.Dictionary().create(mode)
 
