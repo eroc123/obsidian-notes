@@ -30,11 +30,13 @@ def extract_verb_forms(parsed_tokens):
 
 # Example Japanese text
 japanese_text = "彼は東京へ行った。そして、美味しい寿司を食べた。"
+
 # Tokenize the text
 tokens = tokenize_japanese(japanese_text)
-
+# Filter out unwanted tokens
+filtered_tokens = filter_tokens(tokens)
 # Extract verb forms
-verb_forms = extract_verb_forms(tokens)
+verb_forms = extract_verb_forms(filtered_tokens)
 
 # Output the verb forms
 for verb, form in verb_forms:
@@ -43,9 +45,6 @@ for verb, form in verb_forms:
 japanese_text = "ある日のこと、その男がふと立ち上がった。"
 
 
-
-# Filter out unwanted tokens
-filtered_tokens = filter_tokens(tokens)
 
 # Count the frequency of each token
 word_freq = Counter(filtered_tokens)
