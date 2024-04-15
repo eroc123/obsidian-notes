@@ -27,10 +27,9 @@ def navigateArticle(articleDate):
         elementYear = elementText[0:4]
         print(elementYear, "year")
         elementMonth = elementText[(elementText.index("月") - 2):(elementText.index("月"))].replace("年", "")
-        
         print(elementMonth, "month")
         elementDay = elementText[elementText.index("日")-2:elementText.index("日")]
-        print(elementYear, elementDay, elementMonth, "SADFADSFADSF")
+        print(elementDay, "Day")
         currentDate = datetime.datetime(int(elementYear), int(elementMonth), int(elementDay))
         print(currentDate)
         if currentDate == modifiedDate:
