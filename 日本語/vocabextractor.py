@@ -20,6 +20,7 @@ def navigateArticle(articleDate):
         link_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "dateStart")))
         time.sleep(2)
         elementText = link_element.text.strip()
+        print(elementText, "hello")
         for i in elementText:
             print(i)
         print(elementText[elementText.index("月")-1], "TEST")
