@@ -23,12 +23,13 @@ def navigateArticle(articleDate):
         print(elementText, "hello")
         for i in elementText:
             print(i)
-        print(elementText[elementText.index("月")-1], "TEST")
+        
         elementYear = elementText[0:4]
         print(elementYear, "year")
-        elementMonth = elementText[(elementText.index("月") - 2):(elementText.index("月"))]
+        elementMonth = elementText[(elementText.index("月") - 2):(elementText.index("月"))].replace("年", "")
+        
         print(elementMonth, "month")
-        elementDay = elementText[elementText.index("日")-2:elementText.index("日")-1]
+        elementDay = elementText[elementText.index("日")-2:elementText.index("日")]
         print(elementYear, elementDay, elementMonth, "SADFADSFADSF")
         currentDate = datetime.datetime(int(elementYear), int(elementMonth), int(elementDay))
         print(currentDate)
