@@ -24,6 +24,7 @@ def navigateArticle(articleDate):
             print(i)
         print(elementText[elementText.index("月")-1], "TEST")
         elementYear = elementText[0:4]
+        print(elementMonth, "test")
         elementMonth = elementText[elementText.index("月") - 2:elementText.index("月") - 1].replace("年","")
         print(elementText[elementText.index("月")-1], elementText[elementText.index("日")-1])
         elementDay = elementText[elementText.index("日")-2:elementText.index("日")-1]
