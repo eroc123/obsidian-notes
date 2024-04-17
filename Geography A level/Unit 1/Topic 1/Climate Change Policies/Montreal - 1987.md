@@ -6,3 +6,4 @@ montreal protocol
 - Phased out production of various substances e.g. CFC's - were commonly used for refrigeration and hair spray and had major producers such as DuPont (quarter of global production)
 - Signed by 197 UN member states - **universal ratification - all member states signed**
 - **Successful** - due to universal international cooperation
+<!--SR:!2024-04-20,3,250-->
