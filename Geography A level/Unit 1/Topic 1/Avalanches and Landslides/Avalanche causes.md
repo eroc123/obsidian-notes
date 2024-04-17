@@ -1,3 +1,11 @@
+---
+tags:
+  - "#hazardcauses"
+---
+
+;?;
+
+
 - Require a slope angle of 35-50 degrees - highest risk slope
 - Requires a large buildup of snow , which can occur from snowstorms (reason why its a [[Complex hazards]] specifically in three layers:
 	- Surface bed of snow - this is a strong, compacted layer of snow at the bottom
@@ -9,11 +17,13 @@
 - There can be both human and physical triggers
 	- Human triggers include skiing, snowboarding, snowmobiling
 	- Physical triggers include earthquakes, snowstorms.
-
-
+;?;
+;?;
 #### Chamoli Disaster
 - Large chunk of a mountain flank in the Himalayas (Ronti Peak), around 80% rock 20% ice broke off
 - The mixture of rock and ice fell 2 km, with the friction of the rock heating up the ice enough to melt almost all of it into water
 - The rock avalanche had the consistency of concrete mix and allowed it to flow further downstream into a river, which caused it to destroy dams several 10's of kilometers downstream 
 	- Destroyed the Rishiganga hydro-electric plant 15 km downstream from where the collapse occured
 - Rock avalanches may become more often as climate change worsens. This is because overlying glaciers are melting faster, removing the glacial weight and causing destabilisation of the rock layers below.
+;?;
+

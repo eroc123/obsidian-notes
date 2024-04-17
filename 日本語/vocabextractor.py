@@ -28,7 +28,7 @@ def navigateArticle(articleDate):
         print(elementYear, "year")
         elementMonth = elementText[(elementText.index("月") - 2):(elementText.index("月"))].replace("年", "")
         print(elementMonth, "month")
-        elementDay = elementText[elementText.index("日")-2:elementText.index("日")]
+        elementDay = elementText[elementText.index("日")-2:elementText.index("日")].replace("月", "")
         print(elementDay, "Day")
         currentDate = datetime.datetime(int(elementYear), int(elementMonth), int(elementDay))
         print(currentDate)
@@ -38,11 +38,13 @@ def navigateArticle(articleDate):
         elif modifiedDate < currentDate:
             previousElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__prev is-prev js-pager-nav")))
             previousElement.click()
+            print("clickPrev")
         elif modifiedDate > currentDate:
             nextElement = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "archives-pager__next is-next js-pager-nav")))
             nextElement.click()
+            print("clickNext")
 day = 8
-month = 4
+month = 3
 year = 2024
 articleDate = datetime.datetime(year,month,day)
 weekdayIndex = articleDate.weekday()
