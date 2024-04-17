@@ -3,8 +3,7 @@ tags:
   - "#hazardcauses"
 ---
 
-;?;
-
+avalanche;;the mass movement of snow down a hillside
 
 - Require a slope angle of 35-50 degrees - highest risk slope
 - Requires a large buildup of snow , which can occur from snowstorms (reason why its a [[Complex hazards]] specifically in three layers:
@@ -17,7 +16,7 @@ tags:
 - There can be both human and physical triggers
 	- Human triggers include skiing, snowboarding, snowmobiling
 	- Physical triggers include earthquakes, snowstorms.
-;?;
+
 ;?;
 #### Chamoli Disaster
 - Large chunk of a mountain flank in the Himalayas (Ronti Peak), around 80% rock 20% ice broke off
