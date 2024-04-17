@@ -5,6 +5,7 @@ tags: [excalidraw]
 
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+<!--SR:!2024-04-20,3,250-->
 
 
 # Text Elements
