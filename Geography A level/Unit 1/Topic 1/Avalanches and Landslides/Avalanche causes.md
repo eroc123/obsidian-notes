@@ -38,9 +38,12 @@ avalanche composition
 ##### What occured
 - Large chunk of a mountain flank in the ==Himalayas (Ronti Peak)==, around 80% rock 20% ice broke off
 - The mixture of rock and ice fell 2 km, with the friction of the rock heating up the ice enough to melt almost all of it into water
+<!--SR:!2024-04-18,1,225-->
+
+##### What the disaster caused
 - The rock avalanche had the consistency of concrete mix and allowed it to flow further downstream into a river, which caused it to ==destroy dams several 10's of kilometers downstream==
 	- Destroyed the ==Rishiganga hydro-electric plant 15 km downstream== from where the collapse occured
 - Rock avalanches may become more often as climate change worsens. This is because overlying glaciers are melting faster, removing the glacial weight and causing destabilisation of the rock layers below.
-<!--SR:!2024-04-20,3,250!2000-01-01,1,250!2000-01-01,1,250-->
+<!--SR:!2024-04-20,3,250!2024-04-18,1,225-->
 
 

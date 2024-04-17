@@ -1,4 +1,10 @@
-- Determines belt of Australia's arable land
+---
+tags:
+  - "#geography"
+---
+##### Australia wheatbelt
+;?;
+Determines belt of Australia's arable land
 	- Australia is one of world's largest wheat exporters
 - Climate change is making land drier and warmer, pushing belt southwards
 - Warmer and drier temps reducing theoretical maximum yield of Australia's wheat farms.

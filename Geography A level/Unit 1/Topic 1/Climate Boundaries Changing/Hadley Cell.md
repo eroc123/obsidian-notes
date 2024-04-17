@@ -1,3 +1,7 @@
+---
+tags:
+  - "#geography"
+---
 - Large scale air circulation pattern
 
 1. Hot air rises at equator - creates thunderstorms at equator
