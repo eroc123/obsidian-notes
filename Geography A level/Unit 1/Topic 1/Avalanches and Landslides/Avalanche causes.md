@@ -1,15 +1,15 @@
 ---
 tags:
-  - "#hazardcauses"
+  - "#geography"
 ---
 
 avalanche;;the mass movement of snow down a hillside
+<!--SR:!2024-04-20,3,250-->
 
+avalanche requirements
+;?;
 - Require a slope angle of 35-50 degrees - highest risk slope
-- Requires a large buildup of snow , which can occur from snowstorms (reason why its a [[Complex hazards]] specifically in three layers:
-	- Surface bed of snow - this is a strong, compacted layer of snow at the bottom
-	- Weak, intermediate snow layer - this is a weak layer of unconsolidated snow which can give way
-	- Overlying slab snow - this is the fresh snow that has piled up on the intermediate snow layer
+- Requires a large buildup of snow , which can occur from snowstorms (reason why its a 
 - There are two types of avalanches, loose snow avalanche and slab avalanche
 	- loose snow avalanche is when the snow flows down unconsolidated 
 	- slab avalanches is when the snow falls down in one big consolidated block - **more dangerous**
@@ -17,7 +17,14 @@ avalanche;;the mass movement of snow down a hillside
 	- Human triggers include skiing, snowboarding, snowmobiling
 	- Physical triggers include earthquakes, snowstorms.
 
+avalanche composition
 ;?;
+[[Complex hazards]] specifically in three layers:
+	- Surface bed of snow - this is a strong, compacted layer of snow at the bottom
+	- Weak, intermediate snow layer - this is a weak layer of unconsolidated snow which can give way
+	- Overlying slab snow - this is the fresh snow that has piled up on the intermediate snow layer
+
+
 #### Chamoli Disaster
 - Large chunk of a mountain flank in the Himalayas (Ronti Peak), around 80% rock 20% ice broke off
 - The mixture of rock and ice fell 2 km, with the friction of the rock heating up the ice enough to melt almost all of it into water
