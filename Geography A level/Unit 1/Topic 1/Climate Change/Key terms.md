@@ -15,7 +15,10 @@ As arctic sea ice melts, the surface changes from being a bright reflective whit
 **Geo-engineering**;;Any technology that could be used to halt or reverse climate change. e.g. carbon dioxide extraction, deflecting the suns rays with mirrors
 <!--SR:!2024-04-20,3,250-->
 **Runaway climate change**;; Describes how climate change may suddenly get worse after passing a tipping point, making it even harder to stop or reverse.
+<!--SR:!2024-04-20,3,250-->
 **Greenhouse effect**;; Trapping of the sun's warmth in the Earth's lower atmosphere as infrared radiation emitted from the Earth's surface gets absorbed by greenhouse gases.
+<!--SR:!2024-04-20,3,250-->
 **Greenhouse gases**;; gases that trap heat in the atmosphere and can absorb infrared radiation emitted from the Earth's surface e.g. carbon dioxide.
 <!--SR:!2024-04-20,3,250-->
 **Tipping point**;;a critical threshold that, when crossed, leads to large, accelerating and often irreversible changes in the climate system
+<!--SR:!2024-04-20,3,250-->
