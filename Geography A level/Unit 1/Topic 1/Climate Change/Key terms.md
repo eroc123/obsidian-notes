@@ -12,8 +12,9 @@ The process would be carbon neutral if the amount taken and the amount released 
 - Positive means adding to the rate of warming
 - Negative means reducing
 As arctic sea ice melts, the surface changes from being a bright reflective white to a darker blue or green which absorbs more of the Sun's rays and increases heating.
-**Geo-engineering** - Any technology that could be used to halt or reverse climate change. e.g. carbon dioxide extraction, deflecting the suns rays with mirrors
-**Runaway climate change** - Describes how climate change may suddenly get worse after passing a tipping point, making it even harder to stop or reverse.
-**Greenhouse effect** - Trapping of the sun's warmth in the Earth's lower atmosphere as infrared radiation emitted from the Earth's surface gets absorbed by greenhouse gases.
-**Greenhouse gases** - gases that trap heat in the atmosphere and can absorb infrared radiation emitted from the Earth's surface e.g. carbon dioxide.
-**Tipping point** - a critical threshold that, when crossed, leads to large, accelerating and often irreversible changes in the climate system
+**Geo-engineering**;;Any technology that could be used to halt or reverse climate change. e.g. carbon dioxide extraction, deflecting the suns rays with mirrors
+<!--SR:!2024-04-20,3,250-->
+**Runaway climate change**;; Describes how climate change may suddenly get worse after passing a tipping point, making it even harder to stop or reverse.
+**Greenhouse effect**;; Trapping of the sun's warmth in the Earth's lower atmosphere as infrared radiation emitted from the Earth's surface gets absorbed by greenhouse gases.
+**Greenhouse gases**;; gases that trap heat in the atmosphere and can absorb infrared radiation emitted from the Earth's surface e.g. carbon dioxide.
+**Tipping point**;;a critical threshold that, when crossed, leads to large, accelerating and often irreversible changes in the climate system
