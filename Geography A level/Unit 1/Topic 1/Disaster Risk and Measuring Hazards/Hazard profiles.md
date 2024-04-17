@@ -1,1 +1,1 @@
-![[hazard profile.png]]
+Hazard Profile;;![[hazard profile.png]]

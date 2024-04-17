@@ -13,4 +13,4 @@ H - Hazard
 V - Vulnerability
 C - Capacity to cope
 
-$R=(H*V)/C$
+Risk hazard equation - R is risk, H is hazard, V is vulnerability, C is capacity to cope;;$R=(H*V)/C$
