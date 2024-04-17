@@ -1,3 +1,9 @@
+---
+tags:
+  - "#geography"
+---
+Intergovernmental Panel on Climate Change
+;?;
 - Founded in 1988
 - Aim of group is to summarize understanding of climate change and how to stop it
 - Summarizes peer reviewed papers into information usable by governments

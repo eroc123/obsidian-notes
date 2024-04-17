@@ -1,3 +1,9 @@
+---
+tags:
+  - "#geography"
+---
+IPCC AR6 WG2 (Feb 2022) - impacts of climate change
+;?;
 - Climate change affects everyone but not everyone equally
 - Is an issue **already impacting us** via more extreme weather and will get worse if climate change continues
 - Climate resilient development is how we can sustainably develop without worsening climate change
