@@ -22,6 +22,7 @@
 
 ##### Benefits to Poland
 - migrants learn skills in the UK and brings them home to improve the country
+- in 2006 remittances totalled 3.5 billion pounds
 
 **Present day:** More and more people are moving back to Poland from the UK due to various reasons.
 1. Poland has rapidly grown economically and the economic gap between UK and Poland has narrowed
