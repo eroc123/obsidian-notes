@@ -18,6 +18,7 @@
 - more flexible as easier to alter requirements
 - Customers involved at each iteration therefore no surprises when final system delivered
 ##### Drawbacks 
+;?;
 - Whole system needs to be defined at start so it can be broken down into places to be developed at each iteration
 - Needs good planning overall and for every stage
 - Not suitable for simple short projects.
