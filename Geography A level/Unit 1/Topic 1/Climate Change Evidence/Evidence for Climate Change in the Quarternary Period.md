@@ -17,6 +17,9 @@ We can utilize several methods to find historical temperature data and carbon di
 - **Ocean sediment Cores**
  ;?;
 	- Use of fossils from tiny marine animals in order to map out areas that historically had cold water, ocean currents/nutrient upwelling.
+		- e.g. foraminifera 
+		- heavy oxygen includes oxygen 18 isotopes
+		- light oxygen includes oxygen 16 isotopes
 		- Calcium carbonate shells contain both light and heavy oxygen - heavy oxygen shells more common in areas with cold water
 	- Areas with a thick layer of microfossils suggest areas of historical nutrient upwell
 		- Gives a clue to ocean current patterns and hence historical wind patterns
