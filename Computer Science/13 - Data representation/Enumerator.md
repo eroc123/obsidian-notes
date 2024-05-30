@@ -29,18 +29,22 @@ tags:
 
 pseudocode example:
 
-```
-TYPE <Datatype> = (<value1>,<value2>,<value3>…) 
+**To declare**
 
-DECLARE <identifier> : <datatype>
+TYPE \<Datatype> = (\<value1>,\<value2>,\<value3>…) 
+DECLARE \<identifier> : \<datatype>
 
+
+**Example declaration**
 e.g.
-TYPE Season = (Summer,Winter,Autumn,Spring) // Note: we are not writing
-                                               Summer intead of "Summer" b/c
-                                               it is a non-composite data type 
+TYPE Season = (Summer,Winter,Autumn,Spring) 
+
+Note: we are writing Summer intead of "Summer" b/c it is a non-composite data type 
+
 DECLARE ThisSeason : Season
 DECLARE NextSeason : Season
 
-ThisSeason <-- Autum 
-NextSeason <-- ThisSeason + 1 // NextSeason is set to Spring
-```
+ThisSeason <-- Autumn 
+NextSeason <-- ThisSeason + 1 // NextSeason is set to Spring - increment the enumerator by one an it takes on the next value of the set. 
+
+
