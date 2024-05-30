@@ -9,7 +9,9 @@ tags:
 	- hence each element in the set has no datatype - no quotes or anything
 - maps a **set** of names to a specific number
 - is **ordered** and **countable**, with finite values in the set
-	- hence when an enumerator is defined, incrementing the enumerator sets its value to the "next" element of the set, and values in the set can be compared to each other. e.g. if a set 
+	- hence when an enumerator is defined, incrementing the enumerator sets its value to the "next" element of the set, and values in the set can be compared to each other. 
+		- e.g. if a set of data values TYPE Season = (Winter, Spring, Summer, Autumn), **ThisSeason <- Winter**, **NextSeason <- Spring**
+		- ThisSeason < NextSeason will return **TRUE**
 - e.g. for a set called months
 
 | name      | enumerator |
