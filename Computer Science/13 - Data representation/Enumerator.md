@@ -6,9 +6,10 @@ tags:
 ---
 - user defined 
 - non - composite
+	- hence when assigning variables a 
 - maps a **set** of names to a specific number
 - is **ordered** and **countable**, with finite values in the set
-- 
+	- 
 - e.g. for a set called months
 
 | name      | enumerator |
