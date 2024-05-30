@@ -7,7 +7,7 @@ tags:
 Select and use appropriate [[Data types|data types]] for a problem solution 
 -  including integer, real, char, string, Boolean, date (pseudocode will use the following data types: INTEGER, REAL, CHAR, STRING, BOOLEAN, DATE, ARRAY, FILE) 
 Show understanding of the purpose of a record structure to hold a set of data of different data types under one identifier 
-- Write pseudocode to define a [[Records|record]] structure 
+- Write pseudocode to define a [[Computer Science/10 - Data types and structures/Records|record]] structure 
 - Write pseudocode to read data from a [[Records in Pseudocode|record]]
 
 ##### 10.2 Arrays
