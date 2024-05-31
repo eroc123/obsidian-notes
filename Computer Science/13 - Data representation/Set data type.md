@@ -2,6 +2,9 @@
 
 
 ##### Operations
-- Union
-- Difference
-- 
+    • Union 
+    • Difference 
+    • Intersection 
+    • Include an element in the set 
+    • Exclude an element from the set 
+    • Check whether an element is in a set
