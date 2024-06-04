@@ -25,6 +25,14 @@ Natural resources
 
  ^0YEyo75k
 
+Large industrial base and an advanced
+economy allows countries to exert more 
+cultural power via TNC's, influence 
+politics, become a major part of the 
+supply chain and build a powerful millitary. ^7XD8256Y
+
+Exerts  ^jYPmNV7S
+
 %%
 # Drawing
 ```json
@@ -37,9 +45,9 @@ Natural resources
 			"id": "VHPXOEX7AwIWXZVRRjpR1",
 			"type": "rectangle",
 			"x": -266.40472412109375,
-			"y": -292.4395751953125,
+			"y": -305.59381103515625,
 			"width": 437.34722900390625,
-			"height": 173.70700073242188,
+			"height": 186.86123657226562,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -54,19 +62,19 @@ Natural resources
 				"type": 3
 			},
 			"seed": 1680932256,
-			"version": 40,
-			"versionNonce": 80042080,
+			"version": 55,
+			"versionNonce": 1834259552,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717467790319,
+			"updated": 1717468458620,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "BzwrXis8",
 			"type": "text",
-			"x": -125.929443359375,
-			"y": -275.4109649658203,
+			"x": -126.69696044921875,
+			"y": -301.4820098876953,
 			"width": 144.75987243652344,
 			"height": 25,
 			"angle": 0,
@@ -81,11 +89,11 @@ Natural resources
 			"frameId": null,
 			"roundness": null,
 			"seed": 372648352,
-			"version": 64,
-			"versionNonce": 776140192,
+			"version": 101,
+			"versionNonce": 1675062368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717467821248,
+			"updated": 1717468460882,
 			"link": null,
 			"locked": false,
 			"text": "Economic power",
@@ -496,33 +504,78 @@ Natural resources
 			"baseline": 68
 		},
 		{
-			"type": "rectangle",
-			"version": 397,
-			"versionNonce": 448595360,
-			"isDeleted": true,
-			"id": "AWCIk8eZaSi2c5Ijng-L6",
+			"id": "7XD8256Y",
+			"type": "text",
+			"x": -248.726806640625,
+			"y": -265.92515563964844,
+			"width": 412.5396423339844,
+			"height": 125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1951093152,
+			"version": 411,
+			"versionNonce": 1141780576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717468485538,
+			"link": null,
+			"locked": false,
+			"text": "Large industrial base and an advanced\neconomy allows countries to exert more \ncultural power via TNC's, influence \npolitics, become a major part of the \nsupply chain and build a powerful millitary.",
+			"rawText": "Large industrial base and an advanced\neconomy allows countries to exert more \ncultural power via TNC's, influence \npolitics, become a major part of the \nsupply chain and build a powerful millitary.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 118,
+			"containerId": null,
+			"originalText": "Large industrial base and an advanced\neconomy allows countries to exert more \ncultural power via TNC's, influence \npolitics, become a major part of the \nsupply chain and build a powerful millitary.",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 471,
+			"versionNonce": 588421216,
+			"isDeleted": false,
+			"id": "jYPmNV7S",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -254.42721557617188,
-			"y": 538.2937774658203,
+			"x": -37.39921569824219,
+			"y": -66.558837890625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 367.53424072265625,
-			"height": 199.9417419433594,
-			"seed": 184923232,
+			"width": 76.41993713378906,
+			"height": 25,
+			"seed": 1541532064,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
+			"roundness": null,
 			"boundElements": [],
-			"updated": 1717468279063,
+			"updated": 1717468508479,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Exerts ",
+			"rawText": "Exerts ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Exerts ",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -540,8 +593,8 @@ Natural resources
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 518.25,
-		"scrollY": 129.84375,
+		"scrollX": 521.25,
+		"scrollY": 414.84375,
 		"zoom": {
 			"value": 1
 		},
