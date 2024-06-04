@@ -31,7 +31,16 @@ cultural power via TNC's, influence
 politics, become a major part of the 
 supply chain and build a powerful millitary. ^7XD8256Y
 
-Exerts  ^jYPmNV7S
+Exerts cultural influence via TNCs
+and other cultural values, boost
+country's image significantly and makes it 
+much easier to do business. e.g. Japan - 
+good  public image due to culture even
+after commiting horrible war crimes in WW2 ^jYPmNV7S
+
+Good political relations allows
+countries, e.g. Singapore and 
+Switzerland to get around man  ^tCDkUeUH
 
 %%
 # Drawing
@@ -270,8 +279,8 @@ Exerts  ^jYPmNV7S
 		},
 		{
 			"type": "rectangle",
-			"version": 320,
-			"versionNonce": 130893920,
+			"version": 340,
+			"versionNonce": 2028436576,
 			"isDeleted": false,
 			"id": "-l2XCfvDzvPcwr1HKxaJ1",
 			"fillStyle": "hachure",
@@ -284,7 +293,7 @@ Exerts  ^jYPmNV7S
 			"y": -105.94630432128906,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 366.80096435546875,
+			"width": 472.80242919921875,
 			"height": 202.19143676757812,
 			"seed": 1785412000,
 			"groupIds": [],
@@ -293,7 +302,7 @@ Exerts  ^jYPmNV7S
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717468099023,
+			"updated": 1717468610216,
 			"link": null,
 			"locked": false
 		},
@@ -542,8 +551,8 @@ Exerts  ^jYPmNV7S
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 588421216,
+			"version": 755,
+			"versionNonce": 1923987872,
 			"isDeleted": false,
 			"id": "jYPmNV7S",
 			"fillStyle": "hachure",
@@ -556,26 +565,100 @@ Exerts  ^jYPmNV7S
 			"y": -66.558837890625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 76.41993713378906,
-			"height": 25,
+			"width": 415.55126953125,
+			"height": 149.16064453125,
 			"seed": 1541532064,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717468508479,
+			"updated": 1717468635730,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 19.8880859375,
 			"fontFamily": 1,
-			"text": "Exerts ",
-			"rawText": "Exerts ",
+			"text": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
+			"rawText": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Exerts ",
+			"originalText": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 141
+		},
+		{
+			"id": "tCDkUeUH",
+			"type": "text",
+			"x": -414.14959716796875,
+			"y": -53.73130798339844,
+			"width": 315.3997802734375,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 277074336,
+			"version": 168,
+			"versionNonce": 565489056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717468688421,
+			"link": null,
+			"locked": false,
+			"text": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
+			"rawText": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "8iZTs3Ur",
+			"type": "text",
+			"x": -160.375,
+			"y": 4.3392333984375,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1363964000,
+			"version": 2,
+			"versionNonce": 1816105376,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1717468668967,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -593,8 +676,8 @@ Exerts  ^jYPmNV7S
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 521.25,
-		"scrollY": 414.84375,
+		"scrollX": 459.25,
+		"scrollY": 393.84375,
 		"zoom": {
 			"value": 1
 		},
