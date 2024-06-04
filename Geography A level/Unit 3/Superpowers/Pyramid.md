@@ -16,8 +16,7 @@ Political ^0RK9o9SS
 
 Demographics ^H0vkc9Ae
 
-Physical size and 
-geographical position ^mkTADViT
+Physical size and geographical position ^mkTADViT
 
 Millitary strength ^M9nKCL8F
 
@@ -32,15 +31,28 @@ politics, become a major part of the
 supply chain and build a powerful millitary. ^7XD8256Y
 
 Exerts cultural influence via TNCs
-and other cultural values, boost
-country's image significantly and makes it 
+and other cultural values, boost country's 
+image significantly and makes it 
 much easier to do business. e.g. Japan - 
 good  public image due to culture even
 after commiting horrible war crimes in WW2 ^jYPmNV7S
 
 Good political relations allows
-countries, e.g. Singapore and 
-Switzerland to get around man  ^tCDkUeUH
+countries, e.g. Singapore and Switzerland to boost 
+trade and alleviate many geographical
+problems they may have. Easier to do business 
+and trade. Contrast to e.g. Russia who has been
+sanctioned due to bad political relations. ^tCDkUeUH
+
+Large population allows for the 
+development of a larger industrial
+base. However, population must
+be well educated and invested for
+a country to properly exert power. ^vNEbfjnE
+
+Issues caused by a small physical size or
+bad geographical position can be alleviated
+via economic power, cultural influence or ^T5fMqrKU
 
 %%
 # Drawing
@@ -119,8 +131,8 @@ Switzerland to get around man  ^tCDkUeUH
 		{
 			"id": "kt3m35rZ",
 			"type": "text",
-			"x": 84.10516357421875,
-			"y": -95.85235595703125,
+			"x": 138.98089599609375,
+			"y": -96.26162719726562,
 			"width": 79.35992431640625,
 			"height": 25,
 			"angle": 0,
@@ -135,11 +147,11 @@ Switzerland to get around man  ^tCDkUeUH
 			"frameId": null,
 			"roundness": null,
 			"seed": 1594109344,
-			"version": 83,
-			"versionNonce": 309280160,
+			"version": 129,
+			"versionNonce": 497535392,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468100759,
+			"updated": 1717468767142,
 			"link": null,
 			"locked": false,
 			"text": "Cultural",
@@ -156,9 +168,9 @@ Switzerland to get around man  ^tCDkUeUH
 		{
 			"id": "c--BTt-zCgg3-zVq2094x",
 			"type": "rectangle",
-			"x": -437.615234375,
+			"x": -589.8927917480469,
 			"y": -108.4688720703125,
-			"width": 367.53424072265625,
+			"width": 519.8117980957031,
 			"height": 199.9417419433594,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -174,19 +186,19 @@ Switzerland to get around man  ^tCDkUeUH
 				"type": 3
 			},
 			"seed": 920192096,
-			"version": 223,
-			"versionNonce": 592296032,
+			"version": 252,
+			"versionNonce": 249551968,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468042442,
+			"updated": 1717468717242,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "0RK9o9SS",
 			"type": "text",
-			"x": -300.69873046875,
-			"y": -92.12466430664062,
+			"x": -391.95953369140625,
+			"y": -102.49859619140625,
 			"width": 78.25991821289062,
 			"height": 25,
 			"angle": 0,
@@ -201,11 +213,11 @@ Switzerland to get around man  ^tCDkUeUH
 			"frameId": null,
 			"roundness": null,
 			"seed": 1739655264,
-			"version": 107,
-			"versionNonce": 931324320,
+			"version": 165,
+			"versionNonce": 2075861408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468103189,
+			"updated": 1717468736790,
 			"link": null,
 			"locked": false,
 			"text": "Political",
@@ -250,8 +262,8 @@ Switzerland to get around man  ^tCDkUeUH
 		},
 		{
 			"type": "rectangle",
-			"version": 329,
-			"versionNonce": 1738959968,
+			"version": 400,
+			"versionNonce": 900736416,
 			"isDeleted": false,
 			"id": "Q5GqvRR5o1o2W_NEABRb_",
 			"fillStyle": "hachure",
@@ -260,11 +272,11 @@ Switzerland to get around man  ^tCDkUeUH
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -56.084259033203125,
-			"y": 109.33570861816408,
+			"x": -49.680816650390625,
+			"y": 108.43141174316408,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 367.53424072265625,
+			"width": 471.7301635742188,
 			"height": 199.9417419433594,
 			"seed": 1441538464,
 			"groupIds": [],
@@ -273,7 +285,7 @@ Switzerland to get around man  ^tCDkUeUH
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717468054704,
+			"updated": 1717468823380,
 			"link": null,
 			"locked": false
 		},
@@ -404,10 +416,10 @@ Switzerland to get around man  ^tCDkUeUH
 		{
 			"id": "mkTADViT",
 			"type": "text",
-			"x": 38.1898193359375,
-			"y": 128.46426391601562,
-			"width": 199.039794921875,
-			"height": 50,
+			"x": -22.409423828125,
+			"y": 123.39569091796875,
+			"width": 377.07965087890625,
+			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -420,22 +432,22 @@ Switzerland to get around man  ^tCDkUeUH
 			"frameId": null,
 			"roundness": null,
 			"seed": 680850528,
-			"version": 67,
-			"versionNonce": 32643488,
+			"version": 128,
+			"versionNonce": 904177760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468244156,
+			"updated": 1717468825033,
 			"link": null,
 			"locked": false,
-			"text": "Physical size and \ngeographical position",
-			"rawText": "Physical size and \ngeographical position",
+			"text": "Physical size and geographical position",
+			"rawText": "Physical size and geographical position",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 18,
 			"containerId": null,
-			"originalText": "Physical size and \ngeographical position",
+			"originalText": "Physical size and geographical position",
 			"lineHeight": 1.25
 		},
 		{
@@ -551,8 +563,8 @@ Switzerland to get around man  ^tCDkUeUH
 		},
 		{
 			"type": "text",
-			"version": 755,
-			"versionNonce": 1923987872,
+			"version": 758,
+			"versionNonce": 21061728,
 			"isDeleted": false,
 			"id": "jYPmNV7S",
 			"fillStyle": "hachure",
@@ -565,34 +577,34 @@ Switzerland to get around man  ^tCDkUeUH
 			"y": -66.558837890625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 415.55126953125,
+			"width": 428.91064453125,
 			"height": 149.16064453125,
 			"seed": 1541532064,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717468635730,
+			"updated": 1717468760401,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.8880859375,
 			"fontFamily": 1,
-			"text": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
-			"rawText": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
+			"text": "Exerts cultural influence via TNCs\nand other cultural values, boost country's \nimage significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
+			"rawText": "Exerts cultural influence via TNCs\nand other cultural values, boost country's \nimage significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Exerts cultural influence via TNCs\nand other cultural values, boost\ncountry's image significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
+			"originalText": "Exerts cultural influence via TNCs\nand other cultural values, boost country's \nimage significantly and makes it \nmuch easier to do business. e.g. Japan - \ngood  public image due to culture even\nafter commiting horrible war crimes in WW2",
 			"lineHeight": 1.25,
 			"baseline": 141
 		},
 		{
 			"id": "tCDkUeUH",
 			"type": "text",
-			"x": -414.14959716796875,
-			"y": -53.73130798339844,
-			"width": 315.3997802734375,
-			"height": 75,
+			"x": -577.1896362304688,
+			"y": -69.84773254394531,
+			"width": 481.8885192871094,
+			"height": 142.88766458842565,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -605,31 +617,31 @@ Switzerland to get around man  ^tCDkUeUH
 			"frameId": null,
 			"roundness": null,
 			"seed": 277074336,
-			"version": 168,
-			"versionNonce": 565489056,
+			"version": 519,
+			"versionNonce": 1273178208,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468688421,
+			"updated": 1717468752948,
 			"link": null,
 			"locked": false,
-			"text": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
-			"rawText": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
-			"fontSize": 20,
+			"text": "Good political relations allows\ncountries, e.g. Singapore and Switzerland to boost \ntrade and alleviate many geographical\nproblems they may have. Easier to do business \nand trade. Contrast to e.g. Russia who has been\nsanctioned due to bad political relations.",
+			"rawText": "Good political relations allows\ncountries, e.g. Singapore and Switzerland to boost \ntrade and alleviate many geographical\nproblems they may have. Easier to do business \nand trade. Contrast to e.g. Russia who has been\nsanctioned due to bad political relations.",
+			"fontSize": 19.051688611790087,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 68,
+			"baseline": 135,
 			"containerId": null,
-			"originalText": "Good political relations allows\ncountries, e.g. Singapore and \nSwitzerland to get around man ",
+			"originalText": "Good political relations allows\ncountries, e.g. Singapore and Switzerland to boost \ntrade and alleviate many geographical\nproblems they may have. Easier to do business \nand trade. Contrast to e.g. Russia who has been\nsanctioned due to bad political relations.",
 			"lineHeight": 1.25
 		},
 		{
-			"id": "8iZTs3Ur",
+			"id": "vNEbfjnE",
 			"type": "text",
-			"x": -160.375,
-			"y": 4.3392333984375,
-			"width": 10,
-			"height": 25,
+			"x": -414.0511474609375,
+			"y": 150.36642456054688,
+			"width": 341.5596923828125,
+			"height": 125,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -641,24 +653,61 @@ Switzerland to get around man  ^tCDkUeUH
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1363964000,
-			"version": 2,
-			"versionNonce": 1816105376,
-			"isDeleted": true,
+			"seed": 1464341600,
+			"version": 283,
+			"versionNonce": 292013152,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468668967,
+			"updated": 1717468813381,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "Large population allows for the \ndevelopment of a larger industrial\nbase. However, population must\nbe well educated and invested for\na country to properly exert power.",
+			"rawText": "Large population allows for the \ndevelopment of a larger industrial\nbase. However, population must\nbe well educated and invested for\na country to properly exert power.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 118,
 			"containerId": null,
-			"originalText": "",
+			"originalText": "Large population allows for the \ndevelopment of a larger industrial\nbase. However, population must\nbe well educated and invested for\na country to properly exert power.",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 525,
+			"versionNonce": 470376864,
+			"isDeleted": false,
+			"id": "T5fMqrKU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -24.35955810546875,
+			"y": 158.7359619140625,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 424.33966064453125,
+			"height": 75,
+			"seed": 210871712,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717468868438,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
+			"rawText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
+			"lineHeight": 1.25,
+			"baseline": 68
 		}
 	],
 	"appState": {
@@ -676,8 +725,8 @@ Switzerland to get around man  ^tCDkUeUH
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 459.25,
-		"scrollY": 393.84375,
+		"scrollX": 505.25,
+		"scrollY": 240.84375,
 		"zoom": {
 			"value": 1
 		},
