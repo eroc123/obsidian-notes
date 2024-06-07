@@ -1,1 +1,1 @@
-- Can create 
+- Program defines classes -> objects can then be defined based off a class. Class can contain methods (functions) and variables 
