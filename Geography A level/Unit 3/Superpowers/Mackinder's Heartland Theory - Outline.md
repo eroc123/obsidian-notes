@@ -12,6 +12,9 @@ tags:
 ##### Theory
 - whoever controls the most strategic part of europe controls the heartland -> controls world island -> controls world
 - the further away from the heartland the less power one has
-- 
+- center of power or heartland can shift over time - as different countries become more powerful the "center" of power shifts towards the more powerful nations.
 
+
+##### Prediction
+- 
 
