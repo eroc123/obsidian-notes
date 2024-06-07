@@ -16,5 +16,6 @@ tags:
 
 
 ##### Prediction
-- 
+- Russia would be world power since Russia owned that heartland
+- Russia has two disadvantages however, frozen ports for most of the year due to cold conditions
 
