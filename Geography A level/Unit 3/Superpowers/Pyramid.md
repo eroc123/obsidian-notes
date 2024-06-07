@@ -52,7 +52,23 @@ a country to properly exert power. ^vNEbfjnE
 
 Issues caused by a small physical size or
 bad geographical position can be alleviated
-via economic power, cultural influence or ^T5fMqrKU
+via economic power, cultural influence or 
+politics. E.g. Singapore and Japan - both
+no resources and small physical size yet very
+powerful. ^T5fMqrKU
+
+Important in the past, however with
+better international diplomacy and
+trade taking priority, millitary
+strenght is no longer as important,
+at least for regional power ^ixYykIPo
+
+Natural resources can always be 
+imported. Natural resources may also
+be mismanaged, leading to many
+resource rich countries being 
+extremely poor. Usually lower value
+than manufactured goods. ^hPWFwswk
 
 %%
 # Drawing
@@ -320,8 +336,8 @@ via economic power, cultural influence or ^T5fMqrKU
 		},
 		{
 			"type": "rectangle",
-			"version": 346,
-			"versionNonce": 869917088,
+			"version": 361,
+			"versionNonce": 293830752,
 			"isDeleted": false,
 			"id": "HEczPtuLF4pedZyeG3Dox",
 			"fillStyle": "hachure",
@@ -330,11 +346,11 @@ via economic power, cultural influence or ^T5fMqrKU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -430.47344970703125,
+			"x": -475.4040832519531,
 			"y": 318.34864044189453,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 367.53424072265625,
+			"width": 412.4648742675781,
 			"height": 199.9417419433594,
 			"seed": 457922976,
 			"groupIds": [],
@@ -343,14 +359,14 @@ via economic power, cultural influence or ^T5fMqrKU
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717468076108,
+			"updated": 1717468937823,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 408,
-			"versionNonce": 225226144,
+			"version": 428,
+			"versionNonce": 1347240032,
 			"isDeleted": false,
 			"id": "hRl0aX0_Ny4Bn8uNGLb8u",
 			"fillStyle": "hachure",
@@ -363,7 +379,7 @@ via economic power, cultural influence or ^T5fMqrKU
 			"y": 323.2465286254883,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 367.53424072265625,
+			"width": 421.12359619140625,
 			"height": 199.9417419433594,
 			"seed": 2012161440,
 			"groupIds": [],
@@ -372,7 +388,7 @@ via economic power, cultural influence or ^T5fMqrKU
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1717468076108,
+			"updated": 1717468949185,
 			"link": null,
 			"locked": false
 		},
@@ -453,8 +469,8 @@ via economic power, cultural influence or ^T5fMqrKU
 		{
 			"id": "M9nKCL8F",
 			"type": "text",
-			"x": -343.05181884765625,
-			"y": 343.19354248046875,
+			"x": -351.55609130859375,
+			"y": 328.93695068359375,
 			"width": 169.4598388671875,
 			"height": 25,
 			"angle": 0,
@@ -469,11 +485,11 @@ via economic power, cultural influence or ^T5fMqrKU
 			"frameId": null,
 			"roundness": null,
 			"seed": 573583776,
-			"version": 19,
-			"versionNonce": 829808736,
+			"version": 67,
+			"versionNonce": 2113090656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1717468253021,
+			"updated": 1717468953654,
 			"link": null,
 			"locked": false,
 			"text": "Millitary strength",
@@ -489,8 +505,8 @@ via economic power, cultural influence or ^T5fMqrKU
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 714819680,
+			"version": 190,
+			"versionNonce": 666017184,
 			"isDeleted": false,
 			"id": "0YEyo75k",
 			"fillStyle": "hachure",
@@ -499,8 +515,8 @@ via economic power, cultural influence or ^T5fMqrKU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 31.877029418945312,
-			"y": 341.94415283203125,
+			"x": 65.57209777832031,
+			"y": 334.48541259765625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 179.35983276367188,
@@ -510,7 +526,7 @@ via economic power, cultural influence or ^T5fMqrKU
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717468277653,
+			"updated": 1717468951554,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -674,8 +690,8 @@ via economic power, cultural influence or ^T5fMqrKU
 		},
 		{
 			"type": "text",
-			"version": 525,
-			"versionNonce": 470376864,
+			"version": 669,
+			"versionNonce": 190069856,
 			"isDeleted": false,
 			"id": "T5fMqrKU",
 			"fillStyle": "hachure",
@@ -684,30 +700,104 @@ via economic power, cultural influence or ^T5fMqrKU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -24.35955810546875,
-			"y": 158.7359619140625,
+			"x": -33.75201416015625,
+			"y": 154.58935546875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 424.33966064453125,
-			"height": 75,
+			"width": 446.7596435546875,
+			"height": 150,
 			"seed": 210871712,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717468868438,
+			"updated": 1717468890036,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
-			"rawText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
+			"text": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or \npolitics. E.g. Singapore and Japan - both\nno resources and small physical size yet very\npowerful.",
+			"rawText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or \npolitics. E.g. Singapore and Japan - both\nno resources and small physical size yet very\npowerful.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or",
+			"originalText": "Issues caused by a small physical size or\nbad geographical position can be alleviated\nvia economic power, cultural influence or \npolitics. E.g. Singapore and Japan - both\nno resources and small physical size yet very\npowerful.",
 			"lineHeight": 1.25,
-			"baseline": 68
+			"baseline": 143
+		},
+		{
+			"type": "text",
+			"version": 963,
+			"versionNonce": 560505248,
+			"isDeleted": false,
+			"id": "ixYykIPo",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -444.82489013671875,
+			"y": 363.7401123046875,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 356.5397033691406,
+			"height": 125,
+			"seed": 848974240,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717468940019,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Important in the past, however with\nbetter international diplomacy and\ntrade taking priority, millitary\nstrenght is no longer as important,\nat least for regional power",
+			"rawText": "Important in the past, however with\nbetter international diplomacy and\ntrade taking priority, millitary\nstrenght is no longer as important,\nat least for regional power",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Important in the past, however with\nbetter international diplomacy and\ntrade taking priority, millitary\nstrenght is no longer as important,\nat least for regional power",
+			"lineHeight": 1.25,
+			"baseline": 118
+		},
+		{
+			"type": "text",
+			"version": 1261,
+			"versionNonce": 1609286752,
+			"isDeleted": false,
+			"id": "hPWFwswk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -25.594802856445312,
+			"y": 363.417236328125,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 370.95965576171875,
+			"height": 150,
+			"seed": 1451692128,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717469007566,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Natural resources can always be \nimported. Natural resources may also\nbe mismanaged, leading to many\nresource rich countries being \nextremely poor. Usually lower value\nthan manufactured goods.",
+			"rawText": "Natural resources can always be \nimported. Natural resources may also\nbe mismanaged, leading to many\nresource rich countries being \nextremely poor. Usually lower value\nthan manufactured goods.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Natural resources can always be \nimported. Natural resources may also\nbe mismanaged, leading to many\nresource rich countries being \nextremely poor. Usually lower value\nthan manufactured goods.",
+			"lineHeight": 1.25,
+			"baseline": 143
 		}
 	],
 	"appState": {
