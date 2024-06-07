@@ -1,0 +1,1 @@
+- Like a [[Serial access files]] but is ordered with values.
