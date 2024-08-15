@@ -3,4 +3,4 @@
 - Record is found by reading key field value until required value is found 
 - When adding records, they must be inserted in the right place according to their key.
 - **binary search can be used - cut search time in half**
-- sequential access still requires reading every record.
+- sequential access still requires reading every record.   
