@@ -1,1 +1,5 @@
 - Program defines classes -> objects can then be defined based off a class. Class can contain methods (functions) and variables 
+- e.g.
+- Class Class1:
+	- 
+- ONLY exists in object-oriented programming languages 
