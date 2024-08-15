@@ -1,2 +1,6 @@
-- **NNot** built from other data types, single data type
-- 
+- **Non Composite** are not built from other data types, single data type
+	- e.g. integer
+	- 
+- **Composite** datatypes are built from other datatypes 
+	- e.g. set 
+	- 
