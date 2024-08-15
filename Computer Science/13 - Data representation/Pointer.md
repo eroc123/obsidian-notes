@@ -17,13 +17,14 @@ TYPE \<PointerName> = ^\<Typename>
 
 DECLARE \<FirstPointer> : \<PointerName>
 
-\<assignment value> ← \<FirstPointer>^ // This accesses the data stored at the address which IntegerPointer points to. This is known as dereferencing.
+\<assignment value> ← \<FirstPointer>^ // This accesses the data stored at the address which FirstPointer points to. This is known as dereferencing.
 
 SecondPointer <-- @\<identifier> //This stores the memory address of the \<identifier> in SecondPointer 
 
 
 SecondPointer^ <-- MyVariable //This stores the value in MyVariable to the memory location currently pointed by SecondPointer.
 
+basically ^ put at the end like \<address\>^ is basically saying "hey this is referencing the contents of memory at \<address\>, not whatever is stored in the variable \<address\>"
 
 ##### Common syntax
 
