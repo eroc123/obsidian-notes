@@ -49,4 +49,6 @@ DECLARE NextSeason : Season
 ThisSeason <-- Autumn 
 NextSeason <-- ThisSeason + 1 // NextSeason is set to Spring - increment the enumerator by one an it takes on the next value of the set. 
 
+basically just imagine a dictionary, Summer is tied to value 1, Spring is tied to value 2, etc.
+
 

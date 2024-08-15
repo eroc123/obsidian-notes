@@ -10,6 +10,6 @@
 self.a and self.b are variables that are unique to a single instance of Class1. They can both have different datatypes. 
 
 classEx = Class1() - creates an instance of Class1
-classEx.addition() - runs the method addition as defined in the 
+classEx.addition() - runs the method "addition" as defined in Class1 in the specific instance (in this case the instance is named classEx)
 
 - ONLY exists in object-oriented programming languages 
