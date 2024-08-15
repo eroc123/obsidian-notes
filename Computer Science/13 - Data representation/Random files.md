@@ -1,1 +1,1 @@
-- Files stored randomly on a storage medium (e.g. hard disks) but are accessed directly. Use hashing algorithms to access.
+- Files stored randomly on a storage medium (e.g. hard disks) but are accessed directly. Use [[hashing algorithms]] to access.

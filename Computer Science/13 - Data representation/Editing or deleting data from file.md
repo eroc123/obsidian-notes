@@ -4,4 +4,4 @@
 ##### If delete
 - Continue copying each record from old file with the exception of the record to delete
 ##### If edit
-- Copy over each record that was not altered from the old file, whil
+- Copy over each record that was not altered from the old file, whilst the record to be modified gets replaced by the new version of the record.
