@@ -32,6 +32,7 @@ IPointer: 4402 // This is the address that IPointer is pointing to.
 
 IPointer^: 33 //This is the value stored at the address (4402) the IPointer is pointing to.
 
+MyInt2 = 33
 @MyInt1: 3427 //This is the address of MyInt1
 
 IPointer^ = MyInt2 : TRUE //This compares the value of MyInt2 to the value stored at the address (4402)
