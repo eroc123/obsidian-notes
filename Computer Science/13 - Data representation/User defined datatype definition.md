@@ -3,7 +3,7 @@ tags:
   - user-defined
   - keyterms
 ---
-- Datatype defined by a programmer (not built in)
+- Datatype defined by a programmer (not built in). Usually used for non object-oriented languages. (e.g. C and Assembly)
 
 
 ##### Advantages
