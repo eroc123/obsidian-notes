@@ -1,6 +1,8 @@
 - **Non Composite** are not built from other data types, single data type
-	- e.g. integer
-	- 
+	- (bold is user-defined)
+	- e.g. integer, boolean
+	- **enumerated/pointer**
 - **Composite** datatypes are built from other datatypes 
 	- e.g. set 
-	- 
+	- **records, classes/objects**
+- 
