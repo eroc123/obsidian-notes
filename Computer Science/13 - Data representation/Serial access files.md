@@ -3,6 +3,7 @@
 - Must search through each record to find a given record [[Computer Science/10 - Data types and structures/Linear Search|Sequential Access]] - similar to linear search
 - no defined end of record character 
 - think of it as "free files" with no set format
+- **Chronological order**
 
 
 ##### Advantages

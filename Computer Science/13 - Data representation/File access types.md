@@ -1,6 +1,8 @@
 ##### Sequential access
 - Read each value in key field until required key of key field is found (record found) OR key value of field being searched for is greater than search key (record not found)
 - Used in [[Serial access files]] and [[Sequential access files]]
+- Magnetic tape, VHS
+- Used where speed not important
 
 ##### Direct Access
 - An index of all key fields is kept
@@ -8,6 +10,8 @@
 - Useful for searching individual records
 - Much faster than sequential
 - Used in [[Sequential access files]] and [[Random files]]
+- Uses in CDs, DVDs, HDDs and flash storage
+- Used in real-time applications where data access speed is crucial
 
 
 ##### Direct vs sequential
