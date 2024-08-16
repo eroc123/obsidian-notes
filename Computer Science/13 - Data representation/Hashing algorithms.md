@@ -2,7 +2,7 @@
 - Takes an input of variable size to produce an output of fixed size
 - High quality hash algorithm should:
 	- Reduce number of collisions (same hash value produced from different values)
-	- Have uniform spread over problem space
+	- Have uniform spread over problem space - basically all hashes are equally different from each other.
 
 ##### Uses
 - Allows for efficient location and retrieval of data (e.g. file records)
