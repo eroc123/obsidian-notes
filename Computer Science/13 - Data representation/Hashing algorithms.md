@@ -1,3 +1,4 @@
+- Allows for efficient location and retrieval of data (e.g. file records)
 - Used to read and write data from/to [[Random files|random]]/[[Sequential access files]]
 - Used in [[File access types|direct access]], e.g. for random files/sequential access files
 - Works with random files and sequential access files which have a key field. 
