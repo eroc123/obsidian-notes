@@ -1,2 +1,2 @@
 - Used to read and write data from/to [[Random files|random]]/[[Sequential access files]]
-- 
+- Used in [[File access types|direct access]], e.g. for 
