@@ -2,7 +2,8 @@
 - Real number (number with decimal) represented with  mantissa and exponent in base 2.
 	- Similar to standard notation in science, e.g. 3 \* 10^8 except uses base two so its more like M x 2^e where e is the given exponent
 	- Also similar to standard notation in science, floating point numbers should be **normalized** to allow for **maximum precision and simplified arithmetic**. Also **saves space as it reduces overrepresentation of leading ones or zeros**
-	- basically to normalize you should **move the decimal place to **
+	- basically to normalize you should **move the decimal place** to the standard position, where its one place right from the leftmost digit of the mantissa.
+	- positive number starts with 0 in mantissa and negative starts with 1 in mantissa
 - e.g. if you have an 8 bit register, instead of having 4 bits allocated for whole number and 4 bits for fraction, you could have 4 bits allocated for mantissa and 4 bits allocated for exponent instead.
 - Standard position of decimal point is always 1 right from the start. eg. 0.110 0110
 - mantissa is the **"actual" number**, exponent determines how much the **decimal place** should be shifted
