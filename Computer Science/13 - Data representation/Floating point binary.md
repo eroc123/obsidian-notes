@@ -1,0 +1,3 @@
+- Also used to represent decimals and can be in [[obsidian-notes/Computer Science/1 - Information representation/One's and Two's complement|One's and Two's complement]]
+- Real number (number with decimal) represented with  mantissa and exponent in base 2.
+	- Similar to standard notation in science, e.g. 3 \* 10^8 except us
