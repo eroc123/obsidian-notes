@@ -1,2 +1,4 @@
 - Used to read and write data from/to [[Random files|random]]/[[Sequential access files]]
-- Used in [[File access types|direct access]], e.g. for 
+- Used in [[File access types|direct access]], e.g. for random files/sequential access files
+- Works with random files and sequential access files which have a key field. 
+	- The input key value is divided by a large number
