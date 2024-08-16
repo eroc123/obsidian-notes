@@ -1,0 +1,5 @@
+- Used to represent decimals
+- Decimal point is **fixed**, number of bits used to represent whole and fraction never changes.
+- e.g. if 8 bits in register allocated for decimals, 4 might be for whole part and 4 might be for fraction. Allocation never changes.
+- [[obsidian-notes/Computer Science/1 - Information representation/One's and Two's complement|2's complement]] works the same way as usual, first bit stores a negative value
+- 
