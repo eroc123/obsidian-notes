@@ -1,1 +1,3 @@
-- Files stored randomly on a storage medium (e.g. hard disks) but are accessed directly. Use [[hashing algorithms]] to access.
+- Records stored randomly within a file but are accessed directly. Use [[hashing algorithms]] to access.
+	- There is a relationship between the key of each record and its physical storage location in a file. This allows hashing algorithms to be used to access files.
+- Updates to the files can be carried out directly.
