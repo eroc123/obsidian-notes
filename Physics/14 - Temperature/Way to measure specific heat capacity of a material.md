@@ -8,4 +8,4 @@
 	- due to factors like heat loss to environment
 	- maybe due to inefficiency of heater - not all energy is converted to heat.
 	- reduce energy loss by insulating material.
-	- 
+

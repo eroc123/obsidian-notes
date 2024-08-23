@@ -1,0 +1,3 @@
+- Measure energy input into the material (Q) - calculate power input by multiplying [[power|current and voltage]] and multiplying the power by time it is turned on
+- Measure change in mass of material - gain in mass when calculating latent heat or loss in mass when calculating latent heat of vaporisation.
+	- Basically, when measuring latent heat of fusion, you catch all the melted liquid and measure the mass of the melted liquid. Just 
