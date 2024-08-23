@@ -1,0 +1,4 @@
+- Thermal energy is always transferred **from an area of higher temperature to an area of lower temperature.** 
+- Energy will be transferred between objects in thermal contact of different temperatures until they reach the **same temperature**. This is called **thermal equilibrium**
+	- e.g. a cup of hot coffee will keep cooling until it reaches the same temperature as the ambient air temperature.
+- **Zeroth law of thermal dynamics:** If object A is in thermal equilibrium with object B and object B is in thermal equilibrium with object C, then object A and object C must also be in thermal equilibrium. [[Normalization process|Transitive dependency]] hahaha

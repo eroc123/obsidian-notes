@@ -1,0 +1,2 @@
+- **Definition** Object with a small mass in an orbit around an object with a large mass.
+- Objects can either be natural satellites (e.g. moons and planets) or man-made (satellies, space craft and space stations)

@@ -1,0 +1,6 @@
+- Defined as **the amount of energy required to increase the temperature of 1 kg of substance by 1 degree C or K without changing its state.**
+- Formula: $Q = mc\Delta \theta$
+	- where Q is energy needed, m is mass, c is specific heat capacity and $\theta$ as the temperature.
+	- Q in Joules
+	- m in kg
+	- $\theta$ in degrees C or K

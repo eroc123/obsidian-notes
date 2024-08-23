@@ -1,0 +1,9 @@
+- Since there are many physical properties that change with temperature, there are multiple ways to measure it. E.g.
+	- Change in resistance of a metallic conductor or semiconductor - [[Thermistor (thermal physics)]]
+	- Voltage produced across a [[thermocouple]]
+	- Change in volume of a liquid
+	- Change in volume of a gas at **constant pressure** - see [[Gas laws]]
+	- Change in pressure of a gas at **constant volume** - see [[Gas laws]]
+- Two practical ways to measure temperature:
+	- [[Thermistor (thermal physics)]]
+	- [[Thermocouple]]

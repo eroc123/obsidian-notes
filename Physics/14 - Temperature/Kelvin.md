@@ -1,0 +1,7 @@
+- **Thermodynamic scale**
+- Does not rely on the properties of any substance - is an **absolute scale** 
+	- This is in contrast to celsius, which relies on the boiling and freezing point of water to callibrate (100 and 0 degrees C respectively)
+- Lowest possible temperature is 0K - **absolute zero**, where particles have **no [[kinetic energy]]** and the **[[Gas laws|volume and pressure of a gas is 0.]]**
+- All equations in thermal physics use Kelvin - conversion from C by adding 273.15
+	- Convert back to C you just subtract 273.15
+- 

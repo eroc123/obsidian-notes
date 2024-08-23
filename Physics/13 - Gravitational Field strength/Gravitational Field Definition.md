@@ -1,0 +1,4 @@
+- Gravitational field is an example of a field of force 
+- **Definition of gravitational field:** Field of force per unit unit mass. $g=F/m$
+- Gravitational field strength in a radial field is $g = GM/r^2$ 
+	- gravitational field strength is inversely proportional to the square of number of radiaii away from a planet's surface.

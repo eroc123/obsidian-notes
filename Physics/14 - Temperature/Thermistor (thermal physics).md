@@ -1,0 +1,2 @@
+- Is a semiconductor and its resistance decreases as temperature increases.
+- you can calculate the resistance of the thermistor (using a [[Potential Divider]]) and use a **callibration curve** to calculate temperature

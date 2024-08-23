@@ -1,0 +1,8 @@
+- Structure:
+- ![[Thermocouple diagram]]
+- Measurement junction has a changing temperature (based on what is being measured)
+- Reference junction is kept at a constant temperature ("reference")
+- If there is a temperature difference, an [[Electromotive Force|emf]] is created which is measured by the voltmeter.
+	- This works because a thermistor uses two dissimilar metals with different electrical properties, meaning that when the measurement junction is heated, an e.m.f is produced between the two dissimilar wires.
+	- 
+- Use a **callibration** curve (potential difference vs temperature) to calculate the temperature 

@@ -1,0 +1,32 @@
+
+
+##### Derivation of formula for gases
+- Consider a cube with length l
+- One particle has mass m
+- Travels towards rightmost side of container with velocity u
+- Assumes it collides with wall elastically 
+- ![[Formula derivation for kinetic theory]]
+- Momentum change is $2mu$, since original momentum was mu and new momentum is -mu
+- Time for particle to travel the entire length, bounce of the rightmost wall and travel all the way back is $T= 2l/u$. Just use $v=d/t$ and equate $v$ with $u$ and $d$ with $2l$. $u=2l/T$. Then rearrange to get $T = 2l/u$
+- Since we have **time** and **momentum change**, we can calculate **impulse** 
+	- $F= mv/T$  
+	- Substitute values $F = 2 mu/(2l/u)$
+	- $F = mu^2/l$
+- Since we have the **force (impulse)** and the **area** of one of the walls of the cube (which is $l^2$), we can calculate **pressure**.
+	- $p = F/A$ 
+	- $p = (mu^2/l) / (l^2)$ 
+	- $p = mu^2/l^3$
+	- $l^3 = V$
+	- $p = mu^2/V$
+- Since every particle shares the same mass m, that means that technically, the total pressure would be the sum of the force exerted by all particle collisions against the wall ($mu^2$/l) 
+	- $p = m [u^2_1 + u^2_2... + u^2_n]/V$
+- Instead, we use **mean square speed.** Because its easier to use mean square speed (square of the speed of each particle) instead of finding speed of each particle. N is the number of particles. Multiply the mean square speed and you get the **sum of all particle speeds squared.**
+	- $N\bar{u}^2$ 
+	- Rewrite as $p = Nm\bar{u}^2/V$ 
+- However, current formula only considers particles travelling in one direction. We must consider all directions possible to get an accurate pressure estimate
+	- $\bar{c}^2 = \bar{u}^2 + \bar{v}^2 + \bar{w}^2$
+	- u, v and w are the x, y and z components of each particle's motion. We take the mean of each particles x, y and z components of their velocity and use pythagoras to calculate the mean velocity $c$ of each particle. 
+	- we can assume u=v=w so then $3\bar{u}^2 = \bar{c}^2$
+	- Substitute $\bar{c}^2$ into the formula and you get $pV = Nm\bar{c}^2/3$
+	- 
+	- 

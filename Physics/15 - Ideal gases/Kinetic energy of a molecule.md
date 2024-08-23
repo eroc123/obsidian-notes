@@ -1,0 +1,14 @@
+- Boltzmann Constant (k) relates the [[Gas laws|molar gas constant]] (R) and Avogadro's constant ($N_A$)with this equation:
+	- $k =R/N_A$ 
+- Equate the equations calculated before from [[Ideal gases]] and [[Kinetic Theory continued - formula]] 
+	- $pV = Nm<c>^2/3$ 
+	- $pV = nRT$  
+	- $Nm <c>^2 / 3 = nRT$ 
+	- $n = N/N_A$  (n is number of moles and N is number of particles)
+	- $Nm <c>^2 / 3 = (N/N_A) RT$ 
+	- $m <c>^2 / 3 = (R/N_A) T$
+	- $m <c>^2 / 3 = kT$
+	- $1/2 m <c>^2 = 3/2 kT$  - Final formula
+- You can see that $1/2m <c>^2$ is the formula for [[kinetic energy]] where $<c>^2$ is equal to $v^2$ 
+- Average translational kinetic energy of **a molecule** in a gas and its temperature are directly proportional. 
+	- **This formula applies for calculating the kinetic energy of just one particle, if you want to find the total (estimated) KE of a mass of particles, multiply by avogadro's constant and the number of moles**
