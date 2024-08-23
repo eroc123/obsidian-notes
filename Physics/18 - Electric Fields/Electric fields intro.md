@@ -11,3 +11,4 @@ Electric field strength is a **vector** quantity, because it is always directed 
 ###### Basic reminder?
 - Opposite charges attract
 - Like charges repel.
+- [[Point charge]]
