@@ -7,6 +7,12 @@
 
 ##### Uniform electric field
 - uniform electric fields have the same electric field strength throughout the field. E.g. field between oppositely charged parallel plates
-- can be represented by equally spaced field lines
+- can be represented by **equally spaced field lines**
 	- similar to uniform gravitational field lines on a planet's surface.
 	- ![[Uniform Field]]
+
+##### Non-uniform electric field
+- Field lines are not equally spaced. 
+	- **Stronger field** represented by field lines closer together
+	- **Weaker field** represented by field lines further apart.
+	- ![[Non-uniform field lines]]
