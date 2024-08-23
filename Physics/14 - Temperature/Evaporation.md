@@ -1,1 +1,4 @@
-- The kinetic energies of particles in a liquid are random - mentioned [[]]
+- The kinetic energies of particles in a liquid are random (kinetic and potential energy are always randomly distributed inside a body)
+- During evaporation, some particles in a liquid gain enough energy to leave the liquid, **leaving behind particles with lower kinetic energies** 
+	- Hence the **kinetic energy of particles decreases** and since [[Kinetic energy of a molecule|temperature is proportional to kinetic energy,]] the temperature of the liquid will decrease.
+		- this is how sweating works for example, since water particles evaporate, the sweat droplets on your skin cool down and hence they remove heat from your skin.
