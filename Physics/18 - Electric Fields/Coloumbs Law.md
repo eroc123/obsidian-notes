@@ -1,0 +1,4 @@
+- All charged particles produce an electric field around it
+	- Field exerts a force on any other charged particle within range
+- Electrostatic force between two charges is defined by Coulombs Law
+	- 

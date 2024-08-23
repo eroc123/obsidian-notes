@@ -5,5 +5,6 @@
 	- positive will be deflected to negative side with force acting towards negative side 
 - **only applies to charged particles, uncharged particles like neutrons will pass right through with no direction change**
 - amount of deflection depends on:
-	- **mass** - greater mass = smaller deflection due to larger inertia 
-	- **Charge** 
+	- **mass** - greater mass = smaller deflection due to larger inertia (F=ma, larger mass must mean smaller acceleration)
+	- **Charge** - greater magnitude of charge = greater deflection 
+	- **Speed** - greater speed = smaller deflection (less time for force to act)
