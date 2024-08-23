@@ -12,5 +12,7 @@ Circuit symbol for parallel plate is two parallel lines: ![[Capacitor]]
 - Capacitors in parallel have different charge but same potential difference
 - $V_T = V_1 = V_2$ 
 - $Q_T = Q_1 + Q_2$ 
-- $Q_1 = C_1V$ 
-- $C_1V
+- $Q_T = C_TV$ 
+- $C_TV = C_1V + C_2V$
+- $C_T = C_1 + C_2$  
+- 

@@ -1,0 +1,2 @@
+- When charging a capacitor, power supply pushes electrons from positive to negative plate. 
+- Does **work on electrons**, increasing their **electric potential energy**
