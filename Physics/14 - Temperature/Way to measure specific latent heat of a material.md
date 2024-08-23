@@ -1,3 +1,4 @@
 - Measure energy input into the material (Q) - calculate power input by multiplying [[power|current and voltage]] and multiplying the power by time it is turned on
 - Measure change in mass of material - gain in mass when calculating latent heat or loss in mass when calculating latent heat of vaporisation.
-	- Basically, when measuring latent heat of fusion, you catch all the melted liquid and measure the mass of the melted liquid. Just 
+	- Basically, when measuring latent heat of fusion, you catch all the melted liquid and measure the mass of the melted liquid. Just catch **the mass of the material that has changed state.** e.g. if you are measuring for ice, catch the water and measure its mass. Then use the water's mass value in the formula $l = Q/m$ to calculate latent heat capacity
+	- You do the same for latent heat of vaporization, except you measure the mass of the liquid that is left (since its difficult to measure mass of a gas.) You then subtract the initial mass by the leftover mass to get the mass of the **gas that changed state.** Then use the formula.

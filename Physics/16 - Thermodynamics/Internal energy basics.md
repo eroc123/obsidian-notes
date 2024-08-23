@@ -1,0 +1,2 @@
+- understand that internal energy is determined by the **state of the system** and that it can be expressed as the sum of a random distribution of kinetic and potential energies associated with the molecules of a system
+- 
