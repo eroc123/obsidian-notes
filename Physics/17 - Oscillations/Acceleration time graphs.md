@@ -1,2 +1,3 @@
 - Second derivation of [[obsidian-notes/Excalidraw/Displacement time graph|Displacement time graph]] 
 - Gradient function of velocity.
+- The shape of the graph shows that **acceleration is directly proportional and in the opposite direction to displacement.** Completely out of phase with each other.
