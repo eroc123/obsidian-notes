@@ -22,4 +22,4 @@ $C = Q/V$
 ##### Capacitance Formula (spherical conductor)
 - Capacitance of a charged sphere - defined by the charge per unit potential at the surface of the sphere.
 - Potential V is defined by the potential of an isolated point charge $V=Q/4\pi\epsilon_0 r$ 
-- substitute into capacitance 
+- substitute into capacitance and you get $C=4\pi \epsilon_0 r$ 
