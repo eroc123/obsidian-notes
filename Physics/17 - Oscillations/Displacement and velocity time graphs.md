@@ -5,4 +5,5 @@
 	- ![[Displacement time graph drawing]]
 ##### Velocity time graph
 - Velocity is first derivative of displacement.
-- $v=v_0 cos(\omega t)$  $v_0$ is equal to $\omega A/\omeg
+- $v=v_0 cos(\omega t)$  $v_0$ is equal to $\omega A/\omega x_0$  
+- ![[Velocity Time Graph Drawing]]
