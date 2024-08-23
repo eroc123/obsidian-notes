@@ -1,0 +1,2 @@
+- Second derivation of [[obsidian-notes/Excalidraw/Displacement time graph|Displacement time graph]] 
+- Gradient function of velocity.
