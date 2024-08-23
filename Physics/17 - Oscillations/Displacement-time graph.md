@@ -1,0 +1,3 @@
+- Graph shape can be described by this equation:
+	- $x=x_0 sin(\omega t$
+	- 

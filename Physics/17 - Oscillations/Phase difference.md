@@ -1,3 +1,4 @@
 - Compare the stages that two oscillating objects are in. Expressed as an angle or as a fraction of a period.
 - **In phase:** Oscillating at the exact same time (must have same frequency)
-- **Antiphase** Oscillating at the exact op
+- **Antiphase** Oscillations are exactly opposite of each other. Phase difference will be an odd multiple of 180. $\pi radians$ 
+- 90 degrees out of phase - one object is oscillating a quarter of a cycle behind the other.
