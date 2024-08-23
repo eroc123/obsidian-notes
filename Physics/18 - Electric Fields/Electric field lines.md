@@ -16,3 +16,6 @@
 	- **Stronger field** represented by field lines closer together
 	- **Weaker field** represented by field lines further apart.
 	- ![[Non-uniform field lines]]
+	- Radial fields are considered **non uniform** 
+		- the closer you are to the point charge, the closer each of the radial lines are to each other, meaning that the strength E is higher. 
+		- similarly, the further you are from the point charge, the further each of the radial lines are from each other, meaning that the strength of the electric field E is smaller.
