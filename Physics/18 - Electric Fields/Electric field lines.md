@@ -1,0 +1,5 @@
+- Electric field lines are directed from positive to negative 
+	- Therefore, field lines must always point away from a **positive charge** and point towards a **negative charge**
+- Radial field spreads uniformly to or from the charge in all directions
+	- usually field around point charge or sphere. 
+	- 

@@ -5,4 +5,9 @@
 	- F is force
 	- E is electric field strength (comparable to [[Gravitational Field Definition|g]]for gravitational fields) in $N C^{-1}$
 - **Definition 2:** The electrostatic force per unit positive charge acting on a stationary point charge at that point
-- Use positi
+
+Electric field strength is a **vector** quantity, because it is always directed away from a positive charge and towards a negative charge. 
+
+###### Basic reminder?
+- Opposite charges attract
+- Like charges repel.
