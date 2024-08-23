@@ -1,3 +1,5 @@
 - Graph shape can be described by this equation:
-	- $x=x_0 sin(\omega t$
-	- 
+	- $x=x_0 sin(\omega t)$
+	- where x is displacement, $x_0$ is amplitude and $\omega$ is the angular frequency. 
+	- Is a **solution** to the equation defining [[Simple Harmonic Oscillations|harmonic oscillator]] $a=-\omega^2 x$ 
+	- [[Displacement time graph drawing]]
