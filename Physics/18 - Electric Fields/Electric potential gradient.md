@@ -1,2 +1,14 @@
 - Defined as the variation of electric potential at different points in an electrical field
-	- **Electric field at a particular point is equal to the negative gradient of a potential-distance graph at that point.**
+	- **Electric field at a particular point is equal to the negative potential gradient at that point** - basically take derivative hahaha
+- Potential gradient defined by equipotential lines - Always drawn perpendicular to field lines.
+	- Similar to [[Gravitational Potential Diagram]]
+	- Equipotential lines are lines of equal electric potential.
+	- Around a radial field, equipotential lines are represented by concentric circles around the charge with increasing radius, with the lines becoming further away from each other.
+	- In a uniform field, they are equally spaced.
+
+##### Formula
+$E = -\Delta V/\Delta r$ 
+
+where 
+- E = electric field strength ($Vm^{-1}$)
+- \V = 
