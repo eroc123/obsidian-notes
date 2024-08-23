@@ -1,0 +1,2 @@
+- Defined as the variation of electric potential at different points in an electrical field
+	- **Electric field at a particular point is equal to the negative gradient of a potential-distance graph at that point.**
