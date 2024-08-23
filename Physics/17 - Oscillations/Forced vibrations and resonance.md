@@ -18,3 +18,4 @@
 	- max amplitude decreases,
 	- peak of amplitude becomes wider. 
 - the **sharpness** of resonance decreases as **degree of damping** increases. 
+- **sharpness** refers to how quickly the amplitude of oscillations decays as you move to either side of the peak.

@@ -1,0 +1,4 @@
+- think of them being similar to [[Gravitational Field Definition|gravitational fields]] honestly
+- **An electric field** is an example of a field of force and is defined as force per unit charge. 
+	- (F/C) vs (F/m) for gravity (Force per unit mass)
+	- 
