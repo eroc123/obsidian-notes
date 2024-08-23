@@ -13,7 +13,13 @@
 			- Dielectric is just a material which is a poor conductor of electricity but good conductor of electric fields.
 	![[Pasted image 20240824012537.png]]
 
-##### Capacitance Formula
+##### Capacitance Formula (two parallel conductors)
 $C = Q/V$
-measured in Farad (F)
-F is a very large unit, so usually 
+- measured in Farad (F)
+- F is a very large unit, so usually microfarads, nano-farads or picoFarads are used.
+- Defined as ratio of charge on an object to its potential.
+
+##### Capacitance Formula (spherical conductor)
+- Capacitance of a charged sphere - defined by the charge per unit potential at the surface of the sphere.
+- Potential V is defined by the potential of an isolated point charge $V=Q/4\pi\epsilon_0 r$ 
+- substitute into capacitance 
