@@ -1,2 +1,5 @@
-- understand that internal energy is determined by the **state of the system** and that it can be expressed as the sum of a random distribution of kinetic and potential energies associated with the molecules of a system
-- 
+- understand that internal energy is determined by the **state of the system** ([[Internal energy of a body]]) and that it can be expressed as the sum of a **random distribution of kinetic and potential energies** associated with the molecules of a system
+- relate a rise in temperature of an object to an increase in its internal energy - proved in [[Kinetic energy of a molecule]]
+- Internal energy of a system can be increased in two ways:
+	- Do work on the system to transfer energy to it (moving its particles)
+	- Increase the temperature (increase kinetic energy of particles)
