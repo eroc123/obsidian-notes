@@ -1,0 +1,3 @@
+- Compare the stages that two oscillating objects are in. Expressed as an angle or as a fraction of a period.
+- **In phase:** Oscillating at the exact same time (must have same frequency)
+- **Antiphase** Oscillating at the exact op
