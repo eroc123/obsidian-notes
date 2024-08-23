@@ -4,4 +4,4 @@
 - ![[Acceleration time graph drawing]]
 - Formula for acceleration of oscillation: $a=-\omega^2 x_0 sin (\omega t)$  
 - substitute in definition for displacement $x = x_0 sin(\omega t)$ 
-- you get the original definition of a 
+- you get the original definition of [[Simple Harmonic Oscillations]] of $a = -\omega ^2 x$ 
