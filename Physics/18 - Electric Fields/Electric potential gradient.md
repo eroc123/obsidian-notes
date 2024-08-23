@@ -7,8 +7,12 @@
 	- In a uniform field, they are equally spaced.
 
 ##### Formula
-$E = -\Delta V/\Delta r$ 
+$E = -\Delta V/\Delta r$ (for positive charges)
+$E = -\Delta V/\Delta r$ (for negative charges)
 
 where 
 - E = electric field strength ($Vm^{-1}$)
-- \V = 
+- $\Delta V$ = change in potential (V)
+- $\Delta r$ = displacement in direction of the field (m)
+
+**test charge is always positive**
