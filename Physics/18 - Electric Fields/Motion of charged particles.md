@@ -1,0 +1,9 @@
+- Charged particle in an electric field will experience a force on it that will cause it to move
+- If a charged particle remains still in a uniform field, it will move parallel/along electric field lines.
+- If charged particle is in motion through a uniform electric field (between two charged parallel plates), it will experience a constant electric force and travel in a parabolic trajectory.
+	- negative will be deflected to positive side with force acting towards positive side.
+	- positive will be deflected to negative side with force acting towards negative side 
+- **only applies to charged particles, uncharged particles like neutrons will pass right through with no direction change**
+- amount of deflection depends on:
+	- **mass** - greater mass = smaller deflection due to larger inertia 
+	- **Charge** 
