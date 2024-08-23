@@ -1,0 +1,4 @@
+- A is amplitude
+- T is time period
+- f is the frequency
+- $\omega$ is the angular frequency 0 
