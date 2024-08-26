@@ -8,4 +8,5 @@
 ##### Graph
 Charge is directly proportional to Voltage
 - capacitance formula Q= VC where C is constant
-- hence the graph is a straight line through
+- hence the graph is a straight line through the origin. 
+- [[Electrical potential energy]] stored in the capacitor can be determined from the **area under the potential-charge graph** - equal to area of right angled triangle.

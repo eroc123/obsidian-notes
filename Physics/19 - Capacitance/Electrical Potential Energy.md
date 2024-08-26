@@ -1,0 +1,4 @@
+- Energy stored in a capacitor is defined with equation: 
+	- $W = 1/2 QV$ (where 1/2 Q * V is the area under the graph) 
+	- Substitute in capacitance ($C = Q/V$) and you get $W = 1/2 C V^2$ 
+	- Capacitance in Farads, V in Volts, Q in Coulombs, W in Joules
