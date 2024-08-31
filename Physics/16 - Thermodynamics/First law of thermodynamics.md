@@ -1,7 +1,7 @@
 
 Describes the **conservation of energy** in a system where energy can be transferred through during work or heating. 
 
-- The first law of thermodynamics states that an **increase in internal energy** of a system is **equal to the sum** of the **energy transferred to it through heating and work done on the system**
+- The first law of thermodynamics states that an **increase in internal en ergy** of a system is **equal to the sum** of the **energy transferred to it through heating and work done on the system**
 
 - $\Delta U = Q + W$
 - Work done by a gas formula:
