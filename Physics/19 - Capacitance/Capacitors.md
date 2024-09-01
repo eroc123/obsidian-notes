@@ -18,6 +18,7 @@ $C = Q/V$
 - measured in Farad (F)
 - F is a very large unit, so usually microfarads, nano-farads or picoFarads are used.
 - Defined as ratio of charge on an object to its potential.
+- If capacitor made of parallel plates, charge Q is the charge on the plates and V is the potential difference across the capacitor
 
 ##### Capacitance Formula (spherical conductor)
 - Capacitance of a charged sphere - defined by the charge per unit potential at the surface of the sphere.
