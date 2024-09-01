@@ -11,7 +11,7 @@
 
 
 ##### Capacitor discharge equations
-- They are of the form $X = X_0e^{-1/RC}$
+- They are of the form $X = X_0e^{-t/RC}$
 - X is current, charge or potential difference (they are [[Capacitor Discharge Operation|exactly identical]])
 - $X_0$ is initial current, charge or potential difference
 - e is the exponential function
