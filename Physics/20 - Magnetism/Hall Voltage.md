@@ -1,0 +1,14 @@
+- product of the hall effect
+- **definition:** The potential difference produced across an electrical conductor when an external magnetic field is applied perpendicular to the current through the conductor.
+- explanation:
+	- when a [[magnetic fields|magnetic field]] is applied perpendicular to the current carrying conductor, a [[Force on a Moving Charge|magnetic force]] is experienced by each of the electrons getting carried by the current. Since each electron experiences the same force in the same direction (because each electron is moving the same way and have the magnetic field being applied in the same direction), they drift to one side of the conductor. This causes a lack of electrons on one side (positive) and a surplus on the other side (negative), creating a potential difference $V_H$ 
+- Can be treated like 2 oppositely charged parallel plates
+						- An electric field gets set up between the two sides, because there is a p.d. Electric field strength is equal to $E=V_H/d$  where $V_H$ is the hall voltage and d is the thickness of the current carrying conductor
+	- One electron has drift velocity v within the conductor - experiences a magnetic force of $F_B = Bqv$ to the right. This is equal to electric force $F_e = QE$ to the left. Equate.
+	- $Qb = BQv$
+	- Substitute again and equate. $V_H/d = Bv$
+	- Current I and drift velocity v is related via equation $I = nAvQ$ A is cross sectional area, n is number density of electrons, Q is charge and v is drift speed
+	- $I/AnQ = v$ 
+	- substitute: $V_h/d = BI/nAq$
+	- $A = dt$ where d is width and t is thickness
+	- $V_h = B * (I/ntq)$  - this formula shows that the smaller the thickness and the smaller the electron number density, the stronger the hall voltage.

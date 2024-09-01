@@ -1,0 +1,10 @@
+- The difference between two energy levels is equal to a specific photon energy
+- This difference is energy is calculated by the equation:
+	- $\Delta E = hf = E_2-E_1$ 
+	- $E_1$ = energy of the lower level (J)
+	- $E_2$ energy of the higher level (J)
+	- $\Delta E$ is energy change.
+	- e.g. if [[absorption spectra|absorbing]] a wavelength of light, energy change will be positive.
+	- opposite is true for [[Physics/22 - Quantum Physics/emission spectra|emission]]
+	- $\lambda = hc/(E_2-E_1)$
+	- 

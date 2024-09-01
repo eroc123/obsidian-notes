@@ -1,0 +1,5 @@
+- **_The fusing together of two small nuclei to produce a larger nucleus_**
+- low mass nuclei e.g. hydrogen and helium can be fused to produce a larger nucleus
+- ![[Pasted image 20240830230929.png]]
+- In order for two nuclei to fuse, both nuclei must have high kinetic energy. Protons inside the nuclei are positively charged - means they repel one another
+- because of high kinetic energy, it takes a lot of [[obsidian-notes/Physics/Excalidraw/force extension|force]] to overcome electrostatic force. Hence these conditions of extremely high energy can only be found in the sun's core

@@ -1,0 +1,2 @@
+- Used when inducing a force from a [[current]] and [[Magnetic fields|magnetic field direction B.]]
+- Opposite is fleming's right hand rule - used in generators when you have a [[obsidian-notes/Math Mechanics/3 - Forces and Newton's laws of motion/Forces diagrams|force]] and a [[Magnetic fields]]. 

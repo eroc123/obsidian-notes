@@ -1,0 +1,9 @@
+- After discovery of [[doppler shift]], astronomers began to realise that almost all the galaxies in the universe are receding
+- space between Earth and galaxies must be expanding
+- expansion stretches out the light waves as they travel through space, shifting them towards the red end of the spectrum
+- More red-shifted the light from a galaxy is, the faster the galaxy is moving away from Earth
+- similar to balloon inflating - similar to stretching of space between galaxies 
+- Expansion of the universe can be compared to dots on an inflating balloon
+	- As balloon is inflated, dots all move away from each other
+	- Similar to rubber stretching when balloon is inflated, space itself is stretching out between galaxies
+	- Just like dots, galaxies move away from each other, however, they themselves do not move.

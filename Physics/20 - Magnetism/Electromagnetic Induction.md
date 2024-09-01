@@ -1,0 +1,2 @@
+- Occurs when an e.m.f. is induced when a conductor moves through a magnetic field
+- 

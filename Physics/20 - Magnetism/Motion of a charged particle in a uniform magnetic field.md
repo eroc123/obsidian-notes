@@ -1,0 +1,7 @@
+- see [[Force on a Moving Charge]]
+- Charged particles in a uniform [[magnetic fields]] which is perpendicular to its direction of travel will travel a circular path.
+- According to [[Force on a Moving Charge]], the force experienced by a moving charge is perpendicular to both its current path and the direction of the magnetic fields. This means that the force that a moving charge experiences causes it to deviate and trace a circular path, with the magnetic force providing the particle's centriuptal force.
+	- $F=mv^2/r$ 
+	- $mv^2/r = BQv$  
+	- $r=mv/BQ$
+	- faster particles move with a larger radius, larger flux density means particles move with a smaller radius.

@@ -1,0 +1,13 @@
+- Electrons in atoms can only have certain discrete energies
+	- energies called electron energy levels
+- Series of stacked horizontal lines increasing in energy
+- **ground state:** lowest energy level avaliable - this is what electrons normally occupy
+- electrons can gain energy and move up energy levels if they absorb energy
+	- colliding with other atoms/electrons
+	- [[Photoelectric effect|absorbing a photon]]
+	- Physical source of energy, e.g. heat
+- **Excitation** - electrons move up an energy level and get excited
+- if they gain enough energy to be removed from the atom completely, it gets **ionized** 
+- if an atom returns to a lower energy state, they release a photon (conservation of energy)
+- ![[Pasted image 20240830113414.png]]
+- values are negative similar to [[Gravitational Potential]] where the highest energy level is 0 [[Electron Volt|eV]] and lower values are negative. Basically its the amount of energy required to escape an atom.

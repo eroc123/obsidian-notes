@@ -1,0 +1,11 @@
+- Atom raised to an excited state by the absorption of a photon
+- white light passes through [[Gas laws|low-pressure]] gas, some light of certain wavelengths are missing
+- is continuous unlike emission spectrum
+	- all dark line spots are wavelengths of light which are absorbed by an atom. 
+	- all coloured spots are wavelengths not absorbed
+	- contains all colours with dark lines at certain lengths
+	- ![[Pasted image 20240830114510.png]]
+	- Dark lines correspond exactly to the differences in energy levels in an atom. (basically)
+	- you must have exactly enough energy required to excite an atom and make it jump from one energy level to another. If not exact, it doesnt absorb.
+	- e.g. red arrow means red wavelength of light is absorbed to jump atom exactly from n=2 to n=3.
+	- [[Calculating Discrete Energies]]

@@ -1,0 +1,3 @@
+- are basically just packets of energy (have no mass) and are a quantum of electromagnetic energy
+	- referred to as a "light particle"
+- This means that energy gets transferred **discretely**, since each photon has a set energy, instead of being trasnferred **continuously**

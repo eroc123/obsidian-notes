@@ -1,0 +1,22 @@
+- Lumonisity L is defined as:
+	- Total power output of radiation emitted by a star
+- Measured in units of Watts (W)
+- Radiant flux intensity F is defined as:
+	- **Observed amount of intensity, or the radiant power transmitted normally through a surface per unit area, of radiation measured on Earth.**
+- Best way to describe:
+	- Luminosity is the total radiation that **leaves the star**
+	- Radiant flux intensity is the amount of radiation **measured on Earth**
+	- Radiant flux intensity is only a small fraction of luminosity, due to inverse square law. (spreads out over distance)
+
+##### Inverse Square Law of Flux
+- light sources which are further away appear fainter because the light it emits is spread out over a greater area
+- The moment light leaves the star, it begins to spread out uniformly through a spherical shell
+	- Surface area of a sphere is equal to $4\pi r^2$ 
+	- radius r of the sphere is equal to distance d between star and Earth
+	- when radiation reaches the Earth, it has been spread over an area of $4\pi d^2$ 
+	- Inverse square law of flux can therefore be calculated using $F=L/(4\pi d^2)$ 
+	- equation assumes no energy is absorbed between the star and Earth and the power from the star radiates uniformly through space
+- Equation tells us:
+	- For a given star, luminosiy is constant
+	- Radiant flux follows an inverse square law
+	- The greater the radiant flux, the close the star is to earth (smaller d)

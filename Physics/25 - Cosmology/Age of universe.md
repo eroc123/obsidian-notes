@@ -1,0 +1,7 @@
+- if galaxies are moving away from each other, then they must have started from the same point as some time in the past
+- If true, universe likely began in an extremely hot, dense singular point which subsequently began to expand very quickly
+	- Idea is known as **Big Bang Theory**
+- Redshift of galaxies and the expansion of universe are the most convincing evidence this is true
+- Data from [[Hubble's Law and the Big Bang Theory]] can be extrapolated back to the point that the universe started expanding (beginning of universe)
+- age of universe $T_0$ is equal to $T_0 = 1/H_0$ 
+- estimates are from 13-14 billiion years

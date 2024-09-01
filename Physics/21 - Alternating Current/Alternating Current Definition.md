@@ -1,0 +1,13 @@
+- Defined as: A current which periodically varies from positive to negative and changes its magnitude continuously with time
+- Direction of alternating current varies every half-cycle
+- is sinusodal - electrons in a wire carrying a.c. move back and fourth with [[harmonic motion|simple harmonic motion]] 
+	- Time period of alternating current is described as $T = 1/f$
+	- T is time period in s f is frequency is in $s^{-1}$
+	- Peak current ($I_0$) or peak voltage ($V_0$ ) can be determined from amplitude of the graph, defined as maximum value of alternating current or voltage
+- Mains electricity is supplied as alternating current
+	- Power stations produce alternating current
+	- This is the type of current supplied when devices are plugged into sockets
+##### Sinusodal representations
+- $I=I_0 sin(\omega t)$
+- where $\omega$ is angular frequency ($rads^{-1}$) of the supply
+- Similar equation can be used for voltage 

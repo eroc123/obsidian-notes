@@ -1,0 +1,14 @@
+- Relates observed wavelength of light from a star to its surface temperature - states:
+	- The black body radiation curve for different temperatures peaks at a wavelength which is inversely proportional to the temperature
+- can be written as:
+	- $\lambda_{max} \propto 1/T$ 
+	- temperature is inversely proportional to wavelength of light (higher temp, shorter wavelength)
+	- $\lambda_{max}$ is max wavelength emitted by the star at peak intensity
+- black-body object is an object which:
+	- Absorbs all radiation that falls on it, and is also a good emitter
+	- Does not reflect or transmit any radiation
+- Black-body is theoretical, however, stars are the best approximation there is
+- Radiation emitted from a black-body has a characteristic spectrum that is determined by the temperature alone.
+- **Wien's law full equation:** 
+	- $\lambda_{max}T = 2.9 * 10^{-3}$ 
+	- Higher the temperature of a body, the shorter the wavelength at the peak intensity, so hotter stars tend to be white or blue and cooler stars red or yellow

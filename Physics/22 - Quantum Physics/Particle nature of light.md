@@ -1,0 +1,3 @@
+- Classical wave theory, electromagnetic radiation is seen as a wave, because it expresses phenomena like [[obsidian-notes/Physics/8 - Superposition/Diffraction|Diffraction]] and [[obsidian-notes/Physics/8 - Superposition/Interference and coherence|Interference]] 
+- However, it also expresses phenomena like the [[photoelectric effect]] and the [[atomic line spectra]]
+- 

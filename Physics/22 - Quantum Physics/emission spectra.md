@@ -1,0 +1,13 @@
+- electron transitions from higher to lower energy level it causes the emission of a photon
+- Each transition correlates with different spectrum of light and this corrolates with a line in the spectrum
+- contains set of discrete wavelengths represented by coloured lines on a black background (black means those photons of those wavelengths are not emitted)
+- Each emitted photon has a wavelength which is associated with a discrete change in energy according to this equation:
+	- $\Delta E = hf =hc/\lambda$ 
+	- $\Delta E$ is change in energy
+	- $h$ is plancks constant
+	- $f$ is frequency of photon
+	- $c$ is speed of light
+	- $\lambda is wavelength$
+- its not continuous energy change - it is discrete. 
+- ![[Pasted image 20240830114130.png]]
+- each arrow shows what [[wavelength]] photon is emitted from the change in energy level. e.g. deep blue is released from de-exciting an electron from n=5 to n=2. Red is released from de-exciting from n=3 to n=2. makes sense because red has [[Physics/22 - Quantum Physics/Photon|less energy]] than blue (red has lower [[Physics/7 - Waves/Frequency|Frequency]] than blue.)

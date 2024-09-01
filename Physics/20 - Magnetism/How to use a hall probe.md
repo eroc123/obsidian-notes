@@ -1,0 +1,6 @@
+- Hall probe is used to measure [[Magnetic Flux Density Definition|magnetic flux density]] between two magnets based on the [[hall voltage|hall effect]]
+- ![[Pasted image 20240827015222.png]]
+- The flat surface of the probe must be completely perpendicular to the magnetic field lines
+- Probe is connected to a voltmeter which measures hall voltage
+	- according to the [[Force on a Moving Charge|derived formula before]], if the flat surface is not held perpendicular to the field lines, the voltage reading will be reduced. 
+	- since hall voltage is directly proportional to magnetic flux density, the flux density of the magnets can be obtained.

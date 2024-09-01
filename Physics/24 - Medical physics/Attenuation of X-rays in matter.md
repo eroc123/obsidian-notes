@@ -1,0 +1,7 @@
+- bones absorb X-ray radiation
+- why they appear white on X-ray photographs
+- When [[obsidian-notes/Physics/7 - Waves/Collimated|Collimated]] x-rays pass through the patients body, they are absorbed and scattered
+- Attenuation can be calculated with this formula: $I=I_0e^{-\mu x}$ 
+	- similar to [[Attenuation of ultrasound in matter]]
+- attenuation decays exponentially and also depends on the energy of the X-ray photons.
+- The thickness of material  that will reduce the X-ray or a particular frequency to half its original value is known as the **half thickness**

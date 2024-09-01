@@ -1,0 +1,14 @@
+- [[Doppler effect]] - defined as the apparent change in wavelength or frequency of the radiation from a source due to its relative motion away or toward the observer
+- On Earth, doppler effect of sound can be easily observed when [[Physics/Excalidraw/doppler effect|sound waves ]]move past an observer at a notable speed
+- In space, Doppler effect of light can be observed when spectra of distant stars and galaxies are observed, known as
+	- Redshift if the object is moving away from the Earth
+		- The fractional increase in the wavelength due to the source and observer receding from each other
+	- Blueshift if the object is moving toward Earth
+- Non-relativistic galaxies (moving much lower than lightspeed), Doppler redshift can be calculated using:
+	- $\Delta \lambda/ \lambda = \Delta f/f = v/c$ 
+	- $\Delta \lambda$ is shift in wavelength
+	- $\lambda$ is wavelength emitted from source
+	- $\Delta f$ is shift in frequency
+	- f is frequency emitted from the source Hz
+	- v = speed of recession
+	- c is speed of light in vacuum

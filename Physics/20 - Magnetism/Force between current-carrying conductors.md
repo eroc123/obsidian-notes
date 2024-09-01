@@ -1,0 +1,4 @@
+- Two straight parallel wires with same current direction - magnetic field lines will "merge" with each other, causing them to attract
+- Two straight parallel wires with opposite current direction - magnetic field lines will repel.
+- ![[Pasted image 20240827023359.png]]
+- Magnitude of force depends on wire length and magnitude of current

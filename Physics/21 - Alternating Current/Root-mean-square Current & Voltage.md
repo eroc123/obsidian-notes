@@ -1,0 +1,6 @@
+- Root-mean-square (r.m.s.) values of current or voltage are used to compare a.c. current to d.c. current or a.c. voltage to d.c. voltage
+- defined as: **The value of a constant current that produces the same power in a resistor as the alternating current**
+- $I_{r.m.s} = I_0/\sqrt 2$ where $I_0$ is peak current 
+- For voltage: **The value of a constant voltage that produces the same power in a resistor as the alternating voltage**
+- $V_{r.m.s} = V_0/\sqrt 2$ 
+- r.m.s value general definition: **The steady direct current, or voltage that delivers the same average power in a resistor as the alternating current, or voltage**

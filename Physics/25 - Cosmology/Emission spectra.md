@@ -1,0 +1,8 @@
+- Uses properties of quantum physics - [[Physics/22 - Quantum Physics/emission spectra|emission spectra]] and [[absorption spectra]]
+- astronauts limited in methods they have to investigate space objects. All techniques used involve analysing light emitted from the star or galaxy. 
+- common elements in stars - hydrogen and helium - absorb and emit very specific spectrums of light
+- hence astronauts can analyze the absorption spectra and see characteristic lines to determine the element composition of various astronomical objects.
+- **however**, when measuring light from distance objects, the spectral lines will be shifted due to [[doppler shift]]. 
+	- spectral lines from distant objects like galaxies must be compared with the spectral lines from the sun and shifted accordingly.
+	- usually galaxies further away have lines in spectra which show an increase in wavelength (more red)
+	- the lines are moved, or shifted, towards the red end of the spectrum
