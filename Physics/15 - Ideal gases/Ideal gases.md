@@ -1,6 +1,7 @@
 - Gases that follow the [[Gas laws]] directly
 	- Suggests that the **collisions between gas molecules** are **perfectly elastic** (no kinetic energy lost) and there are **no other interactions**
 	- Use the **kelvin scale** in these formulas. Kelvin and celsius are directly proportional with a 1:1 ratio. Just add 273.15 to celsius to get kelvin
+- mark scheme definition: gas that obeys $pV 
 
 - Combine all formulas from the [[Gas laws]] to get:
 	- $pV/T = k$ where k depends on the amount of gas used in moles.
