@@ -23,6 +23,10 @@ Variable resistor used to set up a potentiometer circuit -
 the resistance can be 
 varied to vary potential difference across LED ^QZxTZyWY
 
+Diffraction grating with a known
+spacing and a screen behind with a 
+known distance from the grating. ^AkUXccji
+
 %%
 # Drawing
 ```json
@@ -2662,6 +2666,160 @@ varied to vary potential difference across LED ^QZxTZyWY
 			"lineHeight": 1.25
 		},
 		{
+			"id": "eHtSf8duNrmub0uOkHXA8",
+			"type": "rectangle",
+			"x": -484.2332712630241,
+			"y": -296.0811546840958,
+			"width": 222.96296296296293,
+			"height": 211.85185185185185,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1519630024,
+			"version": 31,
+			"versionNonce": 1467379912,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1728904528848,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "x9h9RR5BatGAuTF2OpcsG",
+			"type": "arrow",
+			"x": -522.8806142581931,
+			"y": 75.02995642701529,
+			"width": 229.79066022544282,
+			"height": 192.5281803542673,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1509795768,
+			"version": 65,
+			"versionNonce": 1902569928,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728904528848,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					229.79066022544282,
+					-192.5281803542673
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "AkUXccji",
+			"type": "text",
+			"x": -573.122160151913,
+			"y": 99.47440087145975,
+			"width": 353.1197509765625,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2093366472,
+			"version": 189,
+			"versionNonce": 450938568,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728904547947,
+			"link": null,
+			"locked": false,
+			"text": "Diffraction grating with a known\nspacing and a screen behind with a \nknown distance from the grating.",
+			"rawText": "Diffraction grating with a known\nspacing and a screen behind with a \nknown distance from the grating.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Diffraction grating with a known\nspacing and a screen behind with a \nknown distance from the grating.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Cy2_dueDJXIuuzmrKHH4k",
+			"type": "line",
+			"x": -286.1012261744572,
+			"y": -293.2450033153358,
+			"width": 0,
+			"height": 204.34782608695656,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 121785800,
+			"version": 40,
+			"versionNonce": 536873144,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728904521600,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					204.34782608695656
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "LYyrJzxxCqTtn74l-kcWX",
 			"type": "line",
 			"x": -188.75,
@@ -4513,6 +4671,50 @@ varied to vary potential difference across LED ^QZxTZyWY
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "K1mepzOy3hbHtxGuHne0k",
+			"type": "line",
+			"x": -469.41845644820927,
+			"y": -299.0441176470588,
+			"width": 0,
+			"height": 208.14814814814815,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 134960056,
+			"version": 38,
+			"versionNonce": 2091542216,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1728904510023,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					208.14814814814815
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -4530,10 +4732,10 @@ varied to vary potential difference across LED ^QZxTZyWY
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 371.15384615384636,
-		"scrollY": 776.7904202279207,
+		"scrollX": 865.6664435657616,
+		"scrollY": 494.57652505446623,
 		"zoom": {
-			"value": 0.6499999999999997
+			"value": 1.15
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
