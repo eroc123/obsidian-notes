@@ -27,10 +27,15 @@ Diffraction grating with a known
 spacing and a screen behind with a 
 known distance from the grating. ^AkUXccji
 
-Board on the back of 
-the set up  ^0yIOV70D
+Screen behind the diffraction
+grating ^0yIOV70D
 
 Distance d to LED ^2vvctyCc
+
+distance D from the grating to
+the screen  ^qqcKPnDD
+
+clamps ^2ctNoUSC
 
 %%
 # Drawing
@@ -2485,10 +2490,10 @@ Distance d to LED ^2vvctyCc
 		{
 			"id": "rNt_OT0WY3ZsW6swuynQJ",
 			"type": "arrow",
-			"x": -204.41176470588238,
-			"y": -371.9968681917212,
-			"width": 40,
-			"height": 71.76470588235293,
+			"x": -196.50266162375368,
+			"y": -419.6891758840289,
+			"width": 36.83930161784349,
+			"height": 115.10460449368594,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2503,11 +2508,11 @@ Distance d to LED ^2vvctyCc
 				"type": 2
 			},
 			"seed": 1836691128,
-			"version": 29,
-			"versionNonce": 983542728,
+			"version": 67,
+			"versionNonce": 1652640952,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728904873337,
+			"updated": 1728904964703,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2516,8 +2521,8 @@ Distance d to LED ^2vvctyCc
 					0
 				],
 				[
-					40,
-					71.76470588235293
+					36.83930161784349,
+					115.10460449368594
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2537,8 +2542,8 @@ Distance d to LED ^2vvctyCc
 		{
 			"id": "R32csQ5Z",
 			"type": "text",
-			"x": -330.2941176470589,
-			"y": -461.4086328976036,
+			"x": -310.2941176470589,
+			"y": -509.10094058991126,
 			"width": 203.91981506347656,
 			"height": 75,
 			"angle": 0,
@@ -2553,8 +2558,8 @@ Distance d to LED ^2vvctyCc
 			"frameId": null,
 			"roundness": null,
 			"seed": 974447032,
-			"version": 122,
-			"versionNonce": 22533304,
+			"version": 141,
+			"versionNonce": 1313774264,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2562,7 +2567,7 @@ Distance d to LED ^2vvctyCc
 					"type": "arrow"
 				}
 			],
-			"updated": 1728904873337,
+			"updated": 1728904964702,
 			"link": null,
 			"locked": false,
 			"text": "Voltmeter measuring \npotential difference\nacross LED",
@@ -2844,7 +2849,7 @@ Distance d to LED ^2vvctyCc
 			"type": "text",
 			"x": -618.0803409484993,
 			"y": -472.2892313976873,
-			"width": 225.55984497070312,
+			"width": 283.499755859375,
 			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2858,22 +2863,22 @@ Distance d to LED ^2vvctyCc
 			"frameId": null,
 			"roundness": null,
 			"seed": 1552294344,
-			"version": 45,
-			"versionNonce": 1400065736,
+			"version": 82,
+			"versionNonce": 459973576,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728904873337,
+			"updated": 1728904952609,
 			"link": null,
 			"locked": false,
-			"text": "Board on the back of \nthe set up ",
-			"rawText": "Board on the back of \nthe set up ",
+			"text": "Screen behind the diffraction\ngrating",
+			"rawText": "Screen behind the diffraction\ngrating",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 43,
 			"containerId": null,
-			"originalText": "Board on the back of \nthe set up ",
+			"originalText": "Screen behind the diffraction\ngrating",
 			"lineHeight": 1.25
 		},
 		{
@@ -3043,6 +3048,388 @@ Distance d to LED ^2vvctyCc
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "Distance d to LED",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "3L2tj4wqfb2OCtK8VbsGF",
+			"type": "line",
+			"x": -441.15726402542236,
+			"y": -324.5969237053796,
+			"width": 152.30769230769232,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1429634744,
+			"version": 67,
+			"versionNonce": 1101951160,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728904940669,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					152.30769230769232,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "qqcKPnDD",
+			"type": "text",
+			"x": -515.0034178715763,
+			"y": -393.82769293614876,
+			"width": 310.73974609375,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 412745160,
+			"version": 87,
+			"versionNonce": 671850696,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728904967303,
+			"link": null,
+			"locked": false,
+			"text": "distance D from the grating to\nthe screen ",
+			"rawText": "distance D from the grating to\nthe screen ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "distance D from the grating to\nthe screen ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "OPddGrKLHNZS7tZx8hbdr",
+			"type": "line",
+			"x": -491.9264947946532,
+			"y": -103.05846216691816,
+			"width": 1.5384615384615472,
+			"height": 32.30769230769238,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 993196216,
+			"version": 8,
+			"versionNonce": 1699240136,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905007192,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.5384615384615472,
+					32.30769230769238
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ZjAzCavVmd5HOQ8Nteh8E",
+			"type": "line",
+			"x": -442.6957255638839,
+			"y": -115.36615447461043,
+			"width": 1.5384615384615472,
+			"height": 44.61538461538464,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1252311224,
+			"version": 17,
+			"versionNonce": 729116616,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905009432,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.5384615384615472,
+					44.61538461538464
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "Q-z2HfHzTmmCi9GpwUGGl",
+			"type": "line",
+			"x": -296.5418794100378,
+			"y": -190.75076985922578,
+			"width": 1.5384615384615472,
+			"height": 41.53846153846155,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2094365112,
+			"version": 8,
+			"versionNonce": 380839880,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905011433,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.5384615384615472,
+					41.53846153846155
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "2DFlqsRkLDziCkMabMLss",
+			"type": "line",
+			"x": -267.3111101792686,
+			"y": -192.28923139768733,
+			"width": 0,
+			"height": 43.076923076923094,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1358315960,
+			"version": 15,
+			"versionNonce": 1714417864,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905013592,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					43.076923076923094
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "mq2WLHhDaXFhoLUTPjJkr",
+			"type": "line",
+			"x": -201.15726402542242,
+			"y": -166.13538524384114,
+			"width": 0,
+			"height": 47.69230769230762,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 493903560,
+			"version": 8,
+			"versionNonce": 2113218488,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905016186,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					47.69230769230762
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "F3ELjc5h7S1GQUKsezFg4",
+			"type": "line",
+			"x": -165.77264864080706,
+			"y": -163.05846216691816,
+			"width": 0,
+			"height": 38.46153846153845,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 999233224,
+			"version": 11,
+			"versionNonce": 1770285752,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905018416,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					38.46153846153845
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "2ctNoUSC",
+			"type": "text",
+			"x": -588.8495717177301,
+			"y": -47.6738467823028,
+			"width": 62.01994323730469,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 234087368,
+			"version": 7,
+			"versionNonce": 1524904632,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728905021346,
+			"link": null,
+			"locked": false,
+			"text": "clamps",
+			"rawText": "clamps",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "clamps",
 			"lineHeight": 1.25
 		},
 		{
